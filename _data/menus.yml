@@ -1,0 +1,23 @@
+# Top Menu
+topmenu:
+
+- title: Jak U School
+  url: ""
+
+- title: Quiénes Somos
+  url: "about/"
+
+- title: Contacto
+  url: "contact/"
+
+# Footer Menu
+footermenu:
+
+- title: Jak U School
+  url: ""
+
+- title: Política de Privacidad
+  url: "privacy-policy/"
+
+- title: Contacto
+  url: "contact/"
