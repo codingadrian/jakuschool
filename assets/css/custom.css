@@ -12,3 +12,8 @@ body {}
 .navbar-brand {
     margin-right: 0;
 }
+
+#mc_embed_signup .foot {
+    grid-template-columns: 4fr !important;
+    width: 100% !important;
+}
