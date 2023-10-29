@@ -16,9 +16,9 @@ El método consiste en una búsqueda activa y participativa del conocimiento. In
 
 Es un enfoque de aprendizaje centrado en hacer preguntas, reflexionar y buscar respuestas por uno mismo. En lugar de proporcionar respuestas directas, ayuda a formar el pensamiento crítico. Aplicar este método en tu proceso de aprendizaje implica:
 
-1. Hacer Preguntas: Cuestiona todo, en especial, preguntas abiertas que pueden generar respuestas más profundas.
-2. Diálogo Abierto: Dialoga, habla en voz alta y discute contigo mismo; analiza todas tus perspectivas. Haz preguntas a otros, y comparte las tuyas
-3. Reflexión Personal: El repaso, el volver a preguntar las preguntas que no se hicieron y las que surgen después del aprendizaje.
+1. **Hacer Preguntas**: Cuestiona todo, en especial, preguntas abiertas que pueden generar respuestas más profundas.
+2. **Diálogo Abierto**: Dialoga, habla en voz alta y discute contigo mismo; analiza todas tus perspectivas. Haz preguntas a otros, y comparte las tuyas
+3. **Reflexión Personal**: El repaso, el volver a preguntar las preguntas que no se hicieron y las que surgen después del aprendizaje.
 
 Imagina a Juan, un joven de 28 años que trabaja en una pequeña empresa y está interesado en mejorar sus habilidades en la gestión de proyectos. En lugar de simplemente consumir información de manera pasiva, Juan decide aplicar el método socrático para profundizar su comprensión y desarrollar habilidades más sólidas.
 
