@@ -7,13 +7,13 @@ image: assets/images/1.jpg
 ---
 <div align="justify">
 
-<div>
-Si estás leyendo esto, es porque estás en una búsqueda permanente de conocimiento. No es posible saberlo todo, pero eso no quiere decir que no se pueda intentar. Los griegos son famosos por ese deseo de saber más. En este blog post, exploraremos el **método socrático** y como puedes aplicarlo en tu proceso de aprendizaje para potenciar tu comprensión y pensamiento crítico.
-</div>
+<p>
+Si estás leyendo esto, es porque estás en una búsqueda permanente de conocimiento. No es posible saberlo todo, pero eso no quiere decir que no se pueda intentar. Los griegos son famosos por ese deseo de saber más. En este blog post, exploraremos el <strong>método socrático</strong> y como puedes aplicarlo en tu proceso de aprendizaje para potenciar tu comprensión y pensamiento crítico.
+</p>
 
-<div>
+<p>
 ¿Alguna vez te has sentido frustrado por no entender un concepto?, ¿has olvidado lo que aprendes después de estudiar? Yo sí, y esto es muy común. Una forma de evitarlo es con el uso de preguntas, que son primordiales para una comprensión profunda.
-</div>
+</p>
 
 En el sistema de educación tradicional memorizamos para pasar el examen sin cuestionar el por qué o el cómo. No comprendemos, más bien, olvidamos en poco tiempo lo que habíamos aprendido. Es aquí donde el método socrático nos ayuda, convirtiéndose en una estrategia para ganar conocimiento.
 
