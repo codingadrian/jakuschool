@@ -12,3 +12,7 @@ body {}
 .navbar-brand {
     margin-right: 0;
 }
+
+.article-post {
+text-align: justify;
+}
