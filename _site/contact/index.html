@@ -134,19 +134,23 @@
   </div>
 
   <div class="article-post serif-font">
-    <form action="https://formspree.io/jakuschool@gmail.com" method="POST">    
-<p class="mb-4">Gracias por tu interés en ponerte en contacto conmigo. Por favor, envía tu mensaje aquí. Te responderé lo antes posible.</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Nombre*" required>
-</div>
-<div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="Correo electronico*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Mensaje*" required></textarea>    
-<input class="btn btn-dark" type="submit" value="Enviar">
-</form>
+    <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/1900bf95aa15ad308f6ac4ad04280de5?embedded=1"></div>
+
+<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+<script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
+
+<!-- Get notified when the form is submitted, add your own code below: -->
+<script>
+const formkeepEmbed = document.querySelector('#formkeep-embed')
+
+formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
+  console.log('Submitting form...')
+})
+
+formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
+  console.log('Submitted form...')
+})
+</script>
   </div>
 
   

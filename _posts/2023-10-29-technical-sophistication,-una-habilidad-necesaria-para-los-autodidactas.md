@@ -9,6 +9,7 @@ image: assets/images/1.jpg
 ¿Alguna vez has experimentado esa sensación de asombro al descubrir una palabra nueva que describe perfectamente algo que has estado haciendo durante mucho tiempo? Es como si el universo estuviera validando tus esfuerzos, revelando una verdad que antes pasaba desapercibida. Mi propio encuentro con el concepto de *"technical sophistication"* ocurrió mientras exploraba el mundo de la programación en el sitio web de Michael Hartl, [learnenough.com](https://www.learnenough.com/).
 
 ![Diagram of Technical Sophistication](/assets/images/technical-sophistication.webp)
+*Cortesía de [XKCD Comics](https://xkcd.com/627/)*
 
 El diagrama que representaba la **sofisticación técnica** me hizo sonreír por su asombrosa precisión, pero lo que realmente me impactó fue la profundidad de su significado. Esta experiencia me llevó a reflexionar sobre la importancia de esta habilidad en el mundo de los autodidactas y cómo puede moldear nuestras trayectorias de aprendizaje.
 
