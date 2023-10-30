@@ -3,7 +3,7 @@ layout: post
 title:  "¿Cómo puede un autodidacta aplicar el método socrático?"
 author: adrian
 categories: [ estudiar, nota ]
-image: assets/images/1.jpg
+image: assets/images/blogs/old_book.png
 ---
 
 Si estás leyendo esto, es porque estás en una búsqueda permanente de conocimiento. No es posible saberlo todo, pero eso no quiere decir que no se pueda intentar. Los griegos son famosos por ese deseo de saber más. En este blog post, exploraremos el **método socrático** y como puedes aplicarlo en tu proceso de aprendizaje para potenciar tu comprensión y pensamiento crítico.

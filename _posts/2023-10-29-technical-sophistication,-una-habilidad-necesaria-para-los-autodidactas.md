@@ -3,7 +3,7 @@ layout: post
 title:  "Technical Sophistication, una habilidad necesaria para los autodidactas"
 author: adrian
 categories: [ estudiar, nota ]
-image: assets/images/1.jpg
+image: assets/images/blogs/an_image_of_a_tablet_with_a_diagram.png
 ---
 
 ¿Alguna vez has experimentado esa sensación de asombro al descubrir una palabra nueva que describe perfectamente algo que has estado haciendo durante mucho tiempo? Es como si el universo estuviera validando tus esfuerzos, revelando una verdad que antes pasaba desapercibida. Mi propio encuentro con el concepto de *"technical sophistication"* ocurrió mientras exploraba el mundo de la programación en el sitio web de Michael Hartl, [learnenough.com](https://www.learnenough.com/).
