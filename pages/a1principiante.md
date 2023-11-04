@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A1 - Principiante
-permalink: "/a1-principiante/"
+permalink: "/a1principiante/"
 image: assets/images/screenshot.png
 ---
 

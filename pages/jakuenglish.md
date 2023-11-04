@@ -94,7 +94,7 @@ Si ya sabes cuál es tu nivel de inglés, entonces revisa lo que tienes que hace
 
 <!-- ENGLISH BADGES -->
 <div class="medals">
-  <a href="https://github.com/codingadrian/jakuschool/blob/main/pages/a1-principiante.md">
+  <a href="/pages/a1principiante/">
     <div class="medal a1">
       <span>A1</span>
     </div>
