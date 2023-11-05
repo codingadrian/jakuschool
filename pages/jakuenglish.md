@@ -94,32 +94,32 @@ Si ya sabes cuál es tu nivel de inglés, entonces revisa lo que tienes que hace
 
 <!-- ENGLISH BADGES -->
 <div class="medals">
-  <a href="/pages/a1principiante/">
+  <a href="/a1principiante/">
     <div class="medal a1">
       <span>A1</span>
     </div>
   </a>
-  <a href="">
+  <a href="/a2basico/">
     <div class="medal a1">
       <span>A2</span>
     </div>
   </a>
-  <a href="">
+  <a href="/b1intermedio/">
     <div class="medal a1">
       <span>B1</span>
     </div>
   </a>
-  <a href="">
+  <a href="/b2intermedioalto">
     <div class="medal a1">
       <span>B2</span>
     </div>
   </a>
-  <a href="">
+  <a href="/c1avanzado/">
     <div class="medal a1">
       <span>C1</span>
     </div>
   </a>
-  <a href="">
+  <a href="/c2competente/">
     <div class="medal a1">
       <span>C2</span>
     </div>
