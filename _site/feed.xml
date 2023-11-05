@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es_cr"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es_cr" /><updated>2023-11-05T00:16:00+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jak U School</title><author><name>Adrian Robles</name></author><entry><title type="html">Costa Rica, English Spoken.</title><link href="http://localhost:4000/costa-rica-english-spoken/" rel="alternate" type="text/html" title="Costa Rica, English Spoken." /><published>2023-10-29T00:00:00+00:00</published><updated>2023-10-29T00:00:00+00:00</updated><id>http://localhost:4000/costa-rica-english-spoken</id><content type="html" xml:base="http://localhost:4000/costa-rica-english-spoken/"><![CDATA[<p>Recuerdo que cuando era niño caminaba por las aceras y veía un anuncio en las ventanas de las tiendas; apenas aprendía a leer, pero entendía que esas palabras no eran español. Le pregunté a mi madre, que lo leyó para mí, topándose con mi incredulidad:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es_cr"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es_cr" /><updated>2023-11-05T15:12:26+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jak U School</title><author><name>Adrian Robles</name></author><entry><title type="html">Construyendo tu sitio web con GitHub Pages y Jekyll</title><link href="http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll/" rel="alternate" type="text/html" title="Construyendo tu sitio web con GitHub Pages y Jekyll" /><published>2023-11-04T00:00:00+00:00</published><updated>2023-11-04T00:00:00+00:00</updated><id>http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll</id><content type="html" xml:base="http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll/"><![CDATA[<p>En la era digital actual, tener un sitio web personal o profesional es casi una necesidad. Sirve como tu identidad digital, mostrando tu trabajo, portafolio, blog o cualquier contenido que quieras compartir con el mundo. Si bien existen varias formas de crear y alojar un sitio web, uno de los métodos más eficientes y sencillos es utilizar GitHub Pages y Jekyll. En este blog, te guiaré a través del proceso de creación de tu sitio web paso a paso.</p>
+
+<h2 id="qué-es-github-pages">¿Qué es GitHub Pages?</h2>
+
+<p>GitHub Pages es un servicio de alojamiento gratuito proporcionado por GitHub. Te permite alojar un sitio web estático directamente desde sus repositorios de GitHub. Si no estás familiarizado con los sitios web estáticos, son páginas web que no dependen del procesamiento del lado del servidor ni de bases de datos. En cambio, están prediseñados y se ofrecen tal cual a los visitantes, lo que los hace rápidos y seguros.</p>
+
+<h2 id="qué-es-jekyll">¿Qué es Jekyll?</h2>
+
+<p>Jekyll es un generador de sitios estáticos que facilita la creación y el mantenimiento de sitios web estáticos. Toma tu contenido, escrito en Markdown, y aplica plantillas para generar páginas HTML. Jekyll simplifica el proceso de desarrollo de sitios web y es perfecto para GitHub Pages.</p>
+
+<h2 id="empezando">Empezando</h2>
+
+<p>Para crear tu sitio web usando GitHub Pages y Jekyll, sigue estos pasos:</p>
+
+<h3 id="paso-1-crea-un-repositorio-de-github">Paso 1: crea un repositorio de GitHub</h3>
+
+<ol>
+  <li>Si no tienes una cuenta de GitHub, regístrate para obtener una en <a href="https://github.com/">https://github.com</a>.</li>
+  <li>Inicia sesión en tu cuenta de GitHub y crea un nuevo repositorio.</li>
+  <li>Asigna un nombre a tu repositorio con el siguiente formato: <code>nombre-de-sitio-web.github.io</code>.</li>
+</ol>
+
+<h3 id="paso-2-clona-tu-repositorio">Paso 2: clona tu repositorio</h3>
+
+<ol>
+  <li>Después de crear su repositorio, abre una terminal.</li>
+  <li>Utiliza el comando <code>git clone</code> para clonar tu repositorio en tu máquina local. Reemplaza tu nombre de usuario y el nombre del repositorio.</li>
+</ol>
+
+<pre><code class="language-bash"> git clone https://github.com/tunombredeusuario/nombredesitioweb.github.io.git
+</code></pre>
+<h3 id="paso-3-instala-jekyll">Paso 3: instala Jekyll</h3>
+
+<ol>
+  <li>Asegúrate de tener Ruby instalado en tu computadora. Puedes comprobar si Ruby está instalado ejecutando:</li>
+</ol>
+
+<pre><code class="language-bash">ruby -v
+</code></pre>
+
+<p>Si Ruby no está instalado, puede descargarlo desde <a href="https://www.ruby-lang.org/en/documentation/installation/">Ruby - Instalación</a> o usar un administrador de versiones como RVM (Ruby Version Manager) para instalarlo.</p>
+
+<ol>
+  <li>Instala Jekyll y sus dependencias ejecutando:</li>
+</ol>
+
+<pre><code class="language-bash">gem install jekyll bundler
+</code></pre>
+
+<h3 id="paso-4-crea-tu-sitio-jekyll">Paso 4: crea tu sitio Jekyll</h3>
+
+<ol>
+  <li>Cambia el directorio a tu repositorio de GitHub Pages clonado:</li>
+</ol>
+
+<pre><code class="language-bash">cd nombredetusitioweb.github.io
+</code></pre>
+
+<ol>
+  <li>Crea un nuevo sitio Jekyll:</li>
+</ol>
+
+<pre><code class="language-bash">jekyll new .
+</code></pre>
+
+<h3 id="paso-5-personaliza-tu-sitio">Paso 5: personaliza tu sitio</h3>
+
+<ol>
+  <li>
+    <p>Abre el archivo <code>_config.yml</code> en tu repositorio y realiza cambios para configurar tu sitio, como cambiar el título y la descripción del sitio.</p>
+  </li>
+  <li>
+    <p>Crea páginas y publicaciones de blog (posts) agregando archivos Markdown a los <code>_posts</code> y directorios raíz.</p>
+  </li>
+  <li>
+    <p>Elije un tema de Jekyll o crea tu propio diseño editando HTML y CSS en las carpetas <code>_layouts</code> y <code>_sass</code>.</p>
+  </li>
+</ol>
+
+<h3 id="paso-6-obtén-una-vista-previa-de-tu-sitio">Paso 6: obtén una vista previa de tu sitio</h3>
+
+<ol>
+  <li>Inicia un servidor Jekyll local para obtener una vista previa de tu sitio ejecutando:</li>
+</ol>
+
+<pre><code class="language-bash">bundle exec jekyll serve
+</code></pre>
+
+<p>Tu sitio será accesible en http://localhost:4000.</p>
+
+<h3 id="paso-7-envia-cambios-a-github">Paso 7: envia cambios a GitHub</h3>
+
+<ol>
+  <li>Haz un “commit” de tus cambios y envíalos a tu repositorio de GitHub:</li>
+</ol>
+
+<pre><code class="language-bash">git add .
+git commit -m "Initial commit"
+git push origin main
+</code></pre>
+
+<h3 id="paso-8-publica-tu-sitio">Paso 8: publica tu sitio</h3>
+
+<ol>
+  <li>Visita tu repositorio de GitHub (https://github.com/yourusername/yourusername.github.io).</li>
+  <li>En la pestaña “Configuración”, desplácese hacia abajo hasta la sección “Páginas de GitHub”.</li>
+  <li>Seleccione la rama principal (main branch) como fuente y su sitio se publicará en <strong>https://yourusername.github.io</strong>.</li>
+</ol>
+
+<p>Crear un sitio web con GitHub Pages y Jekyll es una manera fantástica de crear una presencia profesional en línea. Es rentable, rápido y seguro, lo que lo convierte en una opción popular entre los desarrolladores y creadores de contenido. Si sigues los pasos descritos en esta guía, podrás tener tu sitio web en funcionamiento en poco tiempo. Ya sea que estés creando un portafolio, un blog o un sitio web personal, esta combinación de herramientas ofrece una solución poderosa y fácil de usar para sus necesidades de desarrollo web.</p>]]></content><author><name>adrian</name></author><category term="Jekyll" /><category term="GitHub Pages" /><category term="tutorial" /><summary type="html"><![CDATA[En la era digital actual, tener un sitio web personal o profesional es casi una necesidad. Sirve como tu identidad digital, mostrando tu trabajo, portafolio, blog o cualquier contenido que quieras compartir con el mundo. Si bien existen varias formas de crear y alojar un sitio web, uno de los métodos más eficientes y sencillos es utilizar GitHub Pages y Jekyll. En este blog, te guiaré a través del proceso de creación de tu sitio web paso a paso.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/4.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Costa Rica, English Spoken.</title><link href="http://localhost:4000/costa-rica-english-spoken/" rel="alternate" type="text/html" title="Costa Rica, English Spoken." /><published>2023-10-29T00:00:00+00:00</published><updated>2023-10-29T00:00:00+00:00</updated><id>http://localhost:4000/costa-rica-english-spoken</id><content type="html" xml:base="http://localhost:4000/costa-rica-english-spoken/"><![CDATA[<p>Recuerdo que cuando era niño caminaba por las aceras y veía un anuncio en las ventanas de las tiendas; apenas aprendía a leer, pero entendía que esas palabras no eran español. Le pregunté a mi madre, que lo leyó para mí, topándose con mi incredulidad:</p>
 
 <p>—Ahí no dice eso —dije torciendo las cejas y la sonrisa.</p>
 
@@ -95,46 +204,7 @@
 
 <p>En resumen, la sofisticación técnica no es solo una habilidad; es <strong>una mentalidad de autodidacta</strong> que te dota de la confianza para enfrentar desafíos y aprender de tus experiencias. Al abrazar esta habilidad, te conviertes en un autodidacta más fuerte y capacitado, listo para abordar cualquier proyecto o problema que se presente en tu camino hacia el éxito. ¡Así que adelante, abraza este marco de pensamiento y descubre lo que eres capaz de lograr!</p>
 
-<p>¿Estás listo para abrazar la sofisticación técnica y desbloquear tu potencial como autodidacta? ¡Comienza hoy mismo! Define un nuevo desafío o proyecto en el que puedas aplicar esta mentalidad y comparte tu experiencia en los comentarios. Juntos, podemos inspirar a otros autodidactas a crecer y aprender. ¡Únete a la conversación y comienza tu viaje hacia el éxito autodidacta!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="nota" /><summary type="html"><![CDATA[¿Alguna vez has experimentado esa sensación de asombro al descubrir una palabra nueva que describe perfectamente algo que has estado haciendo durante mucho tiempo? Es como si el universo estuviera validando tus esfuerzos, revelando una verdad que antes pasaba desapercibida. Mi propio encuentro con el concepto de “technical sophistication” ocurrió mientras exploraba el mundo de la programación en el sitio web de Michael Hartl, learnenough.com.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/an_image_of_a_tablet_with_a_diagram.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/an_image_of_a_tablet_with_a_diagram.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Powerful things you can do with the Markdown editor</title><link href="http://localhost:4000/powerful-things-markdown-editor/" rel="alternate" type="text/html" title="Powerful things you can do with the Markdown editor" /><published>2020-01-12T00:00:00+00:00</published><updated>2020-01-12T00:00:00+00:00</updated><id>http://localhost:4000/powerful-things-markdown-editor</id><content type="html" xml:base="http://localhost:4000/powerful-things-markdown-editor/"><![CDATA[<p>There are lots of powerful things you can do with the Markdown editor</p>
-
-<p>If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</p>
-
-<p>As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.</p>
-
-<h2 id="special-formatting">Special formatting</h2>
-
-<p>As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:</p>
-
-<ul>
-  <li><del>strike through</del></li>
-  <li>==highlight==</li>
-  <li>*escaped characters*</li>
-</ul>
-
-<h2 id="writing-code-blocks">Writing code blocks</h2>
-
-<p>There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, <code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
-
-<pre><code>.my-link {
-    text-decoration: underline;
-}
-</code></pre>
-
-<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
-
-<p><img src="/assets/images/3.jpg" alt="walking" /></p>
-
-<h2 id="reference-lists">Reference lists</h2>
-
-<p>The quick brown jumped over the lazy.</p>
-
-<p>Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.</p>
-
-<h2 id="full-html">Full HTML</h2>
-
-<p>Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:</p>
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>]]></content><author><name>adrian</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[There are lots of powerful things you can do with the Markdown editor]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/4.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Markdown Example</title><link href="http://localhost:4000/markup-example/" rel="alternate" type="text/html" title="Markdown Example" /><published>2020-01-11T00:00:00+00:00</published><updated>2020-01-11T00:00:00+00:00</updated><id>http://localhost:4000/markup-example</id><content type="html" xml:base="http://localhost:4000/markup-example/"><![CDATA[<p>You’ll find this post in your <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated. Something.</p>
+<p>¿Estás listo para abrazar la sofisticación técnica y desbloquear tu potencial como autodidacta? ¡Comienza hoy mismo! Define un nuevo desafío o proyecto en el que puedas aplicar esta mentalidad y comparte tu experiencia en los comentarios. Juntos, podemos inspirar a otros autodidactas a crecer y aprender. ¡Únete a la conversación y comienza tu viaje hacia el éxito autodidacta!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="nota" /><summary type="html"><![CDATA[¿Alguna vez has experimentado esa sensación de asombro al descubrir una palabra nueva que describe perfectamente algo que has estado haciendo durante mucho tiempo? Es como si el universo estuviera validando tus esfuerzos, revelando una verdad que antes pasaba desapercibida. Mi propio encuentro con el concepto de “technical sophistication” ocurrió mientras exploraba el mundo de la programación en el sitio web de Michael Hartl, learnenough.com.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/an_image_of_a_tablet_with_a_diagram.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/an_image_of_a_tablet_with_a_diagram.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Markdown Example</title><link href="http://localhost:4000/markup-example/" rel="alternate" type="text/html" title="Markdown Example" /><published>2020-01-11T00:00:00+00:00</published><updated>2020-01-11T00:00:00+00:00</updated><id>http://localhost:4000/markup-example</id><content type="html" xml:base="http://localhost:4000/markup-example/"><![CDATA[<p>You’ll find this post in your <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated. Something.</p>
 
 <p>To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 

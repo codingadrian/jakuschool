@@ -9,10 +9,6 @@
 <lastmod>2020-01-11T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/powerful-things-markdown-editor/</loc>
-<lastmod>2020-01-12T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/costa-rica-english-spoken/</loc>
 <lastmod>2023-10-29T00:00:00+00:00</lastmod>
 </url>
@@ -25,6 +21,10 @@
 <lastmod>2023-10-29T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll/</loc>
+<lastmod>2023-11-04T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/a1principiante/</loc>
 </url>
 <url>
@@ -32,6 +32,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/arruko/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/b1intermedio/</loc>

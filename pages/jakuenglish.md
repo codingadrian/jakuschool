@@ -90,7 +90,7 @@ El Marco Común Europeo de Referencia para las Lenguas (CEFR, por sus siglas en 
 
 El CEFR es ampliamente utilizado en todo el mundo para evaluar y certificar el nivel de competencia en inglés y otros idiomas. Puedes utilizar esta escala como guía para determinar tu propio nivel de habilidad en inglés y establecer metas de aprendizaje específicas para avanzar en tu dominio del idioma.
 
-Si ya sabes cuál es tu nivel de inglés, entonces revisa lo que tienes que hacer para llegar al siguiente:
+Si ya sabes cuál es tu nivel de inglés, entonces revisa lo que tienes que hacer para llegar al siguiente: 
 
 <!-- ENGLISH BADGES -->
 <div class="medals">
