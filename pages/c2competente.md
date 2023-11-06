@@ -2,7 +2,7 @@
 layout: page
 title: C2 - Competente
 permalink: "/c2competente/"
-image: assets/images/screenshot.png
+image: assets/images/blogs/studentgraphic.png
 ---
 
 ## ¿Qué puedes hacer con el nivel C2?

@@ -2,7 +2,7 @@
 layout: page
 title: Jak U English
 permalink: "/jakuenglish/"
-image: assets/images/screenshot.png
+image: assets/images/blogs/jakuenglish.png
 ---
 
 El inglés es el idioma más hablado en el mundo, con más de 1.500 millones de hablantes. Es el idioma oficial en 67 países y se utiliza ampliamente en los negocios, la ciencia, la tecnología y la educación. Aprender inglés puede abrir un mundo de oportunidades para cualquier persona, independientemente de su origen o metas. Ya sea que estés buscando mejorar tus perspectivas profesionales, viajar por el mundo o simplemente aprender más sobre otras culturas, aprender otro idioma es una inversión valiosa que te beneficiará de muchas maneras.

@@ -2,7 +2,7 @@
 layout: page
 title: A2 - Básico
 permalink: "/a2basico/"
-image: assets/images/screenshot.png
+image: assets/images/blogs/studentwithheadphones.png
 ---
 
 ## ¿Qué puedes hacer con el nivel A2?

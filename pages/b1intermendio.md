@@ -2,7 +2,7 @@
 layout: page
 title: B1 - Intermedio
 permalink: "/b1intermedio/"
-image: assets/images/screenshot.png
+image: assets/images/blogs/tourguide.png
 ---
 
 ## ¿Qué puedes hacer con el nivel B1?

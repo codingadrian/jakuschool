@@ -2,7 +2,7 @@
 layout: page
 title: A1 - Principiante
 permalink: "/a1principiante/"
-image: assets/images/screenshot.png
+image: assets/images/blogs/kidonbike.png
 ---
 
 ## ¿Qué puedes hacer con el nivel A1?

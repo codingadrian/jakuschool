@@ -2,7 +2,7 @@
 layout: page
 title: B2 - Intermedio Alto
 permalink: "/b2intermedioalto/"
-image: assets/images/screenshot.png
+image: assets/images/blogs/studentatpodium.png
 ---
 
 ## ¿Qué puedes hacer con el nivel B2?

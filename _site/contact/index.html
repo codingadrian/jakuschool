@@ -101,13 +101,7 @@
             <li class="nav-item">
               <a class="nav-link px-3 "
                 href="/"
-                alt="Jak U School">Jak U School</a>
-            </li>
-            
-            <li class="nav-item">
-              <a class="nav-link px-3 "
-                href="/about/"
-                alt="Quiénes Somos">Quiénes Somos</a>
+                alt="Jak U Blog">Jak U Blog</a>
             </li>
             
             <li class="nav-item">
@@ -120,6 +114,12 @@
               <a class="nav-link px-3 "
                 href="/arruko/"
                 alt="Arrukö́">Arrukö́</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link px-3 "
+                href="/about/"
+                alt="Quiénes Somos">Quiénes Somos</a>
             </li>
             
             <li class="nav-item">
@@ -150,7 +150,23 @@
   </div>
 
   <div class="article-post serif-font">
-    
+    <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/1900bf95aa15ad308f6ac4ad04280de5?embedded=1"></div>
+
+<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+<script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
+
+<!-- Get notified when the form is submitted, add your own code below: -->
+<script>
+const formkeepEmbed = document.querySelector('#formkeep-embed')
+
+formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
+  console.log('Submitting form...')
+})
+
+formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
+  console.log('Submitted form...')
+})
+</script>
   </div>
 
   

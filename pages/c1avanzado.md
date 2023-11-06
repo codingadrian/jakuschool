@@ -2,7 +2,7 @@
 layout: page
 title: C1 - Avanzado
 permalink: "/c1avanzado/"
-image: assets/images/screenshot.png
+image: assets/images/blogs/studentcity.png
 ---
 
 ## ¿Qué puedes hacer con el nivel C1?
