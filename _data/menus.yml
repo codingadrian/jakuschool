@@ -1,20 +1,20 @@
 # Top Menu
 topmenu:
 
-- title: Jak U Blog
-  url: ""
+# - title: 
+#  url: ""
+
+- title: Jak U School
+  url: "jakuschool/"
 
 - title: Jak U English
   url: "jakuenglish/"
 
 - title: Arrukö́
   url: "arruko/"
-
-- title: Quiénes Somos
-  url: "about/"
   
 - title: Contacto
-  url: "contact/"
+  url: "contacto/"
 
 
 # Footer Menu

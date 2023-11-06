@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Quiénes somos
-permalink: "/about/"
+title: Jak U School
+permalink: "/jakuschool/"
 image: assets/images/blogs/jakusomos.png
 ---
 
