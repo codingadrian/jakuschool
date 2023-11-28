@@ -94,8 +94,8 @@ git push origin main
 
 ### Paso 8: publica tu sitio
 
-1. Visita tu repositorio de GitHub (https://github.com/tunombredeusuario/nombredetusitioweb.github.io).
+1. Haz click en el nombre de tu repositorio.
 2. En la pestaña "Configuración", desplácese hacia abajo hasta la sección "Páginas de GitHub".
-3. Seleccione la rama principal (main branch) como fuente y su sitio se publicará en **https://nombredetusitioweb.github.io**.
+3. Seleccione la rama principal (main branch) como fuente y su sitio se publicará.
 
 Crear un sitio web con GitHub Pages y Jekyll es una manera fantástica de crear una presencia profesional en línea. Es rentable, rápido y seguro, lo que lo convierte en una opción popular entre los desarrolladores y creadores de contenido. Si sigues los pasos descritos en esta guía, podrás tener tu sitio web en funcionamiento en poco tiempo. Ya sea que estés creando un portafolio, un blog o un sitio web personal, esta combinación de herramientas ofrece una solución poderosa y fácil de usar para sus necesidades de desarrollo web.

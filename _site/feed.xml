@@ -1,4 +1,144 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es_cr"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es_cr" /><updated>2023-11-06T00:07:02+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jak U School</title><author><name>Adrian Robles</name></author><entry><title type="html">Construyendo tu sitio web con GitHub Pages y Jekyll</title><link href="http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll/" rel="alternate" type="text/html" title="Construyendo tu sitio web con GitHub Pages y Jekyll" /><published>2023-11-04T00:00:00+00:00</published><updated>2023-11-04T00:00:00+00:00</updated><id>http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll</id><content type="html" xml:base="http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll/"><![CDATA[<p>En la era digital actual, tener un sitio web personal o profesional es casi una necesidad. Sirve como tu identidad digital, mostrando tu trabajo, portafolio, blog o cualquier contenido que quieras compartir con el mundo. Si bien existen varias formas de crear y alojar un sitio web, uno de los métodos más eficientes y sencillos es utilizar GitHub Pages y Jekyll. En este blog, te guiaré a través del proceso de creación de tu sitio web paso a paso.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es_cr"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es_cr" /><updated>2023-11-28T23:48:03+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jak U School</title><author><name>Adrian Robles</name></author><entry><title type="html">Desarrolla tus habilidades técnicas con Microsoft Learn</title><link href="http://localhost:4000/desarrolla-tus-habilidades-tecnicas-con-microsoft-learn/" rel="alternate" type="text/html" title="Desarrolla tus habilidades técnicas con Microsoft Learn" /><published>2023-11-27T00:00:00+00:00</published><updated>2023-11-27T00:00:00+00:00</updated><id>http://localhost:4000/desarrolla-tus-habilidades-tecnicas-con-microsoft-learn</id><content type="html" xml:base="http://localhost:4000/desarrolla-tus-habilidades-tecnicas-con-microsoft-learn/"><![CDATA[<p>Recientemente, logré obtener mi primera certificación con Microsoft, <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/ms-900/">MS-900</a>; tengo agendo el examen para <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/">AZ-900</a> y ya estoy pensando en la próxima. Descubrí que los cursos de Microsoft Learn son una oportunidad de incrementar tu empleabilidad y desarrollar tu carrera en el mundo de la tecnología. En este artículo, te contaré qué es Microsoft Learn y cómo puedes aprovechar al máximo esta plataforma.</p>
+
+<h2 id="qué-es-microsoft-learn">¿Qué es Microsoft Learn?</h2>
+
+<p>Microsoft Learn es una plataforma de aprendizaje en línea proporcionada por Microsoft que ofrece una amplia gama de recursos educativos, entre ellos: certificaciones, cursos de entrenamiento (en línea y con instructor), exámenes para certificaciones. Está diseñada para ayudar a desarrolladores, profesionales de TI y entusiastas de la tecnología a adquirir habilidades y conocimientos sobre productos y servicios de Microsoft, así como sobre tecnologías relacionadas.</p>
+
+<h2 id="lo-que-puedes-encontrar-en-microsoft-learn">Lo que puedes encontrar en Microsoft Learn</h2>
+
+<p>Lo más destacado de Microsoft Learn incluye un contenido estructurado que facilita el seguimiento de tu progreso. Personalmente, no confío en los temporizadores, mi enfoque es entender los conceptos. Si algo no queda claro, recurro a más contexto o le pido una explicación más sencilla a <a href="https://chat.openai.com/">ChatGPT</a>. Además, la plataforma ofrece instrucciones paso a paso que te guían en la realización de tareas específicas, creando una experiencia de aprendizaje interactiva. Los entornos de prueba (sandboxes) son gratuitos, y las certificaciones son relativamente asequibles en comparación con cursos universitarios.</p>
+
+<h2 id="aspectos-básicos-y-rutas-profesionales">Aspectos Básicos y Rutas profesionales</h2>
+
+<p>Inicia tu viaje con los cursos fundamentales, identificados por números que comienzan en 900. Estos cubren los conceptos básicos de las tecnologías y productos de Microsoft. Sin embargo, lo más emocionante son las rutas profesionales que agrupan los cursos necesarios para roles específicos, como Científico de Datos o Ingeniero de DevOps.</p>
+
+<h2 id="consejos-para-aprobar-una-certificación-de-microsoft">Consejos para aprobar una certificación de Microsoft</h2>
+<ul>
+  <li>
+    <p>Determina la certificación que necesitas: Examina las certificaciones disponibles y elige la más beneficiosa para tu carrera. Consulta con tu supervisor o revisa ofertas laborales para identificar las certificaciones más demandadas por los empleadores.</p>
+  </li>
+  <li>
+    <p>Estudia y completa cursos de capacitación: Aunque no es obligatorio, considera buscar un instructor o utilizar recursos en línea para prepararte. Practica en laboratorios de prueba para aplicar tus conocimientos de manera práctica.</p>
+  </li>
+  <li>
+    <p>Realiza un examen de práctica: Evalúa tu progreso con exámenes simulados. Identifica áreas de mejora y prioriza tu estudio en esas secciones para aumentar tu confianza.</p>
+  </li>
+  <li>
+    <p>Renueva tu certificación: Muchas certificaciones requieren renovación periódica. Asegúrate de conocer los requisitos y plazos para mantener tu certificación actualizada.</p>
+  </li>
+</ul>
+
+<h2 id="en-conclusión-impulsa-tu-carrera-con-microsoft-learn">En conclusión: Impulsa tu carrera con Microsoft Learn</h2>
+
+<p>Microsoft Learn representa el compromiso de Microsoft en crear un entorno de aprendizaje moderno. Su objetivo es equiparte con las habilidades técnicas necesarias para ofrecer soluciones y servicios de alta calidad. ¿Estás listo para dar el siguiente paso en tu desarrollo profesional? ¡Crea tu cuenta en <a href="https://learn.microsoft.com/es-es/#">Microsoft Learn</a> y comienza tu viaje hacia el éxito en el mundo tecnológico!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="nota" /><summary type="html"><![CDATA[Recientemente, logré obtener mi primera certificación con Microsoft, MS-900; tengo agendo el examen para AZ-900 y ya estoy pensando en la próxima. Descubrí que los cursos de Microsoft Learn son una oportunidad de incrementar tu empleabilidad y desarrollar tu carrera en el mundo de la tecnología. En este artículo, te contaré qué es Microsoft Learn y cómo puedes aprovechar al máximo esta plataforma.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/image-of-a-certificate.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/image-of-a-certificate.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Estudiando con ChatGPT</title><link href="http://localhost:4000/estudiando-con-chatgpt/" rel="alternate" type="text/html" title="Estudiando con ChatGPT" /><published>2023-11-27T00:00:00+00:00</published><updated>2023-11-27T00:00:00+00:00</updated><id>http://localhost:4000/estudiando-con-chatgpt</id><content type="html" xml:base="http://localhost:4000/estudiando-con-chatgpt/"><![CDATA[<p>En el mundo autodidacta, ChatGPT está transformando la forma en que abordamos el aprendizaje. Sin embargo, aprovechar al máximo su potencial requiere comprender cómo se puede utilizar y cómo utilizarlo eficazmente. Para ayudarte a lograrlo, hemos reunido las estrategias más efectivas y estímulos precisos para utilizar ChatGPT de manera efectiva en tus estudios. ¡Descubre las posibilidades infinitas que ChatGPT tiene para ofrecer!</p>
+
+<h2 id="qué-es-chatgpt">¿Qué es ChatGPT?</h2>
+<p>ChatGPT es un chatbot impulsado por inteligencia artificial diseñado para facilitar la comunicación en lenguaje natural entre humanos y máquinas. Desarrollado por OpenAI, este modelo de lenguaje sofisticado utiliza algoritmos de aprendizaje profundo para generar respuestas humanas a las entradas de los usuarios.</p>
+
+<p>ChatGPT, que significa “Chat Generative Pre-trained Transformer”, se basa en la arquitectura de transformer, reconocida por su eficacia en tareas de procesamiento de lenguaje natural.</p>
+
+<p>Preentrenado con grandes cantidades de datos de texto, ChatGPT ha acumulado un conocimiento extenso y puede comprender y responder a una amplia variedad de preguntas e insumos. Los usuarios pueden hacer preguntas a ChatGPT o darle un estímulo, y generará una respuesta basada en su conocimiento preexistente.</p>
+
+<p>Aunque aún es relativamente nuevo, ChatGPT ya ha dejado una marca significativa en el campo del procesamiento de lenguaje natural. Su potencial de aplicación se extiende a medida que la tecnología evoluciona, transformando nuestra interacción con las máquinas y entre nosotros.</p>
+
+<h2 id="cómo-usar-chatgpt">Cómo usar ChatGPT</h2>
+<p>Ahora que tienes una idea de lo que es ChatGPT, es el momento de dar el siguiente paso y aprender cómo aprovecharlo. Después de registrarte e iniciar sesión en ChatGPT a través de la página de OpenAI, estarás listo para comenzar. Aquí tienes algunos consejos generales para usar ChatGPT de manera efectiva:</p>
+
+<ul>
+  <li>Comienza con un prompt claro: Al buscar respuestas precisas y útiles de ChatGPT, es fundamental utilizar prompts específicos. Evita prompts poco claros y sin contexto, ya que podrían conducir a respuestas irrelevantes.</li>
+  <li>Usa lenguaje natural: Dado que ChatGPT está diseñado para entender el lenguaje natural, evita usar lenguaje técnico, pues puede malinterpretar tus prompts.</li>
+  <li>Ten paciencia: Sí, ChatGPT es poderoso, pero no significa que sea perfecto. Si no obtienes la respuesta que buscas en el primer prompt, intenta reformularlo o proporcionar más contexto.</li>
+  <li>Experimenta con diferentes prompts y temas: ChatGPT fue entrenado con una gran cantidad de datos, lo que lo hace apto para responder a una variedad de preguntas. Así que no dudes en experimentar con diferentes prompts y ver qué tipo de respuestas obtienes.</li>
+</ul>
+
+<h2 id="verificación-de-datos-con-chatgpt">Verificación de datos con ChatGPT</h2>
+<p>Aunque ChatGPT es poderoso, no siempre proporciona información correcta, lo que puede generar confusiones en tus estudios. Veamos un ejemplo donde ChatGPT se confunde:</p>
+
+<p>Le pregunté a ChatGPT: “Describe el cuarto viaje de Colón a Costa Rica”, y aunque proporcionó información correcta, no estaba relacionada con el cuarto viaje y no pudo contar toda la historia.</p>
+
+<p>Para confirmar la precisión de la información, sigue estos tres métodos:</p>
+<ol>
+  <li>Pide a ChatGPT que cite las fuentes: Después de recibir una respuesta, pide a ChatGPT que cite sus fuentes con enlaces web. Esto te permitirá verificar la información proporcionada.</li>
+  <li>Haz una búsqueda en Google Bard o Bing.com: Si tienes dudas sobre la respuesta, realiza una búsqueda rápida en Internet para confirmar la exactitud de la información.</li>
+  <li>Proporciona la información tú mismo: Para garantizar la corrección, proporciona parte de tu material de estudio y pídele a ChatGPT que resuma o realice preguntas relacionadas.</li>
+</ol>
+
+<h2 id="top-12-formas-de-usar-chatgpt-para-estudiar">Top 12 formas de usar ChatGPT para estudiar</h2>
+<p>Ahora que conoces lo básico de usar ChatGPT, es hora de ver cómo se puede usar para estudiar y llevar tu productividad al siguiente nivel:</p>
+
+<ol>
+  <li>Resumen y explicación de notas: Si tienes material de estudio extenso o difícil de entender, pide a ChatGPT que lo resuma y simplifique el lenguaje para una comprensión más clara.</li>
+  <li>Instruir a ChatGPT para actuar como alguien: Obtén respuestas impactantes al pedir a ChatGPT que actúe como tu profesor, compañero de estudio o incluso como un cómico para explicar conceptos de manera divertida.</li>
+  <li>Solicitar instrucciones paso a paso para resolver un problema: Comprende a fondo la resolución de problemas en áreas como física o matemáticas solicitando a ChatGPT que las explique paso a paso.</li>
+  <li>Consejos de escritura: Obtén sugerencias de escritura para tus tareas o ensayos pegándolos en ChatGPT y solicitando asesoramiento sobre la calidad y mejora.</li>
+  <li>Prueba tus conocimientos: Después de estudiar una sección, evalúa tus conocimientos creando preguntas de práctica con la ayuda de ChatGPT.</li>
+  <li>Obtención de inspiración: Si te sientes bloqueado al elegir un tema para tu ensayo, proporciona una descripción general de los conceptos y solicita las 10 ideas más interesantes.</li>
+  <li>Creación de un plan de estudio: Organiza tu tiempo de estudio proporcionando fechas específicas y detalles sobre tus exámenes, y pide a ChatGPT que cree un plan de estudio detallado.</li>
+  <li>Toma de apuntes: Utiliza la función de “Toma de Apuntes” de ChatGPT para resumir información sobre cualquier tema y organizar tus notas de manera eficiente.</li>
+  <li>Preparación para exámenes: Identifica temas clave para tus exámenes y utiliza ChatGPT para generar preguntas, resúmenes o información adicional sobre conceptos difíciles.</li>
+  <li>Aprender a programar: Aprovecha la capacidad de ChatGPT para aprender a programar, desde introducciones a lenguajes específicos hasta preguntas más detalladas y depuración de código.</li>
+  <li>Revisar tu tarea: Asegúrate de que tus tareas sean impecables pegándolas en ChatGPT y solicitando retroalimentación sobre cómo mejorar la redacción y los temas.</li>
+  <li>Pedir prompts personalizados: Obtén los prompts perfectos para tus necesidades específicas al hacer que ChatGPT genere los prompts ideales para obtener respuestas óptimas.</li>
+</ol>
+
+<p>ChatGPT representa una revolución en el aprendizaje moderno al proporcionar a los estudiantes y profesionales una herramienta poderosa para mejorar su comprensión y productividad. A medida que aprovechas sus capacidades, recuerda verificar la precisión de la información y experimentar con diversos estímulos para descubrir nuevas formas de optimizar tu estudio. ¡Descubre el potencial ilimitado de ChatGPT en tu viaje educativo!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="nota" /><summary type="html"><![CDATA[En el mundo autodidacta, ChatGPT está transformando la forma en que abordamos el aprendizaje. Sin embargo, aprovechar al máximo su potencial requiere comprender cómo se puede utilizar y cómo utilizarlo eficazmente. Para ayudarte a lograrlo, hemos reunido las estrategias más efectivas y estímulos precisos para utilizar ChatGPT de manera efectiva en tus estudios. ¡Descubre las posibilidades infinitas que ChatGPT tiene para ofrecer!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/girl-talking-to-ai.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/girl-talking-to-ai.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">FreeCodeCamp, una universidad digital gratis</title><link href="http://localhost:4000/freecodecamp-una-univerdad-digital-gratis/" rel="alternate" type="text/html" title="FreeCodeCamp, una universidad digital gratis" /><published>2023-11-27T00:00:00+00:00</published><updated>2023-11-27T00:00:00+00:00</updated><id>http://localhost:4000/freecodecamp-una-univerdad-digital-gratis</id><content type="html" xml:base="http://localhost:4000/freecodecamp-una-univerdad-digital-gratis/"><![CDATA[<p><a href="https://www.freecodecamp.org/">FreeCodeCamp</a> es donde empecé a leer mis primeras líneas de código, y es la plataforma que recomiendo a quienes me preguntan como comenzar a aprender programación. En este blog, te sumergiré en el universo de <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>, exploraremos sus beneficios y te proporcionaré ideas sobre cómo aprovechar al máximo esta invaluable herramienta para el desarrollo de tu carrera.</p>
+
+<h3 id="qué-es-freecodecamp">¿Qué es FreeCodeCamp?</h3>
+
+<p><a href="https://www.freecodecamp.org/">FreeCodeCamp</a>, una organización sin fines de lucro, ofrece una plataforma de aprendizaje en línea que es completamente gratuita y autodidacta, diseñada para la programación y el desarrollo web. Su currículo integral abarca diversos lenguajes de programación y tecnologías, desde los fundamentos como HTML y CSS hasta tecnologías avanzadas como Git, GitHub, Node.js, React.js, Python, C#, y más. Disponible en 10 idiomas, incluido el español, esta plataforma se ha convertido en un recurso global.</p>
+
+<p>El currículo se basa en proyectos, proporcionando una experiencia de aprendizaje práctica y efectiva. Además, <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> ofrece ejercicios prácticos y desafíos que refuerzan los conceptos aprendidos en las lecciones. A medida que avanzas, obtienes certificaciones al completar diferentes secciones, demostrando tu competencia en áreas específicas.</p>
+
+<p>La comunidad de apoyo de FreeCodeCamp, que incluye foros y un canal de YouTube con tutoriales adicionales, te brinda un entorno donde puedes conectar, hacer preguntas y colaborar en proyectos de programación.</p>
+
+<h3 id="beneficios">Beneficios</h3>
+
+<h4 id="1-gratuito">1. <strong>Gratuito:</strong></h4>
+<ul>
+  <li>¡Todo es gratuito! Tanto los cursos como los certificados. La inscripción es sencilla, y puedes comenzar tu viaje de aprendizaje sin costos.</li>
+</ul>
+
+<h4 id="2-aprendizaje-a-tu-ritmo">2. <strong>Aprendizaje a Tu Ritmo:</strong></h4>
+<ul>
+  <li>La naturaleza autodidacta permite a los estudiantes equilibrar sus estudios con otros compromisos, adaptándose a su propio ritmo de aprendizaje.</li>
+</ul>
+
+<h4 id="3-currículo-integral">3. <strong>Currículo Integral:</strong></h4>
+<ul>
+  <li>Desde lo básico hasta lo avanzado, <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> cubre un amplio espectro de temas relevantes para el desarrollo web, ofreciendo una base sólida para diversas oportunidades profesionales.</li>
+</ul>
+
+<h4 id="4-basado-en-proyectos">4. <strong>Basado en Proyectos:</strong></h4>
+<ul>
+  <li>El enfoque en proyectos significa que puedes aplicar lo que aprendes en situaciones del mundo real, construyendo un portafolio valioso y demostrando tus habilidades a futuros empleadores.</li>
+</ul>
+
+<h4 id="5-certificaciones-de-codificación">5. <strong>Certificaciones de Codificación:</strong></h4>
+<ul>
+  <li>Al completar secciones específicas, obtienes certificaciones que validan tu competencia en áreas particulares. ¡Incluso hay una certificación en C# en colaboración con Microsoft!</li>
+</ul>
+
+<h3 id="consejos-adicionales">Consejos Adicionales:</h3>
+
+<ul>
+  <li><strong>Complementa tu Aprendizaje:</strong>
+    <ul>
+      <li>Si bien <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> es una base sólida, complementa tu aprendizaje con otros recursos. Te recomiendo explorar <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> + <a href="https://chat.openai.com/">ChatGPT</a> para obtener explicaciones más detalladas y avanzadas.</li>
+    </ul>
+  </li>
+  <li><strong>Enfócate en Proyectos y Resultados:</strong>
+    <ul>
+      <li>Utiliza el método de aprendizaje basado en proyectos para construir un portafolio sólido que destaque tus habilidades y establezca tu marca personal.</li>
+    </ul>
+  </li>
+  <li><strong>Prepárate para el Mundo Real:</strong>
+    <ul>
+      <li>Aunque las explicaciones pueden ser básicas, <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> te prepara para el mundo real de la programación. La acción y la demostración de habilidades son cruciales.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><a href="https://www.freecodecamp.org/">FreeCodeCamp</a> es más que una plataforma de aprendizaje; es una puerta de entrada a un mundo lleno de posibilidades en el ámbito tecnológico. Úsalo estratégicamente, construye tu camino y ¡prepárate para un emocionante viaje en el campo de la programación!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="nota" /><summary type="html"><![CDATA[FreeCodeCamp es donde empecé a leer mis primeras líneas de código, y es la plataforma que recomiendo a quienes me preguntan como comenzar a aprender programación. En este blog, te sumergiré en el universo de FreeCodeCamp, exploraremos sus beneficios y te proporcionaré ideas sobre cómo aprovechar al máximo esta invaluable herramienta para el desarrollo de tu carrera.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/digital-classroom.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/digital-classroom.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Construyendo tu sitio web con GitHub Pages y Jekyll</title><link href="http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll/" rel="alternate" type="text/html" title="Construyendo tu sitio web con GitHub Pages y Jekyll" /><published>2023-11-04T00:00:00+00:00</published><updated>2023-11-04T00:00:00+00:00</updated><id>http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll</id><content type="html" xml:base="http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll/"><![CDATA[<p>En la era digital actual, tener un sitio web personal o profesional es casi una necesidad. Sirve como tu identidad digital, mostrando tu trabajo, portafolio, blog o cualquier contenido que quieras compartir con el mundo. Si bien existen varias formas de crear y alojar un sitio web, uno de los métodos más eficientes y sencillos es utilizar GitHub Pages y Jekyll. En este blog, te guiaré a través del proceso de creación de tu sitio web paso a paso.</p>
 
 <h2 id="qué-es-github-pages">¿Qué es GitHub Pages?</h2>
 
@@ -102,9 +242,9 @@ git push origin main
 <h3 id="paso-8-publica-tu-sitio">Paso 8: publica tu sitio</h3>
 
 <ol>
-  <li>Visita tu repositorio de GitHub (https://github.com/tunombredeusuario/nombredetusitioweb.github.io).</li>
+  <li>Haz click en el nombre de tu repositorio.</li>
   <li>En la pestaña “Configuración”, desplácese hacia abajo hasta la sección “Páginas de GitHub”.</li>
-  <li>Seleccione la rama principal (main branch) como fuente y su sitio se publicará en <strong>https://nombredetusitioweb.github.io</strong>.</li>
+  <li>Seleccione la rama principal (main branch) como fuente y su sitio se publicará.</li>
 </ol>
 
 <p>Crear un sitio web con GitHub Pages y Jekyll es una manera fantástica de crear una presencia profesional en línea. Es rentable, rápido y seguro, lo que lo convierte en una opción popular entre los desarrolladores y creadores de contenido. Si sigues los pasos descritos en esta guía, podrás tener tu sitio web en funcionamiento en poco tiempo. Ya sea que estés creando un portafolio, un blog o un sitio web personal, esta combinación de herramientas ofrece una solución poderosa y fácil de usar para sus necesidades de desarrollo web.</p>]]></content><author><name>adrian</name></author><category term="Jekyll" /><category term="GitHub Pages" /><category term="tutorial" /><summary type="html"><![CDATA[En la era digital actual, tener un sitio web personal o profesional es casi una necesidad. Sirve como tu identidad digital, mostrando tu trabajo, portafolio, blog o cualquier contenido que quieras compartir con el mundo. Si bien existen varias formas de crear y alojar un sitio web, uno de los métodos más eficientes y sencillos es utilizar GitHub Pages y Jekyll. En este blog, te guiaré a través del proceso de creación de tu sitio web paso a paso.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/4.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Costa Rica, English Spoken.</title><link href="http://localhost:4000/costa-rica-english-spoken/" rel="alternate" type="text/html" title="Costa Rica, English Spoken." /><published>2023-10-29T00:00:00+00:00</published><updated>2023-10-29T00:00:00+00:00</updated><id>http://localhost:4000/costa-rica-english-spoken</id><content type="html" xml:base="http://localhost:4000/costa-rica-english-spoken/"><![CDATA[<p>Recuerdo que cuando era niño caminaba por las aceras y veía un anuncio en las ventanas de las tiendas; apenas aprendía a leer, pero entendía que esas palabras no eran español. Le pregunté a mi madre, que lo leyó para mí, topándose con mi incredulidad:</p>
