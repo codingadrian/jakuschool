@@ -2,7 +2,7 @@
 layout: post
 title:  "FreeCodeCamp, una universidad digital gratis"
 author: adrian
-categories: [ estudiar, nota ]
+categories: [ estudiar, freeCodeCamp, nota ]
 image: assets/images/blogs/digital-classroom.png
 ---
 

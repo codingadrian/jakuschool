@@ -5,8 +5,6 @@ permalink: "/jakuschool/"
 image: assets/images/blogs/jakusomos.png
 ---
 
-# Jak U School
-
 Bienvenidos al corazón de **Jak U School**, una plataforma que tiene como objetivo fomentar el aprendizaje autodidacta, el plurilingüismo y el crecimiento personal. Nuestra historia está llena de pasión, dedicación y una búsqueda constante de empoderar a las personas para que desbloqueen su máximo potencial a través del autoaprendizaje y la aplicación de nuevas herramientas.
 
 **Jak U** es la combinación de dos palabras cabécar (un idioma indígena del sur de Costa Rica) que significan "piedra" y "casa" respectivamente; por lo tanto, **Jak U** se traduce como la casa de la piedra. Esto se debe a que nuestros antepasados lograron entender lo que podían crear con sus propias manos. Golpe tras golpe, transformaron las piedras para crear herramientas, utensilios y adornos. Grandes y pequeñas piedras, en una variedad de colores, les permitieron transformar su entorno y, al hacerlo, se transformaron a sí mismos.

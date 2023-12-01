@@ -2,7 +2,7 @@
 layout: post
 title:  "Desarrolla tus habilidades técnicas con Microsoft Learn"
 author: adrian
-categories: [ estudiar, nota ]
+categories: [ estudiar, Microsoft, nota ]
 image: assets/images/blogs/image-of-a-certificate.png
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Estudiando con ChatGPT"
 author: adrian
-categories: [ estudiar, nota ]
+categories: [ estudiar, autodidacta, nota ]
 image: assets/images/blogs/girl-talking-to-ai.png
 ---
 

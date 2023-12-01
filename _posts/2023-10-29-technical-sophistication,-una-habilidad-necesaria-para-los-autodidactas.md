@@ -2,7 +2,7 @@
 layout: post
 title:  "Technical Sophistication, una habilidad necesaria para los autodidactas"
 author: adrian
-categories: [ estudiar, nota ]
+categories: [ estudiar, autodidacta, nota ]
 image: assets/images/blogs/an_image_of_a_tablet_with_a_diagram.png
 ---
 

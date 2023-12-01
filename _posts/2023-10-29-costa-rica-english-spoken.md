@@ -2,7 +2,7 @@
 layout: post
 title:  "Costa Rica, English Spoken."
 author: adrian
-categories: [ estudiar, nota ]
+categories: [ estudiar, english, nota ]
 image: assets/images/1.jpg
 ---
 

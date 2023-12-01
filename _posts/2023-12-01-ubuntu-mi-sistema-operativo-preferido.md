@@ -2,7 +2,7 @@
 layout: post
 title:  "Ubuntu, mi sistema operativo preferido"
 author: adrian
-categories: [ estudiar, nota ]
+categories: [ ubuntu, tutorial, nota ]
 image: assets/images/blogs/man-repairs-laptop.png
 ---
 
