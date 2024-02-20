@@ -3,7 +3,7 @@ layout: post
 title:  "Hoja de Ruta para ser Analista de Datos"
 author: adrian
 categories: [ análisis de datos, carrera, nota ]
-image: assets/images/blogs/man-repairs-laptop.png
+image: assets/images/blogs/dataanalyst.png
 ---
 
 Si andas buscando un mapa para llegar a la x, en donde se encuentra tu carrera como analista de datos. Ven y descubre todo lo que necesitas saber y donde aprenderlo.
