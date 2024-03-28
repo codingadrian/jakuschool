@@ -36,7 +36,7 @@ Con la llegada de la IA (Inteligencia Artificial) muchos han recurrido a su velo
 ### Como pasatiempo te relaja del ajetreo diario
 Muchas labores pueden aumentar la cantidad de estrés que experimentamos cuando trabajamos, un pasatiempo ayuda a incrementar nuestro bienestar y relajación. Vacías tus pensamientos en el papel o el lienzo blanco de un documento ayuda a liberar el espacio en la mente para continuar aprendiendo.
 
-### Donde estudie escritura creativa
+### Dónde estudie escritura creativa
 Aunque siempre me llamó la atención, no sabía como aprender, no todo se puede aprender en YouTube. Estaba atrapado en el “doomscrolling” de Facebook cuando observe un anuncio sobre un curso de escritura creativa cerca de mi casa.
 
 Fue ahí donde conocí a [Steven Cubillo](https://www.facebook.com/Escritorcostarricense/), un autor costarricense con varios cuentos bajo su pluma y líder en la promoción de la escritura creativa para los que creíamos imposible el sueño de ser escritores. Su taller me puso en contacto con personas que, aunque impulsadas por diferentes razones, buscaban plasmar sus ideas en papel y entregarlas a los oídos atentos de un mundo que se creó con historias del pasado y del futuro.
