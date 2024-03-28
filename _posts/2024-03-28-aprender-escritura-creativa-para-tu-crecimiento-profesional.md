@@ -39,9 +39,9 @@ Muchas labores pueden aumentar la cantidad de estrés que experimentamos cuando 
 ### Donde estudie escritura creativa
 Aunque siempre me llamó la atención, no sabía como aprender, no todo se puede aprender en YouTube. Estaba atrapado en el “doomscrolling” de Facebook cuando observe un anuncio sobre un curso de escritura creativa cerca de mi casa.
 
-Fue ahí donde conocí a Steven Cubillo, un autor costarricense con varios cuentos bajo su pluma y líder en la promoción de la escritura creativa para los que creíamos imposible el sueño de ser escritores. Su taller me puso en contacto con personas que, aunque impulsadas por diferentes razones, buscaban plasmar sus ideas en papel y entregarlas a los oídos atentos de un mundo que se creó con historias del pasado y del futuro.
+Fue ahí donde conocí a [Steven Cubillo](https://www.facebook.com/Escritorcostarricense/), un autor costarricense con varios cuentos bajo su pluma y líder en la promoción de la escritura creativa para los que creíamos imposible el sueño de ser escritores. Su taller me puso en contacto con personas que, aunque impulsadas por diferentes razones, buscaban plasmar sus ideas en papel y entregarlas a los oídos atentos de un mundo que se creó con historias del pasado y del futuro.
 
-Después de casi un año, continuo trabajando con Steven y la editorial Círculo y Punto para publicar mi primer libro. Un libro de cuentos históricos que busca fomentar la travesía del un pequeño país desde sus inicios, además de dar otra perspectiva a las raíces indígenas de las que provenimos.
+Después de casi un año, continuo trabajando con Steven y la editorial [Círculo y Punto](https://www.circuloypunto.com/) para publicar mi primer libro. Un libro de cuentos históricos que busca fomentar la travesía del un pequeño país desde sus inicios, además de dar otra perspectiva a las raíces indígenas de las que provenimos.
 
 ## Como aplico la escritura creativa en mi trabajo
 En mis labores diarias escribo artículos de proceso o SOPs, análisis post-mortem de casos y escalaciones, correos electrónicos para clientes y ejecutivos, y más. He visto (y mi jefe y lectores también) el aumento de la calidad y claridad de mis comunicaciones.
