@@ -14,7 +14,7 @@ La escritura creativa puede tener diferentes propósitos en tu vida personal y p
 
 Es posible que no te veas a ti mismo como un escritor, pero escribir desempeña un papel importante en cualquier carrera e industria. Ayuda a crear narrativas impactantes y a establecer conexiones significativas con clientes y colegas.
 
-## Qué es escritura creativa
+## ¿Qué es escritura creativa?
 La escritura creativa es una forma de expresión que busca la originalidad y la imaginación. A diferencia de otros estilos, ofrece libertad para experimentar con el lenguaje y la estructura. Su objetivo es entretener, emocionar o provocar reflexiones en los lectores, mediante la creación de personajes, ambientes y tramas cautivadoras.
 
 La escritura creativa se diferencia de la técnica por su enfoque, estilo y audiencia. Mientras la técnica busca informar, la creativa busca entretener y provocar reflexiones. A pesar de estas diferencias, ambas formas de escritura comparten el objetivo de comunicarse de manera efectiva con el lector.
@@ -36,14 +36,14 @@ Con la llegada de la IA (Inteligencia Artificial) muchos han recurrido a su velo
 ### Como pasatiempo te relaja del ajetreo diario
 Muchas labores pueden aumentar la cantidad de estrés que experimentamos cuando trabajamos, un pasatiempo ayuda a incrementar nuestro bienestar y relajación. Vacías tus pensamientos en el papel o el lienzo blanco de un documento ayuda a liberar el espacio en la mente para continuar aprendiendo.
 
-### Dónde estudie escritura creativa
+### ¿Dónde estudie escritura creativa?
 Aunque siempre me llamó la atención, no sabía como aprender, no todo se puede aprender en YouTube. Estaba atrapado en el “doomscrolling” de Facebook cuando observe un anuncio sobre un curso de escritura creativa cerca de mi casa.
 
 Fue ahí donde conocí a [Steven Cubillo](https://www.facebook.com/Escritorcostarricense/), un autor costarricense con varios cuentos bajo su pluma y líder en la promoción de la escritura creativa para los que creíamos imposible el sueño de ser escritores. Su taller me puso en contacto con personas que, aunque impulsadas por diferentes razones, buscaban plasmar sus ideas en papel y entregarlas a los oídos atentos de un mundo que se creó con historias del pasado y del futuro.
 
 Después de casi un año, continuo trabajando con Steven y la editorial [Círculo y Punto](https://www.circuloypunto.com/) para publicar mi primer libro. Un libro de cuentos históricos que busca fomentar la travesía del un pequeño país desde sus inicios, además de dar otra perspectiva a las raíces indígenas de las que provenimos.
 
-## Cómo aplico la escritura creativa en mi trabajo
+## ¿Cómo aplico la escritura creativa en mi trabajo?
 En mis labores diarias escribo artículos de proceso o SOPs, análisis post-mortem de casos y escalaciones, correos electrónicos para clientes y ejecutivos, y más. He visto (y mi jefe y lectores también) el aumento de la calidad y claridad de mis comunicaciones.
 
 Mi expresión verbal también se ha visto afectada de manera positiva, lo cual me da más visibilidad en el crecimiento de mi carrera, y me permite afrontar más retos y tareas, haciéndome un trabajador más robusto que genera mayor impacto.
