@@ -1,0 +1,28 @@
+[
+    {
+        "question": "¿Cuándo se publicó el primer Código de la Circulación en Costa Rica?",
+        "options": ["1912", "1920", "1976"],
+        "correct": "1920"
+    },
+    {
+        "question": "¿Qué ley define el esquema novedoso para enfrentar el crecimiento inesperado en el volumen de automotores en la década de los setenta en Costa Rica?",
+        "options": ["Ley 5930", "Ley 7331", "Ley 9078"],
+        "correct": "Ley 5930"
+    },
+    {
+        "question": "¿Cuál es el principal objetivo de la seguridad vial según el Manual del Conductor?",
+        "options": ["Aumentar la velocidad del tránsito", "Prevenir accidentes de tránsito", "Reducir el uso de vehículos"],
+        "correct": "Prevenir accidentes de tránsito"
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un elemento del \"tránsito\" según el Manual del Conductor?",
+        "options": ["El ser humano", "El vehículo", "El clima"],
+        "correct": "El clima"
+    },
+    {
+        "question": "¿Qué indica la siguiente señal de tránsito?",
+        "options": ["Límite de velocidad de 80 km/h", "Límite de velocidad de 60 km/h", "Límite de velocidad de 100 km/h"],
+        "correct": "Límite de velocidad de 60 km/h",
+        "image": "/assets/images/speed_limit_60.jpg"
+    }
+]
