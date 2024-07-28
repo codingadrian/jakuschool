@@ -1,4 +1,275 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es_cr"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es_cr" /><updated>2024-07-28T14:07:17+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jak U School</title><author><name>Adrian Robles</name></author><entry><title type="html">Aprender Escritura Creativa para tu Crecimiento Profesional</title><link href="http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional/" rel="alternate" type="text/html" title="Aprender Escritura Creativa para tu Crecimiento Profesional" /><published>2024-03-28T00:00:00+00:00</published><updated>2024-03-28T00:00:00+00:00</updated><id>http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional</id><content type="html" xml:base="http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional/"><![CDATA[<p>La escritura creativa es una de las habilidades más incomprendidas de nuestro tiempo. Cuando las personas piensan sobre que es ser un escritor se imaginan a alguien que pasa su tiempo rodeado de libros, bolígrafos y papeles, piensan en escritores de poesía, ficción o fantasía. Sin embargo, la escritura creativa tiene también beneficios para las empresas y los negocios. En este blog comparto mi experiencia y como he aplicado esta nueva habilidad en mi carrera profesional.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es_cr"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es_cr" /><updated>2024-07-28T13:47:55+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jak U School</title><author><name>Adrian Robles</name></author><entry><title type="html">Creando un Test de Manejo Gratis con ChatGPT y Jekyll</title><link href="http://localhost:4000/creando-un-test-de-manejo-gratis-con-chatgpt-y-jekyll/" rel="alternate" type="text/html" title="Creando un Test de Manejo Gratis con ChatGPT y Jekyll" /><published>2024-07-27T00:00:00+00:00</published><updated>2024-07-27T00:00:00+00:00</updated><id>http://localhost:4000/creando-un-test-de-manejo-gratis-con-chatgpt-y-jekyll</id><content type="html" xml:base="http://localhost:4000/creando-un-test-de-manejo-gratis-con-chatgpt-y-jekyll/"><![CDATA[<p>Aprender a conducir siempre ha sido un desafío para mí, principalmente debido a la falta de tiempo y acceso a recursos. Aunque encontré el libro “Manual del Conductor”, su formato no era muy amigable. Además, muchos sitios web estaban llenos de anuncios o cobraban por acceder a su contenido. Esto me inspiró a crear un test de manejo en línea gratuito y sin anuncios, usando ChatGPT y Jekyll.</p>
+
+<h3 id="por-qué-chatgpt-y-jekyll">¿Por qué ChatGPT y Jekyll?</h3>
+<p>Elegí ChatGPT por su rapidez en analizar datos, lo que permitió que el test estuviera disponible rápidamente. Jekyll fue seleccionado por su facilidad de configuración y adecuación para la generación de sitios estáticos, proporcionando una plataforma para contenido interactivo. Dado que ya tenía experiencia con Jekyll, fue una elección natural y se alinea con mi creencia en hacer la tecnología accesible para principiantes.</p>
+
+<h3 id="recursos">Recursos</h3>
+<p>Para este proyecto, utilicé:</p>
+<ul>
+  <li>El “Manual del Conductor” en formato PDF</li>
+  <li>Una cuenta Pro de ChatGPT ejecutando la versión 4.0</li>
+  <li>Mis ideas y determinación</li>
+</ul>
+
+<h3 id="usando-chatgpt">Usando ChatGPT</h3>
+<p>Usé ChatGPT para generar las preguntas y respuestas. Aquí tienes un resumen paso a paso de mis interacciones:</p>
+
+<ol>
+  <li><strong>Configuración Inicial:</strong> Subí el PDF y discutí la estructura del test con ChatGPT.</li>
+  <li><strong>Generación de Preguntas:</strong> Usando una serie de prompts, ChatGPT extrajo información clave y formuló preguntas en formato de opción múltiple.</li>
+  <li><strong>Formateo y Validación:</strong> ChatGPT me ayudó a decidir el mejor formato para las preguntas y validar las respuestas.</li>
+</ol>
+
+<h4 id="ejemplos-de-prompts-y-respuestas">Ejemplos de Prompts y Respuestas</h4>
+<ul>
+  <li><strong>Prompt:</strong> “Genera una pregunta basada en la señal de límite de velocidad de 60 km/h.”</li>
+  <li><strong>Respuesta:</strong>
+    <pre><code class="language-json">{
+    "question": "¿Qué indica la siguiente señal de tránsito?",
+    "options": ["Límite de velocidad de 80 km/h", "Límite de velocidad de 60 km/h", "Límite de velocidad de 100 km/h"],
+    "correct": "Límite de velocidad de 60 km/h",
+    "image": "/assets/images/speed_limit_60.jpg",
+    "positiveFeedback": "Correcto. La señal indica un límite de velocidad de 60 km/h.",
+    "negativeFeedback": "Incorrecto. La señal indica un límite de velocidad de 60 km/h."
+}
+</code></pre>
+  </li>
+</ul>
+
+<h3 id="configurando-jekyll">Configurando Jekyll</h3>
+<p>Jekyll fue elegido por su simplicidad y flexibilidad. Aquí te explico cómo configuré el sitio con Jekyll:</p>
+
+<ol>
+  <li><strong>Instalación:</strong>
+    <pre><code class="language-bash">gem install jekyll bundler
+jekyll new mysite
+cd mysite
+bundle exec jekyll serve
+</code></pre>
+  </li>
+  <li><strong>Configuración:</strong> Actualicé <code>_config.yml</code> con los detalles del sitio y las preferencias de tema.</li>
+  <li><strong>Agregando Contenido:</strong> Creé archivos markdown para las diferentes secciones del sitio.</li>
+</ol>
+
+<h3 id="integrando-el-quiz">Integrando el Quiz</h3>
+<p>Estructuré el archivo JSON para almacenar las preguntas y respuestas del quiz. Aquí tienes un ejemplo:</p>
+
+<pre><code class="language-json">[
+  {
+      "question": "¿Qué indica la siguiente señal de tránsito?",
+      "options": ["Límite de velocidad de 80 km/h", "Límite de velocidad de 60 km/h", "Límite de velocidad de 100 km/h"],
+      "correct": "Límite de velocidad de 60 km/h",
+      "image": "/assets/images/speed_limit_60.jpg",
+      "positiveFeedback": "Correcto. La señal indica un límite de velocidad de 60 km/h.",
+      "negativeFeedback": "Incorrecto. La señal indica un límite de velocidad de 60 km/h."
+  }
+]
+</code></pre>
+
+<h3 id="agregando-funcionalidad">Agregando Funcionalidad</h3>
+<p>Utilicé JavaScript básico para randomizar y mostrar 40 preguntas del conjunto de 200. Aquí tienes un fragmento del script principal que se agrega en el archivo <code>quiz.md</code>:</p>
+
+<pre><code class="language-markdown">---
+layout: default
+title: Conductor's Test
+---
+
+### Conductor's Test
+
+&lt;form id="quiz-form"&gt;&lt;/form&gt;
+&lt;button type="button" onclick="checkAnswers()"&gt;Submit&lt;/button&gt;
+&lt;div id="results"&gt;&lt;/div&gt;
+
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', (event) =&gt; {
+    fetch('/assets/questions.json')
+        .then(response =&gt; response.json())
+        .then(data =&gt; {
+            const totalQuestions = 40;
+            const selectedQuestions = [];
+            while (selectedQuestions.length &lt; totalQuestions) {
+                const randomIndex = Math.floor(Math.random() * data.length);
+                if (!selectedQuestions.includes(data[randomIndex])) {
+                    selectedQuestions.push(data[randomIndex]);
+                }
+            }
+
+            const form = document.getElementById('quiz-form');
+            selectedQuestions.forEach((question, index) =&gt; {
+                const div = document.createElement('div');
+                div.innerHTML = `
+                    &lt;p&gt;${question.question}&lt;/p&gt;
+                    ${question.image ? `&lt;img src="${question.image}" alt="Question Image"&gt;&lt;br&gt;` : ''}
+                    ${question.options.map((option, i) =&gt; `
+                        &lt;label&gt;&lt;input type="radio" name="q${index + 1}" value="${option}"&gt; ${option}&lt;/label&gt;&lt;br&gt;
+                    `).join('')}
+                    &lt;div id="feedback${index + 1}" class="feedback"&gt;&lt;/div&gt;
+                    &lt;hr&gt;
+                `;
+                form.appendChild(div);
+            });
+        });
+});
+
+function checkAnswers() {
+    fetch('/assets/questions.json')
+        .then(response =&gt; response.json())
+        .then(data =&gt; {
+            let score = 0;
+            const form = document.getElementById('quiz-form');
+            const totalQuestions = form.querySelectorAll('div').length;
+
+            for (let i = 1; i &lt;= totalQuestions; i++) {
+                const answer = document.querySelector(`input[name="q${i}"]:checked`);
+                const feedbackDiv = document.getElementById(`feedback${i}`);
+                const correctAnswer = data.find(q =&gt; q.question === document.querySelector(`p`).innerText).correct;
+                const positiveFeedback = data.find(q =&gt; q.question === document.querySelector(`p`).innerText).positiveFeedback;
+                const negativeFeedback = data.find(q =&gt; q.question === document.querySelector(`p`).innerText).negativeFeedback;
+
+                if (answer &amp;&amp; answer.value === correctAnswer) {
+                    score++;
+                    feedbackDiv.innerHTML = `&lt;p style="color: green;"&gt;${positiveFeedback}&lt;/p&gt;`;
+                } else {
+                    feedbackDiv.innerHTML = `&lt;p style="color: red;"&gt;${negativeFeedback}&lt;/p&gt;`;
+                }
+            }
+
+            const percentage = (score / totalQuestions) * 100;
+            document.getElementById('results').innerText = `You scored ${score} out of ${totalQuestions} (${percentage}%)`;
+        });
+}
+&lt;/script&gt;
+</code></pre>
+
+<h3 id="estilizando-el-quiz">Estilizando el Quiz</h3>
+<p>Utilicé CSS para centrar imágenes y mejorar el diseño. Aquí tienes un fragmento clave:</p>
+
+<pre><code class="language-css">.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* Ajustar según sea necesario */
+}
+</code></pre>
+
+<h3 id="pruebas-y-despliegue">Pruebas y Despliegue</h3>
+<p>Probé la funcionalidad del quiz localmente antes de desplegarlo en GitHub Pages. Aquí tienes el proceso de despliegue:</p>
+
+<ol>
+  <li><strong>Push a GitHub:</strong>
+    <pre><code class="language-bash">git init
+git add .
+git commit -m "Initial commit"
+git remote add origin &lt;url-del-repositorio&gt;
+git push -u origin master
+</code></pre>
+  </li>
+  <li><strong>Habilitar GitHub Pages:</strong> Navega a la configuración del repositorio y habilita GitHub Pages en la sección “Pages”.</li>
+</ol>
+
+<h3 id="desafíos-y-soluciones">Desafíos y Soluciones</h3>
+<p>Un desafío fue asegurar que las imágenes y preguntas coincidieran correctamente. Esto se superó mediante una revisión meticulosa y usando convenciones de nombres consistentes para las imágenes.</p>
+
+<h3 id="características-adicionales">Características Adicionales</h3>
+<p>Mejoras futuras podrían incluir más elementos interactivos y recolección de feedback de los usuarios. Este proyecto es de código abierto, invitando a contribuciones de otros.</p>
+
+<h3 id="conclusión">Conclusión</h3>
+<p>De este proyecto aprendí sobre la versatilidad de Jekyll y el poder de combinarlo con ChatGPT. Esta experiencia reforzó la importancia de los recursos de aprendizaje accesibles y el potencial de la tecnología para mejorar la educación.</p>
+
+<p>Pudes encontrar el examen aquí: <a href="http://jakuschool.com/examen-manual-del-conductor/">Examen Teórico de Manejo</a></p>]]></content><author><name>adrian</name></author><category term="ChatGPT" /><category term="Jekyll" /><category term="Manual del Conductor" /><category term="Examen Teórico de Manejo" /><summary type="html"><![CDATA[Aprender a conducir siempre ha sido un desafío para mí, principalmente debido a la falta de tiempo y acceso a recursos. Aunque encontré el libro “Manual del Conductor”, su formato no era muy amigable. Además, muchos sitios web estaban llenos de anuncios o cobraban por acceder a su contenido. Esto me inspiró a crear un test de manejo en línea gratuito y sin anuncios, usando ChatGPT y Jekyll.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/making-driving-test.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/making-driving-test.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Examen Manual del Conductor</title><link href="http://localhost:4000/examen-manual-del-conductor/" rel="alternate" type="text/html" title="Examen Manual del Conductor" /><published>2024-07-27T00:00:00+00:00</published><updated>2024-07-27T00:00:00+00:00</updated><id>http://localhost:4000/examen-manual-del-conductor</id><content type="html" xml:base="http://localhost:4000/examen-manual-del-conductor/"><![CDATA[<p>¡Bienvenidos al Examen del Manual del Conductor! Este examen está diseñado para ayudarte a prepararte para la prueba teórica de conducción, basada en el contenido del “Manual del Conductor” de Costa Rica. Entendemos que prepararse para el examen de manejo puede ser un desafío, especialmente cuando el tiempo es limitado y los recursos disponibles no siempre son accesibles o fáciles de usar.</p>
+
+<p>Este examen interactivo te ofrece una manera efectiva y gratuita de practicar y evaluar tus conocimientos sobre las señales de tránsito, normas de seguridad vial y otros aspectos importantes de la conducción. Hemos trabajado arduamente para asegurar que el formato sea amigable y libre de distracciones como anuncios, permitiéndote concentrarte en lo que realmente importa: tu aprendizaje.</p>
+
+<h2 id="cómo-funciona">¿Cómo funciona?</h2>
+<p>Preguntas Aleatorias: Cada vez que inicies el examen, se seleccionarán aleatoriamente 40 preguntas de un banco de 200 preguntas. Esto garantiza que tengas una experiencia única en cada intento.</p>
+
+<p>Formato de Preguntas: Las preguntas son de selección múltiple, con tres opciones de respuesta, pero solo una es correcta.</p>
+
+<p>Imágenes Incluidas: Algunas preguntas incluyen imágenes para ayudarte a identificar señales de tránsito y otras situaciones viales.</p>
+
+<p>Retroalimentación Inmediata: Después de responder cada pregunta, recibirás una retroalimentación inmediata, indicándote si tu respuesta fue correcta o incorrecta, y proporcionando una explicación para reforzar tu aprendizaje.</p>
+
+<h2 id="objetivo-del-examen">Objetivo del Examen</h2>
+<p>El objetivo de este examen es proporcionar una herramienta de estudio accesible y eficaz para todos aquellos que deseen obtener su licencia de conducir en Costa Rica.</p>
+
+<p>Queremos ayudarte a ganar confianza y asegurarte de que estás bien preparado para el examen oficial.</p>
+
+<h2 id="recomendaciones">Recomendaciones</h2>
+<p>Revisa el Manual del Conductor: Aunque este examen es una excelente herramienta de práctica, te recomendamos que también leas el <a href="https://github.com/codingadrian/ManualConductor">Manual del Conductor</a> completo para una comprensión más profunda de todas las normas y regulaciones.</p>
+
+<p>Practica Regularmente: Cuantas más veces realices el examen, más familiarizado estarás con el formato de las preguntas y el contenido.</p>
+
+<p>Presta Atención a la Retroalimentación: Usa las explicaciones proporcionadas para entender mejor las respuestas correctas y corregir cualquier malentendido.</p>
+
+<p>Estamos comprometidos a apoyar tu proceso de aprendizaje y esperamos que encuentres útil este examen. ¡Buena suerte y buen aprendizaje!</p>
+
+<hr />
+
+<h2 id="examen">Examen</h2>
+
+<form id="quiz-form"></form>
+<p><button type="button" onclick="checkAnswers()">Submit</button></p>
+<div id="results"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+    fetch('/assets/json/questions.json')
+        .then(response => response.json())
+        .then(data => {
+            const totalQuestions = 40;
+            const selectedQuestions = [];
+            while (selectedQuestions.length < totalQuestions) {
+                const randomIndex = Math.floor(Math.random() * data.length);
+                if (!selectedQuestions.includes(data[randomIndex])) {
+                    selectedQuestions.push(data[randomIndex]);
+                }
+            }
+
+            const form = document.getElementById('quiz-form');
+            selectedQuestions.forEach((question, index) => {
+                const div = document.createElement('div');
+                div.innerHTML = `
+                    <p>${question.question}</p>
+                    ${question.image ? `<img class="test-image" src="${question.image}" alt="Question Image"><br>` : ''}
+                    ${question.options.map((option, i) => `
+                        <label><input type="radio" name="q${index + 1}" value="${option}"> ${option}</label><br>
+                    `).join('')}
+                    <div id="feedback${index + 1}" class="feedback"></div>
+                    <hr>
+                `;
+                form.appendChild(div);
+            });
+        });
+});
+
+function checkAnswers() {
+    fetch('/assets/json/questions.json')
+        .then(response => response.json())
+        .then(data => {
+            let score = 0;
+            const form = document.getElementById('quiz-form');
+            const totalQuestions = form.querySelectorAll('div').length;
+
+            for (let i = 1; i <= totalQuestions; i++) {
+                const answer = document.querySelector(`input[name="q${i}"]:checked`);
+                const feedbackDiv = document.getElementById(`feedback${i}`);
+                const correctAnswer = data.find(q => q.question === document.querySelector(`p`).innerText).correct;
+                const positiveFeedback = data.find(q => q.question === document.querySelector(`p`).innerText).positiveFeedback;
+                const negativeFeedback = data.find(q => q.question === document.querySelector(`p`).innerText).negativeFeedback;
+
+                if (answer && answer.value === correctAnswer) {
+                    score++;
+                    feedbackDiv.innerHTML = `<p style="color: green;">${positiveFeedback}</p>`;
+                } else {
+                    feedbackDiv.innerHTML = `<p style="color: red;">${negativeFeedback}</p>`;
+                }
+            }
+
+            const percentage = (score / totalQuestions) * 100;
+            document.getElementById('results').innerText = `You scored ${score} out of ${totalQuestions} (${percentage}%)`;
+        });
+}
+</script>]]></content><author><name>adrian</name></author><category term="manual del conductor" /><category term="examen teorico" /><summary type="html"><![CDATA[¡Bienvenidos al Examen del Manual del Conductor! Este examen está diseñado para ayudarte a prepararte para la prueba teórica de conducción, basada en el contenido del “Manual del Conductor” de Costa Rica. Entendemos que prepararse para el examen de manejo puede ser un desafío, especialmente cuando el tiempo es limitado y los recursos disponibles no siempre son accesibles o fáciles de usar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/man-driving.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/man-driving.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Aprender Escritura Creativa para tu Crecimiento Profesional</title><link href="http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional/" rel="alternate" type="text/html" title="Aprender Escritura Creativa para tu Crecimiento Profesional" /><published>2024-03-28T00:00:00+00:00</published><updated>2024-03-28T00:00:00+00:00</updated><id>http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional</id><content type="html" xml:base="http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional/"><![CDATA[<p>La escritura creativa es una de las habilidades más incomprendidas de nuestro tiempo. Cuando las personas piensan sobre que es ser un escritor se imaginan a alguien que pasa su tiempo rodeado de libros, bolígrafos y papeles, piensan en escritores de poesía, ficción o fantasía. Sin embargo, la escritura creativa tiene también beneficios para las empresas y los negocios. En este blog comparto mi experiencia y como he aplicado esta nueva habilidad en mi carrera profesional.</p>
 
 <p>Aunque soy bilingüe desde la adolescencia, mi conocimiento de gramática y ortografía son limitados. Idiomas como el español o el francés representan grandes retos en la escritura debido a la cantidad de reglas que si no son bien aplicadas pueden dificultar la lectura, e incluso cambiar el significado de lo que deseamos transmitir.</p>
 
@@ -41,52 +312,7 @@
 <p>Mi expresión verbal también se ha visto afectada de manera positiva, lo cual me da más visibilidad en el crecimiento de mi carrera, y me permite afrontar más retos y tareas, haciéndome un trabajador más robusto que genera mayor impacto.</p>
 
 <h2 id="conclusión">Conclusión</h2>
-<p>Es por todo lo que he mencionado que te recomiendo tomar el papel y lápiz para plasmar tu primer cuento. El océano empezó con una gota, y un libro empieza con una sola palabra. Te invito a buscar dentro de ti esas ideas y experiencias que querés contar, historias que pueden inspirar a otros y a ti mismo. La escritura creativa es una habilidad transferible que podrás aplicar en tu día a día, ya sea en el ámbito personal o profesional y que maximizará tus oportunidades de carrera.</p>]]></content><author><name>adrian</name></author><category term="escritura creativa" /><category term="creatividad" /><category term="nota" /><summary type="html"><![CDATA[La escritura creativa es una de las habilidades más incomprendidas de nuestro tiempo. Cuando las personas piensan sobre que es ser un escritor se imaginan a alguien que pasa su tiempo rodeado de libros, bolígrafos y papeles, piensan en escritores de poesía, ficción o fantasía. Sin embargo, la escritura creativa tiene también beneficios para las empresas y los negocios. En este blog comparto mi experiencia y como he aplicado esta nueva habilidad en mi carrera profesional.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/creative-writing.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/creative-writing.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Examen Manual del Conductor</title><link href="http://localhost:4000/examen-manual-del-conductor/" rel="alternate" type="text/html" title="Examen Manual del Conductor" /><published>2024-03-28T00:00:00+00:00</published><updated>2024-03-28T00:00:00+00:00</updated><id>http://localhost:4000/examen-manual-del-conductor</id><content type="html" xml:base="http://localhost:4000/examen-manual-del-conductor/"><![CDATA[<h3 id="conductors-test">Conductor’s Test</h3>
-
-<form id="quiz-form"></form>
-<p><button type="button" onclick="checkAnswers()">Submit</button></p>
-<div id="results"></div>
-
-<script>
-document.addEventListener('DOMContentLoaded', (event) => {
-    fetch('/assets/questions.json')
-        .then(response => response.json())
-        .then(data => {
-            const form = document.getElementById('quiz-form');
-            data.forEach((question, index) => {
-                const div = document.createElement('div');
-                div.innerHTML = `
-                    <p>${question.question}</p>
-                    ${question.image ? `<img src="${question.image}" alt="Question Image"><br>` : ''}
-                    ${question.options.map((option, i) => `
-                        <label><input type="radio" name="q${index + 1}" value="${option}"> ${option}</label><br>
-                    `).join('')}
-                    <hr>
-                `;
-                form.appendChild(div);
-            });
-        });
-});
-
-function checkAnswers() {
-    fetch('/assets/questions.json')
-        .then(response => response.json())
-        .then(data => {
-            let score = 0;
-            const totalQuestions = data.length;
-
-            data.forEach((question, index) => {
-                const answer = document.querySelector(`input[name="q${index + 1}"]:checked`);
-                if (answer && answer.value === question.correct) {
-                    score++;
-                }
-            });
-
-            const percentage = (score / totalQuestions) * 100;
-            document.getElementById('results').innerText = `You scored ${score} out of ${totalQuestions} (${percentage}%)`;
-        });
-}
-</script>]]></content><author><name>adrian</name></author><category term="manual del conductor" /><category term="examen teorico" /><summary type="html"><![CDATA[Conductor’s Test]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/creative-writing.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/creative-writing.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hoja de Ruta para ser Analista de Datos</title><link href="http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos/" rel="alternate" type="text/html" title="Hoja de Ruta para ser Analista de Datos" /><published>2024-02-19T00:00:00+00:00</published><updated>2024-02-19T00:00:00+00:00</updated><id>http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos</id><content type="html" xml:base="http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos/"><![CDATA[<p>Si andas buscando un mapa para llegar a la x, en donde se encuentra tu carrera como analista de datos. Ven y descubre todo lo que necesitas saber y donde aprenderlo.</p>
+<p>Es por todo lo que he mencionado que te recomiendo tomar el papel y lápiz para plasmar tu primer cuento. El océano empezó con una gota, y un libro empieza con una sola palabra. Te invito a buscar dentro de ti esas ideas y experiencias que querés contar, historias que pueden inspirar a otros y a ti mismo. La escritura creativa es una habilidad transferible que podrás aplicar en tu día a día, ya sea en el ámbito personal o profesional y que maximizará tus oportunidades de carrera.</p>]]></content><author><name>adrian</name></author><category term="escritura creativa" /><category term="creatividad" /><category term="nota" /><summary type="html"><![CDATA[La escritura creativa es una de las habilidades más incomprendidas de nuestro tiempo. Cuando las personas piensan sobre que es ser un escritor se imaginan a alguien que pasa su tiempo rodeado de libros, bolígrafos y papeles, piensan en escritores de poesía, ficción o fantasía. Sin embargo, la escritura creativa tiene también beneficios para las empresas y los negocios. En este blog comparto mi experiencia y como he aplicado esta nueva habilidad en mi carrera profesional.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/creative-writing.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/creative-writing.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hoja de Ruta para ser Analista de Datos</title><link href="http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos/" rel="alternate" type="text/html" title="Hoja de Ruta para ser Analista de Datos" /><published>2024-02-19T00:00:00+00:00</published><updated>2024-02-19T00:00:00+00:00</updated><id>http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos</id><content type="html" xml:base="http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos/"><![CDATA[<p>Si andas buscando un mapa para llegar a la x, en donde se encuentra tu carrera como analista de datos. Ven y descubre todo lo que necesitas saber y donde aprenderlo.</p>
 
 <p>No soy analista de datos, pero he escrito este blog después cotejar los datos de otros analistas que han documentado su camino y los recursos que han usado. Debido a que esos recursos son en su mayoría en inglés y Jak U promueve el aprendizaje autodidacta y busca proveer información de forma gratuita, les presento esta compilación.</p>
 
@@ -558,44 +784,4 @@ git push origin main
 
 <p>¿Cuál ha sido tu experiencia?, ¿cómo fue el inglés que aprendiste en el colegio?, ¿tuviste que aplicar otros métodos para complementar su aprendizaje? Cuéntame tu experiencia en los comentarios.</p>
 
-<p>Aprender otro idioma, no es una opción. Saber inglés, ya no es una ventaja, es una necesidad. Especialmente en esta pequeña Banana Republic of Costa Rica, English Spoken.</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="english" /><category term="nota" /><summary type="html"><![CDATA[Recuerdo que cuando era niño caminaba por las aceras y veía un anuncio en las ventanas de las tiendas; apenas aprendía a leer, pero entendía que esas palabras no eran español. Le pregunté a mi madre, que lo leyó para mí, topándose con mi incredulidad:]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">¿Cómo puede un autodidacta aplicar el método socrático?</title><link href="http://localhost:4000/c%C3%B3mo-puede-un-autodidacta-aplicar-el-m%C3%A9todo-socr%C3%A1tico/" rel="alternate" type="text/html" title="¿Cómo puede un autodidacta aplicar el método socrático?" /><published>2023-10-29T00:00:00+00:00</published><updated>2023-10-29T00:00:00+00:00</updated><id>http://localhost:4000/c%C3%B3mo-puede-un-autodidacta-aplicar-el-m%C3%A9todo-socr%C3%A1tico</id><content type="html" xml:base="http://localhost:4000/c%C3%B3mo-puede-un-autodidacta-aplicar-el-m%C3%A9todo-socr%C3%A1tico/"><![CDATA[<p>Si estás leyendo esto, es porque estás en una búsqueda permanente de conocimiento. No es posible saberlo todo, pero eso no quiere decir que no se pueda intentar. Los griegos son famosos por ese deseo de saber más. En este blog post, exploraremos el <strong>método socrático</strong> y como puedes aplicarlo en tu proceso de aprendizaje para potenciar tu comprensión y pensamiento crítico.</p>
-
-<p>¿Alguna vez te has sentido frustrado por no entender un concepto?, ¿has olvidado lo que aprendes después de estudiar? Yo sí, y esto es muy común. Una forma de evitarlo es con el uso de preguntas, que son primordiales para una comprensión profunda.</p>
-
-<p>En el sistema de educación tradicional memorizamos para pasar el examen sin cuestionar el por qué o el cómo. No comprendemos, más bien, olvidamos en poco tiempo lo que habíamos aprendido. Es aquí donde el método socrático nos ayuda, convirtiéndose en una estrategia para ganar conocimiento.</p>
-
-<p>El método consiste en una búsqueda activa y participativa del conocimiento. Invita a pensar e investigar por uno mismo y a explorar nuevas vías para abordar problemas reales. Su principal característica es la <strong>eliminación de pretensiones de certeza</strong> con el objetivo de animar a una <strong>comprensión más profunda</strong> de un tema en particular. Básicamente, hay que cuestionarlo todo sin dejar ninguna situación por investigar.</p>
-
-<p>Es un enfoque de aprendizaje centrado en hacer preguntas, reflexionar y buscar respuestas por uno mismo. En lugar de proporcionar respuestas directas, ayuda a formar el pensamiento crítico. Aplicar este método en tu proceso de aprendizaje implica:</p>
-
-<ol>
-  <li><strong>Hacer Preguntas</strong>: Cuestiona todo, en especial, preguntas abiertas que pueden generar respuestas más profundas.</li>
-  <li><strong>Diálogo Abierto</strong>: Dialoga, habla en voz alta y discute contigo mismo; analiza todas tus perspectivas. Haz preguntas a otros, y comparte las tuyas</li>
-  <li><strong>Reflexión Personal</strong>: El repaso, el volver a preguntar las preguntas que no se hicieron y las que surgen después del aprendizaje.</li>
-</ol>
-
-<p>Imagina a Juan, un joven de 28 años que trabaja en una pequeña empresa y está interesado en mejorar sus habilidades en la gestión de proyectos. En lugar de simplemente consumir información de manera pasiva, Juan decide aplicar el método socrático para profundizar su comprensión y desarrollar habilidades más sólidas.</p>
-
-<p>Juan comienza por hacer una pregunta fundamental: “¿Qué es realmente la gestión de proyectos y cómo puedo mejorar en ella?”. En lugar de buscar respuestas inmediatas, se embarca en un diálogo interno:</p>
-
-<p>Juan: “¿Qué significa la gestión de proyectos para mí? ¿Cuáles son los aspectos clave que debo entender para tener éxito?”</p>
-
-<p>Después de reflexionar sobre estas preguntas iniciales, Juan se da cuenta de que necesita más información. Comienza a investigar en línea, leyendo libros y blogs sobre gestión de proyectos. A medida que adquiere conocimientos, sigue aplicando el método socrático, esta vez en interacción con otros:</p>
-
-<p>Juan: “He estado investigando sobre gestión de proyectos, pero tengo algunas preguntas. ¿Alguien tiene una perspectiva sobre cómo definir objetivos efectivos en un proyecto?”</p>
-
-<p>Juan se une a grupos de discusión en línea y plantea preguntas como esta para fomentar el diálogo y obtener opiniones de expertos y profesionales experimentados. A medida que interactúa con otros, también comparte sus propias ideas y experiencias.</p>
-
-<p>Al trabajar en un proyecto en su empresa, Juan aplica el método socrático en la práctica. En lugar de imponer sus ideas, fomenta el diálogo con su equipo, preguntando cómo pueden mejorar la planificación, la comunicación y la colaboración en el proyecto. Estas conversaciones ayudan a su equipo a entender mejor los aspectos clave de la gestión de proyectos y a trabajar de manera más efectiva.</p>
-
-<p>Con el tiempo, Juan sigue aprendiendo y aplicando el método socrático en cada paso. Se da cuenta de que la gestión de proyectos es un campo amplio y en constante evolución, y que siempre hay más por descubrir y aprender. El enfoque en la reflexión y el diálogo constante lo ayuda a desarrollar habilidades sólidas en la gestión de proyectos y a avanzar en su carrera.</p>
-
-<p>El método socrático <strong>autocuestionarse</strong> para, después, <strong>razonar y debatir</strong> con los otros y ser capaz de llegar a conclusiones por sí mismo. No trata de definir ni de imponer posturas, sino de <strong>estimular la reflexión</strong>. Y cuantos más argumentos se planteen, más se enriquecerá el conocimiento.</p>
-
-<p>Sócrates decía: <em>“El conocimiento comienza con la admiración.”</em> Esta admiración es lo que impulsa las preguntas y la búsqueda de respuestas.</p>
-
-<p>Aplica el método socrático en tu próximo tema de estudio. Haz preguntas, busca respuestas y comparte tus experiencias con tu grupo de estudio o tu mentor.</p>
-
-<p>En resumen, el método socrático es un enfoque poderoso para el aprendizaje que fomenta el pensamiento crítico, la autoexploración y la comprensión profunda. Al hacer preguntas y buscar respuestas de manera activa, te conviertes en un aprendiz más efectivo y autónomo.</p>
-
-<p>¿Has aplicado el método socrático en tu aprendizaje? ¿Tienes alguna pregunta o experiencia que compartir? ¡Déjala en los comentarios y únete a la conversación!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="nota" /><summary type="html"><![CDATA[Si estás leyendo esto, es porque estás en una búsqueda permanente de conocimiento. No es posible saberlo todo, pero eso no quiere decir que no se pueda intentar. Los griegos son famosos por ese deseo de saber más. En este blog post, exploraremos el método socrático y como puedes aplicarlo en tu proceso de aprendizaje para potenciar tu comprensión y pensamiento crítico.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/old_book.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/old_book.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Aprender otro idioma, no es una opción. Saber inglés, ya no es una ventaja, es una necesidad. Especialmente en esta pequeña Banana Republic of Costa Rica, English Spoken.</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="english" /><category term="nota" /><summary type="html"><![CDATA[Recuerdo que cuando era niño caminaba por las aceras y veía un anuncio en las ventanas de las tiendas; apenas aprendía a leer, pero entendía que esas palabras no eran español. Le pregunté a mi madre, que lo leyó para mí, topándose con mi incredulidad:]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
