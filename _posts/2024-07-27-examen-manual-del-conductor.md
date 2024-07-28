@@ -25,7 +25,7 @@ El objetivo de este examen es proporcionar una herramienta de estudio accesible 
 Queremos ayudarte a ganar confianza y asegurarte de que estás bien preparado para el examen oficial.
 
 ## Recomendaciones
-Revisa el Manual del Conductor: Aunque este examen es una excelente herramienta de práctica, te recomendamos que también leas el "[Manual del Conductor](https://github.com/codingadrian/ManualConductor)" completo para una comprensión más profunda de todas las normas y regulaciones.
+Revisa el Manual del Conductor: Aunque este examen es una excelente herramienta de práctica, te recomendamos que también leas el [Manual del Conductor](https://github.com/codingadrian/ManualConductor) completo para una comprensión más profunda de todas las normas y regulaciones.
 
 Practica Regularmente: Cuantas más veces realices el examen, más familiarizado estarás con el formato de las preguntas y el contenido.
 

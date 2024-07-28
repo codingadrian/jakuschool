@@ -179,4 +179,4 @@ Mejoras futuras podrían incluir más elementos interactivos y recolección de f
 ### Conclusión
 De este proyecto aprendí sobre la versatilidad de Jekyll y el poder de combinarlo con ChatGPT. Esta experiencia reforzó la importancia de los recursos de aprendizaje accesibles y el potencial de la tecnología para mejorar la educación.
 
-Pudes encontrar el examen aquí: [Examen Teórico de Manejo] http://jakuschool.com/examen-manual-del-conductor/
+Pudes encontrar el examen aquí: [Examen Teórico de Manejo](http://jakuschool.com/examen-manual-del-conductor/)
