@@ -6,7 +6,6 @@ categories: [ idiomas en peligro, AI linguista, Boruca ]
 image: assets/images/blogs/creative-writing.png
 ---
 
-## Introducción
 Decidí crear un GPT específicamente para conlangs (lenguas construidas) y la revitalización de idiomas por pura curiosidad. Quería ver hasta dónde podía llegar la IA en términos de creatividad y análisis lingüístico. Me intrigaba saber cómo la tecnología podía ayudar a construir lenguas y, además, cómo podía usarse para revitalizar idiomas en peligro de extinción.
 
 Las conlangs son lenguas que se han creado de forma consciente, no han evolucionado de manera natural. Son un ejemplo impresionante de la creatividad humana y nos permiten entender mejor los mecanismos del lenguaje. Además, estas lenguas pueden servir como modelo para la revitalización de idiomas en peligro, mostrando un desarrollo estructurado y bien documentado. Ejemplos famosos incluyen Sindarin de J.R.R. Tolkien, Trigedasleng de la serie de TV The 100, y Klingon de Star Trek. Estas lenguas no solo enriquecen sus mundos ficticios, sino que también han tenido un impacto real, como en el caso de Klingon, que incluso tiene hablantes nativos.
