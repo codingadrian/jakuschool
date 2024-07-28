@@ -1,0 +1,50 @@
+title: "Jak U School"
+email: hablemos@jakuschool.com
+timezone: UTC
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Adrian Robles
+paginate: 30
+disqus: 'demowebsite'
+locale: es_cr
+lang: es_cr
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+url: "https://jakuschool.com"
+
+# Authors
+authors:
+  adrian:
+    name: Adrian
+    display_name: Adrian R
+    avatar: 'assets/images/adrian.jpg'
+    email: codingadrian@gmail.com
+    web: https://www.roblesadrian.com
+    twitter: https://twitter.com/aroblesfuentes
+    linkedin: https://www.linkedin.com/in/aroblesfuentes/
+    description: "Fundador de Jak U School, un sitio web educacional enfocado en el aprendizaje autodidacta y el desarrollo profesional."
+  
+# Social
+social:
+  instagram: https://www.instagram.com/jakuschool/
+  facebook: https://www.facebook.com/profile.php?id=61552990615035
+  twitter: https://twitter.com/JakUSchool
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

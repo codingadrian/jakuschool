@@ -1,0 +1,30 @@
+# Top Menu
+topmenu:
+
+# - title: 
+#  url: ""
+
+- title: Jak U School
+  url: "jakuschool/"
+
+- title: Jak U English
+  url: "jakuenglish/"
+
+- title: Arrukö́
+  url: "arruko/"
+  
+- title: Contacto
+  url: "contacto/"
+
+
+# Footer Menu
+footermenu:
+
+- title: Jak U School
+  url: ""
+
+- title: Política de Privacidad
+  url: "privacy-policy/"
+
+- title: Contacto
+  url: "contact/"
