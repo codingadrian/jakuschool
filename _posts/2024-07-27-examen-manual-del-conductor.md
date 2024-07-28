@@ -3,7 +3,7 @@ layout: post
 title:  "Examen Manual del Conductor"
 author: adrian
 categories: [ manual del conductor, examen teorico ]
-image: assets/images/blogs/creative-writing.png
+image: assets/images/blogs/man-driving.png
 ---
 
 ¡Bienvenidos al Examen del Manual del Conductor! Este examen está diseñado para ayudarte a prepararte para la prueba teórica de conducción, basada en el contenido del "Manual del Conductor" de Costa Rica. Entendemos que prepararse para el examen de manejo puede ser un desafío, especialmente cuando el tiempo es limitado y los recursos disponibles no siempre son accesibles o fáciles de usar.

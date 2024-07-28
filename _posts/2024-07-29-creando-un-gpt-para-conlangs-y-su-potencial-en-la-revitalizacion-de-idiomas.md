@@ -3,7 +3,7 @@ layout: post
 title:  "Creando un GPT para Conlangs y su Potencial en la Revitalización de Idiomas"
 author: adrian
 categories: [ idiomas en peligro, AI linguista, Boruca ]
-image: assets/images/blogs/creative-writing.png
+image: assets/images/blogs/gpt-language.png
 ---
 
 Decidí crear un GPT específicamente para conlangs (lenguas construidas) y la revitalización de idiomas por pura curiosidad. Quería ver hasta dónde podía llegar la IA en términos de creatividad y análisis lingüístico. Me intrigaba saber cómo la tecnología podía ayudar a construir lenguas y, además, cómo podía usarse para revitalizar idiomas en peligro de extinción.

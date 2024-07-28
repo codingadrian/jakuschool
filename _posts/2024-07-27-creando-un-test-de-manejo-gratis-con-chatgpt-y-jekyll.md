@@ -3,7 +3,7 @@ layout: post
 title:  "Creando un Test de Manejo Gratis con ChatGPT y Jekyll"
 author: adrian
 categories: [ ChatGPT, Jekyll, Manual del Conductor, Examen Teórico de Manejo ]
-image: assets/images/blogs/creative-writing.png
+image: assets/images/blogs/making-driving-test.png
 ---
 
 Aprender a conducir siempre ha sido un desafío para mí, principalmente debido a la falta de tiempo y acceso a recursos. Aunque encontré el libro "Manual del Conductor", su formato no era muy amigable. Además, muchos sitios web estaban llenos de anuncios o cobraban por acceder a su contenido. Esto me inspiró a crear un test de manejo en línea gratuito y sin anuncios, usando ChatGPT y Jekyll.
