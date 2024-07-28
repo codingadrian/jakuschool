@@ -363,6 +363,35 @@
 	</div>
 </div>
 <!--End mc_embed_signup-->
+
+<form id="subscribe-form" method="POST">
+	<input type="text" name="name" id="name" placeholder="Enter your name" required>
+	<input type="email" name="email" id="email" placeholder="Enter your email" required>
+	<button type="submit">Subscribe</button>
+  </form>
+  
+  <script>
+	document.getElementById('subscribe-form').addEventListener('submit', function(event) {
+	  event.preventDefault();
+	  const name = document.getElementById('name').value;
+	  const email = document.getElementById('email').value;
+	  fetch('https://script.google.com/macros/s/AKfycbxxnVuXlEhsURrL4GwpFEAoPWMIIEbi9WU5EDr7eUqiWXhrFfKigqg6Bet-B6z3Km9I0Q/exec', {
+		method: 'POST',
+		body: JSON.stringify({ name: name, email: email }),
+		headers: {
+		  'Content-Type': 'application/json'
+		}
+	  }).then(response => {
+		if (response.ok) {
+		  alert('Thank you for subscribing!');
+		} else {
+		  alert('There was an issue with your subscription. Please try again.');
+		}
+	  });
+	});
+  </script>
+  
+  
     </div>
     <div class="sidebar-section">
         <h5><span>Your Ad Here</span></h5>
