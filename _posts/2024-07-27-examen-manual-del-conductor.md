@@ -38,7 +38,7 @@ Estamos comprometidos a apoyar tu proceso de aprendizaje y esperamos que encuent
 ## Examen
 
 <form id="quiz-form"></form>
-<button type="button" onclick="checkAnswers()">Submit</button>
+<button type="button" onclick="checkAnswers()">Completar</button>
 <div id="results"></div>
 
 <script>
