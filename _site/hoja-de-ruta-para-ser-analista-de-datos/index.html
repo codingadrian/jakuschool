@@ -437,24 +437,23 @@
 	  console.log('Name:', name);
 	  console.log('Email:', email);
   
-	  fetch('https://script.google.com/macros/s/AKfycbxxnVuXlEhsURrL4GwpFEAoPWMIIEbi9WU5EDr7eUqiWXhrFfKigqg6Bet-B6z3Km9I0Q/exec', {
-		method: 'POST',
-		body: JSON.stringify({ name: name, email: email }),
+	  fetch(`https://script.google.com/macros/s/AKfycbxxnVuXlEhsURrL4GwpFEAoPWMIIEbi9WU5EDr7eUqiWXhrFfKigqg6Bet-B6z3Km9I0Q/exec?callback=handleResponse&name=${encodeURIComponent(name)}&email=${encodeURIComponent(email)}`, {
+		method: 'GET',
 		headers: {
 		  'Content-Type': 'application/json'
 		}
-	  }).then(response => response.text())
-	  .then(data => {
-		responseMessage.style.display = 'block';
-		responseMessage.textContent = data === 'Success' ? 'Thank you for subscribing!' : data;
-		responseMessage.style.color = data === 'Success' ? 'green' : 'red';
-	  })
-	  .catch(error => {
-		responseMessage.style.display = 'block';
-		responseMessage.textContent = 'There was an issue with your subscription. Please try again.';
-		responseMessage.style.color = 'red';
-		console.error('Error:', error);
 	  });
+  
+	  window.handleResponse = function(data) {
+		responseMessage.style.display = 'block';
+		if (data.status === 'success') {
+		  responseMessage.textContent = 'Thank you for subscribing!';
+		  responseMessage.style.color = 'green';
+		} else {
+		  responseMessage.textContent = data.message;
+		  responseMessage.style.color = 'red';
+		}
+	  }
 	});
   </script>
   
