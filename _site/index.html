@@ -519,12 +519,11 @@
     <div class="sidebar sticky-top">        
     <div class="sidebar-section">
         <h5><span>Newsletter</span></h5>
-        
-  <!-- _includes/subscribe_form.html -->
-<form id="subscribe-form" method="POST">
+        <form id="subscribe-form" method="POST">
 	<input type="text" name="name" id="name" placeholder="Enter your name" required>
 	<input type="email" name="email" id="email" placeholder="Enter your email" required>
 	<button type="submit">Subscribe</button>
+	<p id="response-message" style="display: none;"></p>
   </form>
   
   <script>
@@ -532,18 +531,28 @@
 	  event.preventDefault();
 	  const name = document.getElementById('name').value;
 	  const email = document.getElementById('email').value;
+	  const responseMessage = document.getElementById('response-message');
+  
+	  console.log('Name:', name);
+	  console.log('Email:', email);
+  
 	  fetch('https://script.google.com/macros/s/AKfycbxxnVuXlEhsURrL4GwpFEAoPWMIIEbi9WU5EDr7eUqiWXhrFfKigqg6Bet-B6z3Km9I0Q/exec', {
 		method: 'POST',
 		body: JSON.stringify({ name: name, email: email }),
 		headers: {
 		  'Content-Type': 'application/json'
 		}
-	  }).then(response => {
-		if (response.ok) {
-		  alert('Thank you for subscribing!');
-		} else {
-		  alert('There was an issue with your subscription. Please try again.');
-		}
+	  }).then(response => response.text())
+	  .then(data => {
+		responseMessage.style.display = 'block';
+		responseMessage.textContent = data === 'Success' ? 'Thank you for subscribing!' : data;
+		responseMessage.style.color = data === 'Success' ? 'green' : 'red';
+	  })
+	  .catch(error => {
+		responseMessage.style.display = 'block';
+		responseMessage.textContent = 'There was an issue with your subscription. Please try again.';
+		responseMessage.style.color = 'red';
+		console.error('Error:', error);
 	  });
 	});
   </script>
