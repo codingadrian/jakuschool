@@ -13,9 +13,9 @@ Elegí ChatGPT por su rapidez en analizar datos, lo que permitió que el test es
 
 ### Recursos
 Para este proyecto, utilicé:
-- El "Manual del Conductor" en formato PDF
-- Una cuenta Pro de ChatGPT ejecutando la versión 4.0
-- Mis ideas y determinación
+- El "[Manual del Conductor](/assets/misc/Manual%20del%20Conductor.pdf)" de Costa Rica en formato PDF
+- Una cuenta Pro de ChatGPT ejecutando la versión 4o
+- VSCode, GitHub Pages y Jekyll.
 
 ### Usando ChatGPT
 Usé ChatGPT para generar las preguntas y respuestas. Aquí tienes un resumen paso a paso de mis interacciones:
@@ -38,18 +38,11 @@ Usé ChatGPT para generar las preguntas y respuestas. Aquí tienes un resumen pa
   }
   ```
 
-### Configurando Jekyll
-Jekyll fue elegido por su simplicidad y flexibilidad. Aquí te explico cómo configuré el sitio con Jekyll:
+  El examen se compone de una pregunta con tres opciones de selección múltiple, entre ellas la respuesta correcta. Incluye una imagen en los casos que lo requiera. Además, el examen brindará una breve explicación dependiendo de si la respuesta es correcta o incorrecta.
 
-1. **Instalación:**
-   ```bash
-   gem install jekyll bundler
-   jekyll new mysite
-   cd mysite
-   bundle exec jekyll serve
-   ```
-2. **Configuración:** Actualicé `_config.yml` con los detalles del sitio y las preferencias de tema.
-3. **Agregando Contenido:** Creé archivos markdown para las diferentes secciones del sitio.
+### Configurando Jekyll
+Jekyll fue elegido por su simplicidad y flexibilidad. Estoy usando este blog para publicar el examen. Pero si te interesa saber como montar tu blog, te comparto la guía aquí: [Jekyll](https://jekyllrb.com/) 
+
 
 ### Integrando el Quiz
 Estructuré el archivo JSON para almacenar las preguntas y respuestas del quiz. Aquí tienes un ejemplo:
@@ -68,7 +61,7 @@ Estructuré el archivo JSON para almacenar las preguntas y respuestas del quiz. 
 ```
 
 ### Agregando Funcionalidad
-Utilicé JavaScript básico para randomizar y mostrar 40 preguntas del conjunto de 200. Aquí tienes un fragmento del script principal que se agrega en el archivo `quiz.md`:
+Utilicé JavaScript básico para randomizar y mostrar 40 preguntas del conjunto de 500. Aquí tienes un fragmento del script principal que se agrega en el archivo `quiz.md`:
 
 
 ```markdown
@@ -79,27 +72,37 @@ title: Conductor's Test
 
 ### Conductor's Test
 
+[comment]: Esto crea el marco para el examen (pregunta + respuestas), el botón para entregar los resultados, y la caja que depliega la explicación.
+
 <form id="quiz-form"></form>
-<button type="button" onclick="checkAnswers()">Submit</button>
+<button type="button" onclick="checkAnswers()">Completar</button>
 <div id="results"></div>
 
 <script>
+    // Esto asegura que el script corra hasta que el contenido de la página se ha cargado.
 document.addEventListener('DOMContentLoaded', (event) => {
+    // Esto obtiene el archivo que contiene las preguntas y lo procesa
     fetch('/assets/questions.json')
         .then(response => response.json())
         .then(data => {
+            // Esto define el total de las preguntas
             const totalQuestions = 40;
+            // Esto es el objeto de las preguntas seleccionadas
             const selectedQuestions = [];
+            // Esto es un while loop que selecciona un número aleatorio de preguntas hasta completar 40
             while (selectedQuestions.length < totalQuestions) {
                 const randomIndex = Math.floor(Math.random() * data.length);
+                // Esto revisa si la pregunta ya fue includa, de no ser así, la incluye en el array
                 if (!selectedQuestions.includes(data[randomIndex])) {
                     selectedQuestions.push(data[randomIndex]);
                 }
             }
-
+            // Esto inicia el formulario que contiene el examen
             const form = document.getElementById('quiz-form');
+            // Esto crea un div para cada uno de las preguntas
             selectedQuestions.forEach((question, index) => {
                 const div = document.createElement('div');
+                // Esto define la estructura del HTML para desplegar la pregunta y también une la explicación cuando se completa
                 div.innerHTML = `
                     <p>${question.question}</p>
                     ${question.image ? `<img src="${question.image}" alt="Question Image"><br>` : ''}
@@ -114,15 +117,19 @@ document.addEventListener('DOMContentLoaded', (event) => {
         });
 });
 
+// Esta es la función que revisa las respuestas
 function checkAnswers() {
+    // Esto obtiene el archivo que contiene las preguntas y respuestas
     fetch('/assets/questions.json')
         .then(response => response.json())
         .then(data => {
+            // Esto pone a nota en 0
             let score = 0;
             const form = document.getElementById('quiz-form');
             const totalQuestions = form.querySelectorAll('div').length;
 
-            for (let i = 1; i <= totalQuestions; i++) {
+            // Esto revisa la pregunta seleccionada contra la respuesta correct y muestra la explicación
+            for (let i = 1; i <= totalQuestions; i++) { 
                 const answer = document.querySelector(`input[name="q${i}"]:checked`);
                 const feedbackDiv = document.getElementById(`feedback${i}`);
                 const correctAnswer = data.find(q => q.question === document.querySelector(`p`).innerText).correct;
@@ -137,6 +144,7 @@ function checkAnswers() {
                 }
             }
 
+            // Esto muestra la nota final
             const percentage = (score / totalQuestions) * 100;
             document.getElementById('results').innerText = `You scored ${score} out of ${totalQuestions} (${percentage}%)`;
         });
@@ -149,11 +157,26 @@ function checkAnswers() {
 Utilicé CSS para centrar imágenes y mejorar el diseño. Aquí tienes un fragmento clave:
 
 ```css
-.center-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%; /* Ajustar según sea necesario */
+.feedback {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+button {
+    padding: 6px 20px;
+    background-color: #3d61fd !important;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5vw; /* Adjust the width as needed */
 }
 ```
 
