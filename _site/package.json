@@ -1,0 +1,23 @@
+{
+  "name": "basesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingadrian/jakuschool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingadrian/jakuschool/issues"
+  },
+  "homepage": "https://github.com/codingadrian/jakuschool#readme",
+  "devDependencies": {
+    "sass": "^1.97.3"
+  }
+}

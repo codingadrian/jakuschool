@@ -1,0 +1,45 @@
+---
+title: Blog
+layout: default
+permalink: /blog/
+---
+
+<!-- HERO
+================================================== -->
+<section class="rounded mb-5 hero">
+  <div class="row align-items-center justify-content-between">
+    <div class="col-md-6">
+      <h1 class="font-weight-bold mb-3 serif-font">Blog</h1>
+      <p class="lead">
+        Documentación, reflexiones y notas de construcción: aprendizaje autodidacta, proyectos, lenguaje, tecnología y ejecución.
+      </p>
+    </div>
+
+    <div class="col-md-6 text-right pl-0 pl-lg-4">
+      <img height="280"
+           src="{{site.baseurl}}/assets/images/blogs/author2.png"
+           alt="Jak U Blog">
+    </div>
+  </div>
+</section>
+
+
+<!-- Featured Posts
+================================================== -->
+<section class="row">
+  <div class="col-sm-12">
+    <div class="row">
+      {% for post in site.posts %}
+        {% unless post.featured == true %}
+          <div class="col-md-4 mb-4">
+            {% include postbox.html %}
+          </div>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </div>
+
+
+</section>
+
+

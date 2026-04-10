@@ -1,74 +1,812 @@
-/* 
-Don't want to use sass and simply modify the stylesheet in the old css fashion? 
-Just customize your theme here.
-================================================== */
 
-body {}
+
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap");
+
+/* BASE */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #fff;
+  color: #333;
+  font-family: "PT Sans", sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+  overflow-x: hidden;
+  padding-top: 116px; /* space for fixed navbar */
+  transition: all 200ms linear;
+}
+
+main {
+  min-height: 500px;
+}
+
+/* Headings + common “dark” text selectors */
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-light .navbar-brand,
+.text-dark,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-weight: 600;
+}
+
+h4,
+.h4,
+h5,
+.h5 {
+  line-height: 1.4;
+}
+
+.font-weight-bold {
+  font-weight: 600 !important;
+}
+
+.serif-font {
+  font-family: "PT Serif", serif;
+}
+
+small,
+.small {
+  font-size: 90%;
+}
+
+.big {
+  font-size: 1.4em;
+}
+
+/* Links */
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.4s;
+}
+
+a:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Media */
+img,
+video {
+  max-width: 100%;
+}
+
+img {
+  height: auto;
+}
+
+
+
+
+/* Navigation */
+
+.navigation-wrap {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  background: #fff;
+  transition: all 0.3s ease-out;
+}
+
+.start-header {
+  opacity: 1;
+  transform: translateY(0);
+  padding: 20px 0;
+  transition: all 0.3s ease-out;
+}
+
+.start-header.scroll-on {
+  padding: 5px 0;
+  box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.05);
+}
+
+.start-header.scroll-on .navbar-brand img {
+  transition: all 0.3s ease-out;
+}
+
+/* Brand / Logo */
+.navbar-brand {
+  margin-right: 0;
+}
 
 #logo {
-    width: 50%;
+  width: 50%;
 }
 
-.navbar-brand {
-    margin-right: 0;
+/* Navbar alignment */
+.navbar .navbar-nav {
+  align-items: center;
 }
 
-#mc_embed_signup .foot {
-    grid-template-columns: 4fr !important;
-    width: 100% !important;
+.navbar .navbar-nav .nav-link {
+  display: flex;
+  align-items: center;
+  line-height: 1;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar-toggler {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  outline: none !important;
+  padding: 0.25rem 0.5rem;
+  color: inherit !important;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active {
+  background: transparent !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.navbar-toggler:hover {
+  background: transparent !important;
 }
 
 
-/* JAK U English Medals*/
-
-.medals {
-    width: auto;
-    text-align: center;
-    font-size: 2em;
+/* Base social icon */
+.social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #1a1a1a;
+  text-decoration: none;
+  transition: color 0.2s ease, transform 0.15s ease;
 }
 
-.medals a {
-    text-decoration: none !important;
-    box-shadow: none !important;
+.social-icon:hover {
+  text-decoration: none;
 }
 
-.medals:link {
-    text-decoration: none !important;
-    box-shadow: none !important;
+.social-icon svg {
+  display: block;
+  fill: currentColor;
 }
 
-.medals:visited {
-    text-decoration: none !important;
-    box-shadow: none !important;
+.nav-social {
+  white-space: nowrap;
 }
 
-.medals:hover {
-    text-decoration: none !important;
-    box-shadow: none !important;
+.nav-social .social-icon {
+  width: 22px;
+  height: 22px;
+  margin-left: 10px;
+  transform: none;
 }
 
-.medals:active {
-    text-decoration: none !important;
-    box-shadow: none !important;
+.nav-social .social-icon:hover {
+  transform: none;
 }
 
-.medal {
-    display: inline-block;
-    padding: 10px 0;
-    border: 1px solid black;
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
-    margin: 3px;
+.nav-social .social-icon svg {
+  width: 16px;
+  height: 16px;
 }
 
-.medal:hover {
-    border: 2px solid gray;
-    color: gray;
-    font-weight: 600;
+/* Section backgrounds */
+.hero {
+  background: #fdd93d;
+  padding: 3rem;
+}
+
+.banner {
+  background: #afe1af;
+  padding: 3rem;
+}
+
+.author,
+.project {
+  background: #60a8f0;
+  padding: 3rem;
+}
+
+.contact {
+  background: #fdd93d;
+  padding: 3rem;
+}
+
+.paso {
+  border: #333 1px solid;
+  padding: 3rem;
+  background: #afe1af;
+}
+
+
+/* Page headings */
+.hero h1 {
+  font-size: 2.5em;
+}
+
+/* Page header layout tweaks */
+@media only screen and (max-width: 1024px) {
+  .page-header.big {
+    font-size: 3.5em;
   }
 
+}
 
-.medal span {
-    display: block;
+@media only screen and (max-width: 767px) {
+  .page-header.big {
+    font-size: 2.5em;
+  }
+}
+
+/* SECTION TITLES */
+
+.section-title h2 {
+  font-weight: 700;
+  font-size: 1.4rem;
+  margin-bottom: 27px;
+  position: relative;
+}
+
+.section-title h2:before {
+  position: absolute;
+  z-index: 1;
+  left: 15px;
+  right: 0;
+  top: 15px;
+  height: 1px;
+  content: "";
+  background-color: #efefef;
+}
+
+.section-title span {
+  background-color: #fff;
+  position: relative;
+  z-index: 2;
+  display: inline-block;
+  padding: 0 15px 0 0;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+
+
+/* POSTS / ARTICLE CONTENT */
+
+.article-post {
+  font-size: 1.18em;
+  line-height: 1.64;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.article-post > * {
+  margin-bottom: 1.5rem;
+}
+
+.article-post ol,
+.article-post ul {
+  margin-bottom: 1.5rem;
+}
+
+.article-post ol ol,
+.article-post ul ul {
+  list-style: disc;
+  margin-bottom: 0;
+}
+
+/* Code */
+code {
+  font-size: 15px;
+}
+
+pre {
+  background-color: #0d1117;
+  border-radius: 12px;
+  padding: 16px 20px;
+  overflow-x: auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+pre code {
+  color: #c9d1d9;
+  font-family: "Fira Code", monospace;
+  font-size: 14px;
+  line-height: 1.6;
+  display: block;
+}
+
+.code-wrapper {
+  position: relative;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  background: #21262d;
+  color: #c9d1d9;
+  border: none;
+  padding: 4px 10px;
+  font-size: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.copy-btn:hover {
+  background: #30363d;
+}
+
+/* Links with “highlight underline” effect */
+.article-post a {
+  color: inherit;
+  box-shadow: inset 0 -2px 0 rgba(255, 229, 31, 1),
+    0 2px 0 rgba(255, 229, 31, 1);
+}
+
+.article-post a:hover {
+  box-shadow: inset 0 -30px 0 rgba(255, 229, 31, 1),
+    0 2px 0 rgba(255, 229, 31, 1);
+  text-decoration: none;
+}
+
+/* Media inside posts */
+.article-post img,
+.article-post iframe {
+  border-radius: 0.25rem !important;
+}
+
+/* Post headings inside content */
+.article-post .h1,
+.article-post .h2,
+.article-post .h3,
+.article-post .h4,
+.article-post .h5,
+.article-post .h6,
+.article-post h1,
+.article-post h2,
+.article-post h3,
+.article-post h4,
+.article-post h5,
+.article-post h6 {
+  font-weight: 600;
+  font-family: "PT Sans", sans-serif;
+  margin-top: 2rem;
+}
+
+/* Quotes */
+blockquote {
+  border-left: 4px solid #222;
+  padding: 0 0 0 20px;
+  margin-left: 30px;
+  font-style: italic;
+  font-size: 0.9em;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+/* Featured images */
+.featured-image {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 2rem;
+}
+
+
+
+/* Post meta header */
+.post-top-meta {
+  margin: 3rem 0 1rem;
+}
+
+.post-top-meta span {
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.44);
+  display: inline-block;
+}
+
+.post-top-meta .author-description {
+  margin: 10px 0 5px;
+  font-size: 0.95rem;
+}
+
+.mainheading h1.posttitle {
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+/* Author avatar */
+.author-thumb {
+  width: 50px;
+  height: 50px;
+  margin-right: 9px;
+  border-radius: 100%;
+  border: 2px solid #eaeaea;
+  padding: 2px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.post-top-meta .author-thumb {
+  width: 72px;
+  height: 72px;
+}
+
+
+/* Truncation for author meta line */
+.author-meta {
+  flex: 1 1 auto;
+  white-space: nowrap !important;
+  text-overflow: ellipsis !important;
+  overflow: hidden !important;
+}
+
+span.post-name,
+span.post-date,
+span.author-meta {
+  display: inline-block;
+}
+
+/* Read-more “circle arrow” */
+span.post-read-more a {
+  color: rgba(0, 0, 0, 0.44);
+  display: inline-block;
+  float: right;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border: 1px solid #d0d0d0;
+  border-radius: 50%;
+}
+
+span.post-name a,
+span.post-read-more a:hover {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* Dot separator */
+.dot:after {
+  content: "·";
+  margin: 0 3px;
+}
+
+.link-dark {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* Prev/Next links */
+.prevnextlinks {
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.prevnextlinks .thepostlink {
+  padding: 20px 0;
+  font-size: 17px;
+  display: block;
+  color: #111;
+  font-weight: 500;
+}
+
+.prevnextlinks .rightborder {
+  border-right: 1px solid #eee;
+}
+
+/* Responsive tweaks for post meta */
+@media (max-width: 1024px) {
+  .post-top-meta .col-md-10 {
+    text-align: center;
+  }
+}
+
+
+
+/* Cards */
+.card {
+  border: 0;
+}
+
+.card .img-thumb {
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+}
+
+/* Tags */
+ul.tags {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1.5rem 0;
+}
+
+ul.tags li {
+  display: inline-block;
+  font-size: 0.9rem;
+}
+
+ul.tags li a {
+  background: #eee;
+  color: #333;
+  padding: 3px 10px;
+  border-radius: 3px;
+  font-weight: 500;
+  text-transform: capitalize;
+  box-shadow: 0 6px 10px 0 rgba(169, 169, 169, 0.1);
+}
+
+ul.tags li a:hover {
+  background: rgba(0, 0, 0, 0.07);
+  text-decoration: none;
+}
+
+/* BUTTONS */
+
+.btn.follow {
+  border-color: #ccc;
+  color: #999;
+  padding: 3px 10px;
+  text-align: center;
+  border-radius: 999em;
+  font-size: 0.85rem;
+  display: inline-block;
+  box-shadow: none;
+  font-weight: 400;
+}
+
+.post-top-meta .btn.follow {
+  margin-left: 5px;
+  margin-top: -4px;
+}
+
+
+
+/* FORMS */
+
+
+/* Placeholder color (cross-browser) */
+.form-control::-webkit-input-placeholder,
+.form-control:-moz-placeholder,
+.form-control::-moz-placeholder,
+.form-control:-ms-input-placeholder,
+.form-control::-ms-input-placeholder {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+/* Base form control */
+.form-control {
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  padding: 12px 16px;
+  background-color: rgba(255, 255, 255, 0.85);
+  box-shadow: none;
+}
+
+.form-control:focus {
+  border-color: #000;
+  background-color: #fff;
+  box-shadow: none;
+  outline: none;
+}
+
+/* Submit button */
+#submitBtn {
+  background-color: transparent !important;
+  color: #343a40;
+  border: 1px solid #343a40;
+  border-radius: 12px;
+  padding: 10px 18px;
+  transition: background-color 0.2s ease, color 0.2s ease,
+    border-color 0.2s ease, transform 0.15s ease;
+}
+
+#submitBtn:hover {
+  background-color: #343a40 !important;
+  color: #fff;
+  border-color: #343a40;
+  transform: translateY(-1px);
+}
+
+#submitBtn:active {
+  transform: translateY(0);
+}
+
+/* Contact form status */
+#formStatus {
+  border-radius: 12px;
+  padding: 14px 18px;
+  font-weight: 500;
+  margin-top: 12px;
+}
+
+#formStatus.alert-success {
+  background-color: #afe1af; /* site green */
+  color: #1a1a1a;
+  border: 1px solid #1a1a1a;
+}
+
+#formStatus.alert-danger {
+  background-color: #fff;
+  color: #1a1a1a;
+  border: 1px solid #1a1a1a;
+}
+
+
+/* PAGINATION */
+
+
+.bottompagination span.navigation a {
+  background: #fdd93d;
+  color: #333;
+  padding: 5px;
+  border-radius: 3px;
+  text-transform: none;
+  font-weight: 600;
+  letter-spacing: 0;
+  min-width: 100px;
+  display: inline-block;
+}
+
+
+.bottompagination span.navigation i {
+  display: inline-block;
+}
+
+span.navigation {
+  display: block;
+  font-size: 0.93rem;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+}
+
+span.navigation:before {
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  top: 12px;
+  height: 1px;
+  content: "";
+}
+
+.pagination {
+  display: inline-block;
+  background: #fff;
+  z-index: 1;
+  position: relative;
+  padding: 0 20px;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+/* FOOTER */
+
+.footer {
+  margin-top: 4rem;
+  padding: 30px 0;
+}
+
+.footer ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+/* Hover utility */
+.hover-opacity:hover {
+  opacity: 0.8;
+  transition: all 0.3s;
+}
+
+
+
+/* CONTACT HEADER + ICONS (layout) */
+
+.contact-head {
+  width: 100%;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.contact-icons {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  width: 100%;
+}
+
+.contact-icons .social-icon {
+  width: 34px;
+  height: 34px;
+  margin: 0; /* rely on gap */
+  transform: none;
+}
+
+.contact-icons .social-icon svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* Container sizing tweak */
+@media (max-width: 1366px) {
+  .container-xl,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container {
+    width: 90%;
+    max-width: 90%;
+    padding: 0 25px;
+  }
+}
+
+/* Mobile: center title and icons under it */
+@media (max-width: 576px) {
+  .contact-head {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    width: 100% !important;
+  }
+
+  .contact-head > h2 {
+    width: 100% !important;
+    text-align: center !important;
+    margin: 0 0 10px 0 !important;
+  }
+
+  .contact-head > .contact-icons {
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 12px !important;
+    margin: 0 auto !important;
+  }
+
+  /* Kill any leftover Bootstrap margins like mr-2 */
+  .contact-head > .contact-icons .social-icon {
+    margin: 0 !important;
+  }
+
+  .contact-icons .social-icon {
+    width: 32px !important;
+    height: 32px !important;
+  }
+
+  /* Mobile contact section padding override */
+  .contact {
+    padding: 0;
+  }
 }

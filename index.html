@@ -1,62 +1,128 @@
 ---
-title: Jak U Blog
+title: Jak U School
 layout: default
 background: '/img/bg-index.jpg'
 ---
 
-<!-- Home Intro
-================================================== -->
 {% if page.url == "/" %}
-<div class="rounded mb-5 hero">
-  <div class="row align-items-center justify-content-between">
-    <div class="col-md-6">
-      <h1 class="font-weight-bold mb-4 serif-font">Jak U School</h1>
-      <h3 class="font-weight-light mb-4 serif-font home-subtitle">(hak - oo)</h3>
-      <p class="lead mb-4">Creemos en el poder transformador de la educación y en el potencial ilimitado que reside en
-        cada individuo. Nuestra misión es sencilla pero profunda: empoderarte para liberar tu máximo potencial y
-        emprender un viaje de aprendizaje continuo y crecimiento personal</p>
-    </div>
-    <div class="col-md-6 text-right pl-0 pl-lg-4">
-      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/blogs/student_sitting_in_front_of_a_desk_on_the_desk.svg">
-    </div>
-  </div>
-</div>
-{% endif %}
 
-<!-- Featured
+<!-- HERO
 ================================================== -->
-<section class="row">
-  {% for post in site.posts %}
-  {% if post.featured == true %}
-  <div class="col-md-4 mb-5">
-    {% include postbox.html %}
-  </div>
-  {% endif %}
-  {% endfor %}
-  </div>
+<section class="rounded mb-5 hero">
+    <div class="row align-items-center justify-content-between">
+        <div class="col-md-6">
+            <h1 class="font-weight-bold mb-3 serif-font">Jak U School</h1>
+            <h3 class="font-weight-light mb-4 serif-font home-subtitle">(hak - oo)</h3>
+
+            <p class="lead mb-4">
+                Creemos en el poder transformador de la educación y en el potencial ilimitado que reside en cada
+                individuo. Nuestra misión es sencilla pero profunda: empoderarte para liberar tu máximo potencial y
+                emprender un viaje de aprendizaje continuo y crecimiento personal
+            </p>
+        </div>
+
+        <div class="col-md-6 text-right pl-0 pl-lg-4">
+            <img class="intro" height="500"
+                src="{{site.baseurl}}/assets/images/blogs/student_sitting_in_front_of_a_desk_on_the_desk.svg"
+                alt="Jak U School">
+        </div>
+    </div>
 </section>
 
-<!-- Posts List with Sidebar (except featured)
+<!-- MISSION + ORIGIN
 ================================================== -->
-<section class="row">
-  <div class="col-sm-8">
+<section class="rounded mb-5 banner" id="mission">
+    <div class="row align-items-center justify-content-end">
+        <div class="col-md-6 text-right pl-0 pl-lg-4">
+            <img class="intro" height="500"
+                src="{{site.baseurl}}/assets/images/blogs/jakusomos2.png"
+                alt="Jak U School">
+        </div>
+        <div class="col-md-6">
+            <h2 class="font-weight-bold mb-3 serif-font">Jak U</h2>
+
+            <p class="lead">
+                Jak U es la combinación de dos palabras cabécar que significan “piedra” y “casa”: la casa de la piedra.
+                Nuestros antepasados entendieron que la piedra no era solo un objeto, sino un potencial. Golpe tras
+                golpe, la transformaron en herramientas y, al hacerlo, se transformaron a sí mismos.
+            </p>
+
+            <p class="lead">
+                En Jak U también jugamos con “Hack U”: hackear tu propio crecimiento. Aquí experimentamos, probamos
+                hipótesis y construimos sistemas para convertir el conocimiento en algo real.
+            </p>
+        </div>
+
+
+    </div>
+</section>
+
+<!-- ARRUKÖ́ PHILOSOPHY
+================================================== -->
+<section class="rounded mb-5 banner" id="arruko">
+    <div class="row align-items-center justify-content-between">
+        <div class="col-md-6">
+            <h2 class="mb-3 serif-font">Arrukö́</h2>
+
+            <p class="lead">
+                Arrukö́ es un concepto del idioma cabécar: una energía o gracia vital que capacita a los seres para
+                cumplir su función. Es la inquietud que impulsa la acción: la necesidad de explorar, crear y ejecutar.
+                El conocimiento solo
+                se vuelve real cuando se aplica. Cada proyecto construido es una manifestación de Arrukö́.
+            </p>
+        </div>
+
+        <div class="col-md-6 text-right pl-0 pl-lg-4">
+            <img class="intro" height="500"
+                src="{{site.baseurl}}/assets/images/blogs/arruko2.png"
+                alt="Jak U School">
+        </div>
+    </div>
+</section>
+
+<!-- CTA CARDS
+================================================== -->
+
+<section class="rounded mb-5 banner" id="author">
     <div class="row">
-      {% for post in paginator.posts %}
-      {% unless post.featured == true %}
-      <div class="col-md-6 mb-5">
-        {% include postbox.html %}
-      </div>
-      {% endunless %}
-      {% endfor %}
+
+        <div class="col-md-6 text-right pl-0 pl-lg-4">
+            <img class="intro" height="500"
+                src="{{site.baseurl}}/assets/images/blogs/lego-monitor.png"
+                alt="Jak U School">
+        </div>
+
+        <div class="col-md-6">
+            <h2 class="mb-3 serif-font">Blog</h2>
+            <p class="lead">
+                Reflexiones y documentación del proceso: aprendizaje autodidacta, lenguaje, tecnología y ejecución.
+            </p>
+            <a class="btn btn-outline-dark" href="{{ site.baseurl }}/blog">Ir al Blog →</a>
+        </div>
+
     </div>
-    <!-- Pagination -->
-    <div class="bottompagination">
-      <span class="navigation" role="navigation">
-        {% include pagination.html %}
-      </span>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    {% include sidebar.html %}
-  </div>
 </section>
+
+<!-- AUTHOR (small)
+================================================== -->
+<section class="rounded mb-5 author" id="author">
+    <div class="row">
+
+        <div class="col-md-6 text-right pl-0 pl-lg-4">
+            <img class="intro" height="500"
+                src="{{site.baseurl}}/assets/images/blogs/author2.png"
+                alt="Jak U School">
+        </div>
+
+        <div class="col-md-6">
+            <h2 class="mb-3 serif-font">El Autor</h2>
+            <p class="lead">
+                Jak U School es creado por Adrián Robles: constructor de sistemas, creador de lenguajes y escritor.
+                Este proyecto explora la relación entre aprendizaje, lenguaje y tecnología a través de proyectos reales.
+            </p>
+            <a class="btn btn-outline-dark" href="{{ site.baseurl }}/quienes-somos/">Conocer más →</a>
+        </div>
+    </div>
+</section>
+
+{% endif %}

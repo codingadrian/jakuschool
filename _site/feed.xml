@@ -1,4 +1,667 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es_cr"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es_cr" /><updated>2024-07-27T19:49:08+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jak U School</title><author><name>Adrian Robles</name></author><entry><title type="html">Aprender Escritura Creativa para tu Crecimiento Profesional</title><link href="http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional/" rel="alternate" type="text/html" title="Aprender Escritura Creativa para tu Crecimiento Profesional" /><published>2024-03-28T00:00:00+00:00</published><updated>2024-03-28T00:00:00+00:00</updated><id>http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional</id><content type="html" xml:base="http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional/"><![CDATA[<p>La escritura creativa es una de las habilidades más incomprendidas de nuestro tiempo. Cuando las personas piensan sobre que es ser un escritor se imaginan a alguien que pasa su tiempo rodeado de libros, bolígrafos y papeles, piensan en escritores de poesía, ficción o fantasía. Sin embargo, la escritura creativa tiene también beneficios para las empresas y los negocios. En este blog comparto mi experiencia y como he aplicado esta nueva habilidad en mi carrera profesional.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es_cr"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es_cr" /><updated>2026-04-10T03:00:14+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jak U School</title><author><name>Adrian Robles</name></author><entry><title type="html">Anthropic Academy: aprende a trabajar con IA antes de que sea tarde</title><link href="http://localhost:4000/anthropic-academy-aprende-a-trabajar-con-IA-antes-de-que-sea-tarde/" rel="alternate" type="text/html" title="Anthropic Academy: aprende a trabajar con IA antes de que sea tarde" /><published>2026-04-09T00:00:00+00:00</published><updated>2026-04-09T00:00:00+00:00</updated><id>http://localhost:4000/anthropic-academy-aprende-a-trabajar-con-IA-antes-de-que-sea-tarde</id><content type="html" xml:base="http://localhost:4000/anthropic-academy-aprende-a-trabajar-con-IA-antes-de-que-sea-tarde/"><![CDATA[<p>Hace apenas unos años, hablar de inteligencia artificial en el trabajo era algo reservado para ingenieros de software o investigadores en universidades de élite. Hoy, la IA ya está en las reuniones de equipo, en los contratos legales, en los diagnósticos médicos y en las estrategias de negocio. La pregunta ya no es si la IA va a transformar tu industria, sino cuándo llegará a tu escritorio — y si estarás listo cuando llegue.</p>
+
+<p>En ese contexto, <strong>Anthropic</strong> — la empresa detrás de <strong>Claude</strong>, uno de los modelos de lenguaje más avanzados del mundo — lanzó en marzo de 2026 su plataforma de formación gratuita: <a href="https://www.anthropic.com/learn">Anthropic Academy</a>. Con más de quince cursos estructurados, certificados oficiales y acceso sin costo, es hoy uno de los recursos de aprendizaje sobre IA más completos disponibles en internet.</p>
+
+<blockquote>
+  <p>La IA no va a quitarle el trabajo a las personas. Pero las personas que saben usar IA sí van a desplazar a quienes no saben.</p>
+</blockquote>
+
+<p>Anthropic Academy vive en <a href="anthropic.skilljar.com">anthropic.skilljar.com</a> y no requiere suscripción ni tarjeta de crédito — solo una cuenta de correo electrónico. Cada curso incluye videos, ejercicios prácticos, evaluaciones y, al completarlos, un certificado oficial que podés agregar a tu perfil de LinkedIn.</p>
+
+<hr />
+
+<h2 id="por-qué-ahora-la-urgencia-de-formarse-en-ia">¿Por qué ahora? La urgencia de formarse en IA</h2>
+
+<p>Vivimos un momento de compresión tecnológica sin precedentes. Lo que en otras eras tomaba décadas de adopción hoy ocurre en meses. Las empresas que integran IA en sus procesos están reportando ganancias de productividad del 30 al 60 por ciento en ciertas tareas. Los gobiernos están legislando a toda velocidad. Y el mercado laboral ya está premiando a quienes entienden estas herramientas.</p>
+
+<p>No se trata de aprender a programar. Se trata de entender cómo funcionan estos sistemas, qué pueden y qué no pueden hacer, cómo colaborar con ellos de manera efectiva y ética, y cómo construir sobre ellos cuando el contexto lo requiere. Eso es exactamente lo que ofrece Anthropic Academy.</p>
+
+<p>El tiempo que tardás en completar estos cursos es mínimo comparado con la ventaja que te dan. La mayoría se pueden terminar en un fin de semana. El curso más extenso — el de la API — dura alrededor de ocho horas. Una semana de estudio consciente puede cambiar completamente tu posición frente a la IA en tu carrera.</p>
+
+<hr />
+
+<h2 id="los-cursos-qué-vas-a-aprender-en-cada-uno">Los cursos: qué vas a aprender en cada uno</h2>
+
+<p>La Academy cubre cuatro grandes áreas: fundamentos de IA y Claude, desarrollo con la API, integración avanzada con MCP y Claude Code, y fluencia en IA para contextos específicos.</p>
+
+<p>Acá te los presentamos en el orden recomendado.</p>
+
+<ol>
+  <li>
+    <p><strong>AI Capabilities and Limitations</strong> — El punto de partida ideal si sos nuevo en IA. Explica cómo funcionan los modelos de lenguaje, qué saben hacer bien, en qué fallan y por qué. Sin tecnicismos innecesarios, con ejemplos concretos. (1–2 horas)</p>
+  </li>
+  <li>
+    <p><strong>AI Fluency: Framework &amp; Foundations</strong> — Desarrolla el marco conceptual para colaborar con IA de manera eficiente, ética y segura. Incluye el modelo 4D: Delegación, Descripción, Discernimiento y Diligencia. (1–3 horas)</p>
+  </li>
+  <li>
+    <p><strong>Claude 101</strong> — Aprende a usar Claude para tareas cotidianas del trabajo: cómo formular buenos prompts, aprovechar sus funciones principales y desarrollar hábitos productivos con IA. (1–2 horas)</p>
+  </li>
+  <li>
+    <p><strong>Building with the Claude API</strong> — El curso insignia para desarrolladores. Cubre toda la gama de trabajo con Claude vía API: parámetros, prompts multimodales, streaming, manejo de contexto y diseño de aplicaciones de producción. (8+ horas)</p>
+  </li>
+  <li>
+    <p><strong>Claude Code in Action</strong> — Aprendé a integrar Claude Code en tu flujo de trabajo de desarrollo real. No ejemplos de juguete: tareas concretas de programación con IA haciendo el trabajo pesado. (2–4 horas)</p>
+  </li>
+  <li>
+    <p><strong>Introduction to Model Context Protocol</strong> — Construí servidores y clientes MCP desde cero usando Python. Dominá las tres primitivas centrales — herramientas, recursos y prompts — para conectar Claude con servicios externos. (3–4 horas)</p>
+  </li>
+  <li>
+    <p><strong>Model Context Protocol: Advanced Topics</strong> — Patrones avanzados de implementación MCP: sampling, notificaciones, acceso al sistema de archivos y mecanismos de transporte para servidores en producción. (3–4 horas)</p>
+  </li>
+  <li>
+    <p><strong>Introduction to Agent Skills</strong> — Construí, configurá y compartí Skills en Claude Code: instrucciones reutilizables que Claude aplica automáticamente en el momento justo. (1–2 horas)</p>
+  </li>
+  <li>
+    <p><strong>Introduction to Subagents</strong> — Aprendé a usar y crear subagentes en Claude Code para gestionar contexto, delegar tareas y construir flujos de trabajo especializados. (1–2 horas)</p>
+  </li>
+  <li>
+    <p><strong>Introduction to Claude Cowork</strong> — Trabajá junto a Claude en tus archivos y proyectos reales: el ciclo de tarea Cowork, plugins, flujos de investigación y cómo dirigir trabajo de múltiples pasos de forma responsable. (1–2 horas)</p>
+  </li>
+  <li>
+    <p><strong>Claude with Amazon Bedrock</strong> — Desplegá y gestioná Claude en el ecosistema de AWS. Curso originalmente creado para empleados de Amazon, ahora disponible para todos. (2–3 horas)</p>
+  </li>
+  <li>
+    <p><strong>Claude with Google Cloud’s Vertex AI</strong> — Integración y despliegue completo de Claude en Google Cloud Platform. Ideal si tu organización trabaja en el ecosistema de GCP. (2–3 horas)</p>
+  </li>
+  <li>
+    <p><strong>AI Fluency for Educators / Teaching AI Fluency</strong> — Dos cursos para docentes y diseñadores instruccionales: uno para aplicar la fluencia en IA a la propia práctica de enseñanza, otro para capacitar a otras personas formalmente. (2–4 horas c/u)</p>
+  </li>
+  <li>
+    <p><strong>AI Fluency for Students</strong> — Habilidades de fluencia en IA orientadas al aprendizaje, la planificación de carrera y el éxito académico mediante la colaboración responsable con IA. (1–2 horas)</p>
+  </li>
+  <li>
+    <p><strong>AI Fluency for Nonprofits</strong> — Pensado para organizaciones sin fines de lucro que quieren aumentar su impacto y eficiencia usando IA, manteniéndose fieles a su misión y valores. (1–2 horas)</p>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="para-quién-son-estos-cursos">¿Para quién son estos cursos?</h2>
+
+<p>Una de las fortalezas de <strong>Anthropic Academy</strong> es su amplitud. No está diseñada exclusivamente para programadores ni para ejecutivos — está pensada para cualquier persona que quiera tomar en serio su relación con la inteligencia artificial.</p>
+
+<p>Son para vos si sos desarrollador o arquitecto de software que quiere construir aplicaciones reales con Claude vía API, integrar herramientas con MCP o incorporar Claude Code en su flujo de trabajo diario. También para el profesional de negocios, consultor o gerente que necesita entender qué puede hacer la IA y cómo liderar equipos donde ya es parte del trabajo cotidiano.</p>
+
+<p>Los educadores y diseñadores instruccionales encontrarán cursos específicamente pensados para ellos, al igual que los estudiantes universitarios que quieren diferenciarse en el mercado laboral con competencias certificadas. Los emprendedores y fundadores de startups que evalúan cómo integrar Claude en su producto tienen acá la base técnica y conceptual que necesitan antes de tomar decisiones costosas. Y los profesionales del sector social y ONG cuentan con un curso diseñado a medida para su contexto y sus valores.</p>
+
+<p>En resumen: si tu trabajo involucra tomar decisiones, crear contenido, analizar información, escribir código o diseñar sistemas, hay al menos uno — y probablemente varios — de estos cursos directamente relevantes para vos.</p>
+
+<hr />
+
+<h2 id="qué-podés-hacer-después-de-completar-los-cursos">¿Qué podés hacer después de completar los cursos?</h2>
+
+<p>Terminar los cursos no es el destino — es el punto de partida para oportunidades concretas dentro del ecosistema de Anthropic.</p>
+
+<p>Certificado oficial por curso. Cada curso tiene una evaluación final. Al aprobarla, recibís un certificado emitido por Anthropic a través de Skilljar, con una URL de verificación única. No tienen fecha de vencimiento y se pueden agregar directamente a tu perfil de LinkedIn.</p>
+
+<p>Certificación <strong><a href="https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request">Claude Certified Architect (CCA)</a></strong>. Si completás los cursos técnicos y tenés al menos seis meses de experiencia práctica con la API de Claude, podés presentarte al examen de certificación profesional. El <strong>CCA — Foundations</strong> es un examen cronometrado de 60 preguntas que evalúa arquitectura de sistemas de IA, integración de herramientas, diseño de agentes y estrategia de despliegue en producción. Es la primera credencial técnica oficial de Anthropic, lanzada en marzo de 2026.</p>
+
+<p>Acceso a la <strong><a href="https://claude.com/partners">Claude Partner Network</a></strong>. Anthropic lanzó en 2026 su red oficial de socios con una inversión inicial de 100 millones de dólares en formación y habilitación de ventas. Las organizaciones que se unen tienen acceso al Portal de Socios, materiales de co-marketing, soporte técnico dedicado y aparecen en el Directorio de Socios de Servicios — donde las empresas buscan firmas con experiencia certificada en implementaciones de Claude. Para individuos, contar con la certificación CCA es la carta de presentación más fuerte para unirse a una organización socia.</p>
+
+<hr />
+
+<h2 id="no-esperes-a-que-sea-obligatorio">No esperes a que sea obligatorio</h2>
+<p>Hay una ventana que se está cerrando. Hoy, contar con formación certificada en Claude y en el ecosistema de Anthropic es una ventaja diferencial. Dentro de dos o tres años — si la adopción sigue la trayectoria de otras tecnologías empresariales — será el piso mínimo esperado para muchos roles.</p>
+
+<p>Los cursos son gratuitos. Las certificaciones son asequibles. El tiempo de inversión es razonable. Lo que no es gratuito ni asequible es quedarte rezagado en una transformación que ya está ocurriendo.</p>
+
+<p>Anthropic Academy es uno de esos recursos que dentro de unos años vas a recordar haber encontrado a tiempo — o lamentar no haber aprovechado cuando estuvo disponible así de accesible. La decisión, como siempre, es tuya.</p>
+
+<hr />
+
+<p>Todos los cursos están disponibles gratuitamente en <a href="anthropic.skilljar.com">anthropic.skilljar.com</a> — sin suscripción ni tarjeta de crédito.</p>]]></content><author><name>adrian</name></author><category term="anthropic" /><category term="ia" /><category term="cursos gratis" /><summary type="html"><![CDATA[Hace apenas unos años, hablar de inteligencia artificial en el trabajo era algo reservado para ingenieros de software o investigadores en universidades de élite. Hoy, la IA ya está en las reuniones de equipo, en los contratos legales, en los diagnósticos médicos y en las estrategias de negocio. La pregunta ya no es si la IA va a transformar tu industria, sino cuándo llegará a tu escritorio — y si estarás listo cuando llegue.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/focused-on-learning-at-home.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/focused-on-learning-at-home.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Convertí una laptop vieja en un agente de IA - aquí te explico cómo instalar OpenClaw</title><link href="http://localhost:4000/convert%C3%AD-una-laptop-vieja-en-un-agente-de-IA-aqu%C3%AD-te-explico-c%C3%B3mo-instalar-OpenClaw/" rel="alternate" type="text/html" title="Convertí una laptop vieja en un agente de IA - aquí te explico cómo instalar OpenClaw" /><published>2026-04-09T00:00:00+00:00</published><updated>2026-04-09T00:00:00+00:00</updated><id>http://localhost:4000/convert%C3%AD-una-laptop-vieja-en-un-agente-de-IA-aqu%C3%AD-te-explico-c%C3%B3mo-instalar-OpenClaw</id><content type="html" xml:base="http://localhost:4000/convert%C3%AD-una-laptop-vieja-en-un-agente-de-IA-aqu%C3%AD-te-explico-c%C3%B3mo-instalar-OpenClaw/"><![CDATA[<p>OpenClaw (antes Clawdbot/Moltbot) es un agente de IA autónomo, open-source y auto-hospedado que corre localmente en tu máquina, usando LLMs para realizar tareas como gestionar archivos, enviar correos y controlar navegadores. Se conecta a apps de mensajería como WhatsApp y Telegram para actuar como un asistente personal, ofreciendo acceso profundo al sistema y automatización 24/7.</p>
+
+<p>Empecé a usarlo hace un par de meses. Tenía una laptop vieja con Ubuntu y se la dediqué a esto. Desde entonces, me ayudó a montar un home server, programar varios dashboards web para controlar mis negocios e incluso un bot de trading de crypto que empezó con $420 dólares y ahora está alrededor de $515. Incluso tiene su propio Instagram: <a href="https://www.instagram.com/theclawdio/">https://www.instagram.com/theclawdio/</a></p>
+
+<p>Esta es una guía para que puedas instalarlo.</p>
+
+<p>⚠️ Este script instala software en tu sistema. Procedé solo si confiás en la fuente.</p>
+
+<hr />
+
+<h3 id="-versión-rápida-para-los-impacientes">🚀 Versión rápida (para los impacientes)</h3>
+
+<ol>
+  <li>Ejecutá el instalador</li>
+  <li>Elegí OpenRouter</li>
+  <li>Agregá tu API key</li>
+  <li>Seleccioná Telegram</li>
+  <li>Hatch en TUI</li>
+  <li>Ejecutá:</li>
+</ol>
+
+<pre><code class="language-bash">openclaw gateway
+</code></pre>
+
+<ol>
+  <li>Escribile a tu bot en Telegram</li>
+</ol>
+
+<hr />
+
+<h3 id="paso-1">Paso 1</h3>
+
+<p>Abrí la terminal y ejecutá (para Linux):</p>
+
+<pre><code class="language-bash">curl -fsSL https://openclaw.ai/install.sh | bash
+</code></pre>
+
+<p>Esto abre el instalador de OpenClaw.</p>
+
+<p>Primero va a preparar tu entorno. Verifica si tenés Node.js, y si no lo instala o lo actualiza. Va a requerir permisos de administrador, así que te va a pedir la contraseña.</p>
+
+<p>Luego procede a instalar OpenClaw y pasa a finalizar la configuración. Ahí te va a mostrar una advertencia de seguridad, leela y te va a pedir confirmación para continuar.</p>
+
+<p>Seleccioná “Yes” si querés seguir.</p>
+
+<blockquote>
+  <p>Nota: Esta guía usa Linux. En macOS o Windows (WSL), el comando es similar.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="paso-2">Paso 2</h3>
+
+<p>Se inicia el modo de configuración.</p>
+
+<p>Primero tenés que seleccionar un proveedor de modelos. Este es un paso importante. Dependiendo de tu máquina, podés correr un modelo local, o si estás dispuesto a pagar, usar un proveedor como OpenRouter o Anthropic. Usá las flechas arriba y abajo para elegir.</p>
+
+<p>También podés tener múltiples modelos. Yo tengo modelos locales, pero la máquina es muy vieja y lenta, entonces uso OpenRouter como principal y Anthropic dependiendo de lo que quiera hacer y cuánto esté dispuesto a gastar.</p>
+
+<p>Si elegís OpenRouter o Anthropic, primero tenés que crear una cuenta en esos proveedores y generar un API key.</p>
+
+<p>Si elegís Anthropic, también podés reutilizar tu login de Claude CLI, que usa tu suscripción de Claude.</p>
+
+<p>Si elegís Ollama, necesitás tenerlo instalado. Luego podés descargar modelos manualmente (por ejemplo: <code>ollama run llama3</code>) y OpenClaw los va a usar.</p>
+
+<hr />
+
+<h3 id="paso-3">Paso 3</h3>
+
+<p>Una vez que elegiste el proveedor y te conectaste usando API keys, CLI o localmente, podés pasar a seleccionar el modelo.</p>
+
+<p>Buscá el proveedor y seleccioná el modelo o modelos que vas a usar.</p>
+
+<hr />
+
+<h3 id="paso-4">Paso 4</h3>
+
+<p>Ahora vas a seleccionar el canal. Esta es la forma en la que te vas a comunicar con tu asistente de IA. Tenés opciones como Slack, Discord, WhatsApp, pero yo elegí Telegram.</p>
+
+<p>Creá tu bot de Telegram:</p>
+
+<p>En Telegram, escribile a @BotFather y ejecutá:</p>
+
+<pre><code>/newbot
+</code></pre>
+
+<p>Seguí los pasos y copiá el bot token.</p>
+
+<p>Luego enviá:</p>
+
+<pre><code>/start
+</code></pre>
+
+<p>a tu bot en Telegram.</p>
+
+<p>Vas a necesitar el token para conectarlo con OpenClaw.</p>
+
+<hr />
+
+<h3 id="paso-5">Paso 5</h3>
+
+<p>Ahora tenés que seleccionar el proveedor de Web Search. Esto le permite a tu agente buscar información en internet. Algunos requieren API key y otros no.</p>
+
+<p>Este paso es opcional. Tu bot va a funcionar igual sin búsqueda web.</p>
+
+<hr />
+
+<h3 id="paso-6">Paso 6</h3>
+
+<p>Ahora vas a seleccionar los skills. Los Skills de OpenClaw son capacidades reutilizables que le permiten al agente hacer cosas, no solo chatear.</p>
+
+<p>Pensalo como herramientas + workflows + inteligencia empaquetada. Se seleccionan presionando la barra espaciadora.</p>
+
+<p>Por ejemplo, si querés que tu asistente se conecte a Gmail, agende reuniones y organice tu calendario, necesitás el skill “gog”.</p>
+
+<hr />
+
+<h3 id="paso-7">Paso 7</h3>
+
+<p>Ahora es momento de configurar los hooks. Estos te permiten automatizar acciones cuando el agente ejecuta un comando, como guardar la memoria de tus sesiones.</p>
+
+<hr />
+
+<h3 id="paso-8">Paso 8</h3>
+
+<p>Podés “hatch” el bot. Sí, básicamente darle vida. Terminás de configurarlo y lo iniciás.</p>
+
+<p>TUI significa que corre en la terminal, Web UI que va en el navegador, y “do this later” no hace nada, vas a tener que ejecutarlo manualmente.</p>
+
+<p>TUI probablemente sea lo más fácil si ya estás en la terminal.</p>
+
+<p>Luego ejecutá:</p>
+
+<pre><code class="language-bash">openclaw gateway
+</code></pre>
+
+<hr />
+
+<h3 id="paso-81--aprobar-tu-chat-de-telegram-importante">Paso 8.1 – Aprobar tu chat de Telegram (IMPORTANTE)</h3>
+
+<p>La primera vez que le escribís a tu bot, OpenClaw puede requerir aprobación.</p>
+
+<p>En la terminal, ejecutá:</p>
+
+<pre><code class="language-bash">openclaw pairing list telegram
+</code></pre>
+
+<p>Luego aprobá tu sesión:</p>
+
+<pre><code class="language-bash">openclaw pairing approve telegram &lt;CODE&gt;
+</code></pre>
+
+<p>Después de esto, tu bot debería responder.</p>
+
+<hr />
+
+<h3 id="paso-82--probar-tu-bot">Paso 8.2 – Probar tu bot</h3>
+
+<p>Andá a Telegram y enviá: “Hola”</p>
+
+<p>Si todo funcionó, tu bot debería responder.</p>
+
+<p>Si no responde:</p>
+
+<ul>
+  <li>Asegurate de que <code>openclaw gateway</code> esté corriendo</li>
+  <li>Revisá tus API keys</li>
+  <li>Verificá el bot token</li>
+</ul>
+
+<hr />
+
+<h3 id="paso-9-opcional">Paso 9 (opcional)</h3>
+
+<p>Si te arrepentís de todo lo que hiciste:</p>
+
+<pre><code class="language-bash">rm -rf ~/.openclaw
+</code></pre>
+
+<p>Si instalaste algún modelo local como Ollama:</p>
+
+<pre><code class="language-bash">rm -rf ~/.ollama
+</code></pre>
+
+<hr />
+
+<p>En cualquier momento, si no sabés qué hacer, sacale una foto o copiá el error/instrucción en ChatGPT, Gemini, Claude o la IA que prefieras y preguntá. Así fue como yo lo hice.</p>]]></content><author><name>adrian</name></author><category term="anthropic" /><category term="ia" /><category term="cursos gratis" /><summary type="html"><![CDATA[OpenClaw (antes Clawdbot/Moltbot) es un agente de IA autónomo, open-source y auto-hospedado que corre localmente en tu máquina, usando LLMs para realizar tareas como gestionar archivos, enviar correos y controlar navegadores. Se conecta a apps de mensajería como WhatsApp y Telegram para actuar como un asistente personal, ofreciendo acceso profundo al sistema y automatización 24/7.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/futuristic-OpenClaw-logo.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/futuristic-OpenClaw-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Prepárate para la Certificación MS-102 con un Entorno Real, Recursos Gratuitos y un Asistente IA</title><link href="http://localhost:4000/prep%C3%A1rate-para-la-certificaci%C3%B3n-MS-102-con-un-entorno-real-recursos-gratuitos-y-un-asistente-ia/" rel="alternate" type="text/html" title="Prepárate para la Certificación MS-102 con un Entorno Real, Recursos Gratuitos y un Asistente IA" /><published>2025-07-31T00:00:00+00:00</published><updated>2025-07-31T00:00:00+00:00</updated><id>http://localhost:4000/prep%C3%A1rate-para-la-certificaci%C3%B3n-MS-102-con-un-entorno-real-recursos-gratuitos-y-un-asistente-ia</id><content type="html" xml:base="http://localhost:4000/prep%C3%A1rate-para-la-certificaci%C3%B3n-MS-102-con-un-entorno-real-recursos-gratuitos-y-un-asistente-ia/"><![CDATA[<p>¿Querés convertirte en administrador de Microsoft 365? ¿Querés practicar con herramientas reales, aprender desde cero y obtener una certificación reconocida sin gastar dinero? Esta es tu guía práctica para lograrlo usando el <strong>Developer Program</strong>, <strong>Microsoft Learn</strong>, y un poderoso asistente de IA llamado <strong>Ask Learn</strong>.</p>
+
+<hr />
+
+<h2 id="qué-hace-un-microsoft-365-administrator">¿Qué hace un Microsoft 365 Administrator?</h2>
+
+<p>Como administrador certificado de Microsoft 365:</p>
+
+<ul>
+  <li>Funcionarás como <strong>el eje integrador</strong> de todos los servicios de Microsoft 365.</li>
+  <li>Coordinarás con especialistas en identidad, seguridad, cumplimiento, endpoints, aplicaciones y arquitectura.</li>
+  <li>Serás la <strong>pieza clave entre el equipo técnico y los usuarios finales</strong>.</li>
+</ul>
+
+<hr />
+
+<h2 id="qué-conocimientos-se-esperan-de-vos">¿Qué conocimientos se esperan de vos?</h2>
+
+<p>Para rendir el examen <strong>MS-102</strong>, se recomienda:</p>
+
+<p>✅ Haber administrado al menos una carga de trabajo de Microsoft 365.<br />
+✅ Tener experiencia práctica con <strong>Microsoft Entra ID</strong>.<br />
+✅ Tener conocimientos funcionales de:</p>
+<ul>
+  <li>Redes</li>
+  <li>Active Directory</li>
+  <li>Servicios de Directorio</li>
+  <li>DNS</li>
+  <li>PowerShell</li>
+</ul>
+
+<hr />
+
+<h2 id="cuánto-tiempo-toma-prepararse">¿Cuánto tiempo toma prepararse?</h2>
+
+<p>El contenido oficial de Microsoft Learn suma <strong>28 horas</strong>, pero con práctica, revisiones y proyectos reales, la estimación saludable es de <strong>40 a 60 horas</strong>.</p>
+
+<blockquote>
+  <p>📌 Estudiando de 5 a 10 horas por semana, podrías estar listo en 1.5 a 3 meses.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="paso-1-unirte-al-microsoft-365-developer-program">Paso 1: Unirte al Microsoft 365 Developer Program</h2>
+
+<p>Registrate gratis en:</p>
+
+<p>👉 <a href="https://developer.microsoft.com/en-us/microsoft-365/dev-program">developer.microsoft.com/en-us/microsoft-365/dev-program</a></p>
+
+<p>Esto te da acceso a un <strong>tenant de prueba renovable</strong> con:</p>
+<ul>
+  <li>25 licencias Microsoft 365 E5</li>
+  <li>Exchange, Teams, SharePoint, Entra ID, Intune y más</li>
+  <li>Centro de cumplimiento y seguridad</li>
+</ul>
+
+<hr />
+
+<h2 id="paso-2-estudiar-con-microsoft-learn--ask-learn">Paso 2: Estudiar con Microsoft Learn + Ask Learn</h2>
+
+<p>📘 Microsoft Learn tiene todo el material del MS-102 gratis:<br />
+👉 <a href="https://learn.microsoft.com/en-us/certifications/exams/ms-102/">learn.microsoft.com/en-us/certifications/exams/ms-102/</a></p>
+
+<p>💡 Y lo mejor: podés usar <strong>Ask Learn</strong>, un asistente IA que te ayuda a entender conceptos complejos, explicar pasos técnicos o aclarar dudas al instante.</p>
+
+<blockquote>
+  <p>Ejemplo de uso:<br />
+<strong>Prompt:</strong> <em>“Explícame qué es el acceso condicional en Entra ID con un ejemplo.”</em></p>
+</blockquote>
+
+<hr />
+
+<h2 id="proyectos-reales-para-practicar-en-tu-entorno-dev">Proyectos reales para practicar en tu entorno Dev</h2>
+
+<h3 id="1-crear-un-dominio-personalizado-gratuito">1. <strong>Crear un dominio personalizado gratuito</strong></h3>
+
+<p>Sitio recomendado:<br />
+👉 <a href="https://aadinternals.com/post/my-o365-site/">myo365.site</a></p>
+
+<p><strong>Tarea:</strong><br />
+Registrar un dominio personalizado gratuito y configurarlo en Entra ID.</p>
+
+<p><strong>Ask Learn prompt:</strong><br />
+<em>“¿Cómo agrego y verifico un dominio personalizado en Microsoft Entra ID paso a paso?”</em></p>
+
+<hr />
+
+<h3 id="2-crear-y-administrar-usuarios-y-grupos">2. <strong>Crear y administrar usuarios y grupos</strong></h3>
+
+<p><strong>Tarea:</strong><br />
+Crear 5 usuarios, asignar roles, y agruparlos por departamentos.</p>
+
+<p><strong>Ask Learn prompt:</strong><br />
+<em>“¿Cómo creo usuarios y grupos en Entra ID y qué diferencias hay entre los tipos de grupos?”</em></p>
+
+<hr />
+
+<h3 id="3-configurar-acceso-condicional">3. <strong>Configurar acceso condicional</strong></h3>
+
+<p><strong>Tarea:</strong><br />
+Crear una política que exija MFA para usuarios fuera de Costa Rica.</p>
+
+<p><strong>Ask Learn prompt:</strong><br />
+<em>“¿Cómo configuro una política de acceso condicional por ubicación en Microsoft Entra ID?”</em></p>
+
+<hr />
+
+<h3 id="4-activar-y-probar-microsoft-defender-para-office-365">4. <strong>Activar y probar Microsoft Defender para Office 365</strong></h3>
+
+<p><strong>Tarea:</strong><br />
+Habilitar Defender y simular un ataque con Attack Simulator.</p>
+
+<p><strong>Ask Learn prompt:</strong><br />
+<em>“¿Cómo simulo un ataque de phishing con Microsoft Defender?”</em></p>
+
+<hr />
+
+<h3 id="5-aplicar-etiquetas-de-retención-desde-microsoft-purview">5. <strong>Aplicar etiquetas de retención desde Microsoft Purview</strong></h3>
+
+<p><strong>Tarea:</strong><br />
+Crear una etiqueta que archive correos tras 2 años y aplicarla automáticamente.</p>
+
+<p><strong>Ask Learn prompt:</strong><br />
+<em>“¿Cómo creo una etiqueta de retención en Purview y la aplico por defecto en Exchange?”</em></p>
+
+<hr />
+
+<h2 id="conclusión">Conclusión</h2>
+
+<p>Estudiar para la MS-102 no tiene por qué ser costoso. Podés practicar con herramientas reales, aprender con materiales oficiales y usar IA como tutor personal. Esta es tu oportunidad para:</p>
+
+<p>✅ Aprender en serio<br />
+✅ Construir experiencia real<br />
+✅ Obtener una certificación valiosa<br />
+✅ Posicionarte para roles técnicos en empresas de cualquier tamaño</p>]]></content><author><name>adrian</name></author><category term="Microsoft 365" /><category term="Certificaciones" /><category term="MS-102" /><category term="Administración TI" /><category term="Tutor IA" /><summary type="html"><![CDATA[¿Querés convertirte en administrador de Microsoft 365? ¿Querés practicar con herramientas reales, aprender desde cero y obtener una certificación reconocida sin gastar dinero? Esta es tu guía práctica para lograrlo usando el Developer Program, Microsoft Learn, y un poderoso asistente de IA llamado Ask Learn.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/ms102-devtenant.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/ms102-devtenant.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Creando un GPT para Conlangs y su Potencial en la Revitalización de Idiomas</title><link href="http://localhost:4000/creando-un-gpt-para-conlangs-y-su-potencial-en-la-revitalizacion-de-idiomas/" rel="alternate" type="text/html" title="Creando un GPT para Conlangs y su Potencial en la Revitalización de Idiomas" /><published>2024-07-29T00:00:00+00:00</published><updated>2024-07-29T00:00:00+00:00</updated><id>http://localhost:4000/creando-un-gpt-para-conlangs-y-su-potencial-en-la-revitalizacion-de-idiomas</id><content type="html" xml:base="http://localhost:4000/creando-un-gpt-para-conlangs-y-su-potencial-en-la-revitalizacion-de-idiomas/"><![CDATA[<p>Decidí crear un GPT específicamente para conlangs (lenguas construidas) y la revitalización de idiomas por pura curiosidad. Quería ver hasta dónde podía llegar la IA en términos de creatividad y análisis lingüístico. Me intrigaba saber cómo la tecnología podía ayudar a construir lenguas y, además, cómo podía usarse para revitalizar idiomas en peligro de extinción.</p>
+
+<p>Las conlangs son lenguas que se han creado de forma consciente, no han evolucionado de manera natural. Son un ejemplo impresionante de la creatividad humana y nos permiten entender mejor los mecanismos del lenguaje. Además, estas lenguas pueden servir como modelo para la revitalización de idiomas en peligro, mostrando un desarrollo estructurado y bien documentado. Ejemplos famosos incluyen Sindarin de J.R.R. Tolkien, Trigedasleng de la serie de TV The 100, y Klingon de Star Trek. Estas lenguas no solo enriquecen sus mundos ficticios, sino que también han tenido un impacto real, como en el caso de Klingon, que incluso tiene hablantes nativos.</p>
+
+<h2 id="el-proceso-de-crear-el-gpt">El Proceso de Crear el GPT</h2>
+<p>Crear Kán’ ha sido un proyecto de años para una obra literaria, pero es un hobby bastante exigente. Con la ayuda de ChatGPT, pude solucionar problemas gramaticales, crear nuevas reglas morfológicas y hacer otras mejoras de manera mucho más eficiente. Aquí te cuento cómo puedes hacerlo tú también:</p>
+
+<p><strong>1. Preparación y Recolección de Recursos</strong></p>
+
+<p>Primero, elige la lengua construida (conlang) o el idioma en peligro que quieres trabajar. En mi caso, usé Kán’. Luego, reúne todos los documentos que tengas sobre la gramática y el vocabulario del idioma. Yo utilicé un documento de Google Docs con la gramática y un Google Sheets con el diccionario de Kán’. Estos recursos fueron esenciales para entrenar al GPT y enseñarle a generar contenido en Kán’.</p>
+
+<p><strong>2. Configuración de ChatGPT o Llama3</strong></p>
+
+<p>Regístrate y obtén acceso a una cuenta Pro de <a href="https://chat.openai.com/">ChatGPT</a> o usa <a href="https://ollama.com/">Llama3</a>, dependiendo de lo que prefieras y tengas disponible. Sube tus documentos de gramática y vocabulario a la herramienta. Puedes empezar subiendo los archivos o compartiendo enlaces a los documentos en la nube.</p>
+
+<p><strong>3. Interacción con el Modelo</strong></p>
+
+<p>Configura la estructura de tu proyecto con ChatGPT o Llama3. Asegúrate de que el modelo entienda las reglas básicas del idioma. Usa prompts específicos para generar preguntas, respuestas y otros contenidos. Proporciona numerosos ejemplos para guiar al modelo y asegurarte de que pueda crear contenido en la lengua ficticia siguiendo un conjunto de reglas. Revisa y valida las respuestas generadas para asegurarte de que cumplan con las reglas gramaticales y sintácticas del idioma.</p>
+
+<h2 id="funcionalidad-y-características">Funcionalidad y Características</h2>
+<p>Las capacidades del GPT <a href="https://chatgpt.com/g/g-ulMdMIDpN-kan-linguist">Kán’ Linguist</a> son bastante impresionantes. Puede crear nuevos contenidos como guías de entrenamiento, libros para niños, tests y muchos otros materiales de aprendizaje. El GPT utiliza las reglas y ejemplos que le das para generar contenido completo y preciso. Puede estructurar libros de gramática, diseñar materiales de aprendizaje atractivos y crear tests estandarizados para evaluar la competencia. Por ejemplo, el GPT puede generar oraciones en Kán’, traducir textos, proporcionar explicaciones gramaticales, crear listas de vocabulario e incluso diseñar ejercicios para los estudiantes de la lengua.</p>
+
+<h2 id="aplicación-en-la-revitalización-de-idiomas">Aplicación en la Revitalización de Idiomas</h2>
+<p>Dado el estado crítico de algunos idiomas, los principios y métodos utilizados para crear este GPT pueden aplicarse a la revitalización de lenguas. ChatGPT puede acelerar el análisis de idiomas en peligro, agilizando su revitalización. También puede ayudar en la evolución de un idioma creando nuevo vocabulario y refinando las estructuras gramaticales. Idiomas indígenas costarricenses como Boruca, Cabécar y Bribri podrían beneficiarse enormemente de un GPT similar. Estos idiomas están en riesgo de extinción y necesitan esfuerzos de revitalización.</p>
+
+<p>La tecnología puede ser utilizada fácilmente por los hablantes para documentar y estructurar su idioma de manera completa. Sirve como un punto de entrada accesible para los jóvenes indígenas, animándolos a participar en la preservación y revitalización de sus lenguas maternas. El GPT puede ayudar a los profesores a desarrollar planes de aprendizaje y ayudar a los hablantes a crear contenido como materiales de audio o video, asegurando la precisión en el uso del idioma. Además, el GPT puede diseñar y administrar tests generando ejercicios de varios niveles de dificultad, asegurando una evaluación completa de la competencia lingüística.</p>
+
+<h2 id="estrategias-para-la-revitalización-de-idiomas">Estrategias para la Revitalización de Idiomas</h2>
+<p>El GPT puede apoyar estrategias clave para la revitalización de lenguas, como el análisis lingüístico, la creación de contenido y la modernización de recursos lingüísticos. Puede ayudar a modernizar el contenido, crear nuevas palabras y promocionar el idioma a un público más amplio. La IA y los modelos de lenguaje ofrecen rapidez y facilidad de uso, facilitando la participación de hablantes y jóvenes en el proceso de revitalización lingüística. Sin embargo, hay desafíos, como el acceso a las comunidades, la comprensión de la tecnología, obtener el apoyo de los hablantes y la posible resistencia de las autoridades indígenas.</p>
+
+<h2 id="casos-de-estudio-y-ejemplos">Casos de Estudio y Ejemplos</h2>
+<p>Aunque no he realizado estudios de caso formales ni proyectos piloto utilizando este GPT para la revitalización de idiomas, veo esto como una oportunidad abierta. Me encantaría ver esto aplicado al idioma Boruca, ya que crecí cerca de este idioma y he desarrollado una apreciación por sus palabras. Las posibles perspectivas incluyen exponer a las comunidades a nuevas herramientas y fomentar el desarrollo de nuevos hablantes.</p>
+
+<h2 id="conclusión-y-direcciones-futuras">Conclusión y Direcciones Futuras</h2>
+<p>Mirando hacia el futuro, un posible proyecto podría ser una iniciativa de código abierto para aplicar este marco al idioma Boruca colaborando con estudiantes de esa tribu. Imagino un futuro donde la IA funcione como un traductor universal, como se muestra en Star Trek, con los idiomas siendo estudiados y respetados, ayudando en la exploración del universo y de nosotros mismos. Mi consejo para otros lingüistas o entusiastas de los idiomas interesados en crear su propio GPT para la preservación o revitalización de lenguas es probar la tecnología. Les ayudará a lograr grandes cosas para ustedes y para los demás. Ofrece una herramienta poderosa para preservar y revitalizar idiomas.</p>
+
+<p>Al compartir mi viaje de crear el GPT <a href="https://chatgpt.com/g/g-ulMdMIDpN-kan-linguist">Kán’ Linguist</a> y sus posibles aplicaciones en la revitalización de lenguas, espero inspirar a otros a explorar las posibilidades de la IA en los estudios lingüísticos y contribuir a la preservación de nuestro patrimonio lingüístico.</p>]]></content><author><name>adrian</name></author><category term="idiomas en peligro" /><category term="AI linguista" /><category term="Boruca" /><summary type="html"><![CDATA[Decidí crear un GPT específicamente para conlangs (lenguas construidas) y la revitalización de idiomas por pura curiosidad. Quería ver hasta dónde podía llegar la IA en términos de creatividad y análisis lingüístico. Me intrigaba saber cómo la tecnología podía ayudar a construir lenguas y, además, cómo podía usarse para revitalizar idiomas en peligro de extinción.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/gpt-language.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/gpt-language.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Creando un Test de Manejo Gratis con ChatGPT y Jekyll</title><link href="http://localhost:4000/creando-un-test-de-manejo-gratis-con-chatgpt-y-jekyll/" rel="alternate" type="text/html" title="Creando un Test de Manejo Gratis con ChatGPT y Jekyll" /><published>2024-07-27T00:00:00+00:00</published><updated>2024-07-27T00:00:00+00:00</updated><id>http://localhost:4000/creando-un-test-de-manejo-gratis-con-chatgpt-y-jekyll</id><content type="html" xml:base="http://localhost:4000/creando-un-test-de-manejo-gratis-con-chatgpt-y-jekyll/"><![CDATA[<p>Aprender a conducir siempre ha sido un desafío para mí, principalmente debido a la falta de tiempo y acceso a recursos. Aunque encontré el libro “Manual del Conductor”, su formato no era muy amigable. Además, muchos sitios web estaban llenos de anuncios o cobraban por acceder a su contenido. Esto me inspiró a crear un test de manejo en línea gratuito y sin anuncios, usando ChatGPT y Jekyll.</p>
+
+<h3 id="por-qué-chatgpt-y-jekyll">¿Por qué ChatGPT y Jekyll?</h3>
+<p>Elegí ChatGPT por su rapidez en analizar datos, lo que permitió que el test estuviera disponible rápidamente. Jekyll fue seleccionado por su facilidad de configuración y adecuación para la generación de sitios estáticos, proporcionando una plataforma para contenido interactivo. Dado que ya tenía experiencia con Jekyll, fue una elección natural y se alinea con mi creencia en hacer la tecnología accesible para principiantes.</p>
+
+<h3 id="recursos">Recursos</h3>
+<p>Para este proyecto, utilicé:</p>
+<ul>
+  <li>El “<a href="/assets/misc/Manual%20del%20Conductor.pdf">Manual del Conductor</a>” de Costa Rica en formato PDF</li>
+  <li>Una cuenta Pro de ChatGPT ejecutando la versión 4o</li>
+  <li>VSCode, GitHub Pages y Jekyll.</li>
+</ul>
+
+<h3 id="usando-chatgpt">Usando ChatGPT</h3>
+<p>Usé ChatGPT para generar las preguntas y respuestas. Aquí tienes un resumen paso a paso de mis interacciones:</p>
+
+<ol>
+  <li><strong>Configuración Inicial:</strong> Subí el PDF y discutí la estructura del test con ChatGPT.</li>
+  <li><strong>Generación de Preguntas:</strong> Usando una serie de prompts, ChatGPT extrajo información clave y formuló preguntas en formato de opción múltiple.</li>
+  <li><strong>Formateo y Validación:</strong> ChatGPT me ayudó a decidir el mejor formato para las preguntas y validar las respuestas.</li>
+</ol>
+
+<h4 id="ejemplos-de-prompts-y-respuestas">Ejemplos de Prompts y Respuestas</h4>
+<ul>
+  <li><strong>Prompt:</strong> “Genera una pregunta basada en la señal de límite de velocidad de 60 km/h.”</li>
+  <li><strong>Respuesta:</strong>
+    <pre><code class="language-json">{
+    "question": "¿Qué indica la siguiente señal de tránsito?",
+    "options": ["Límite de velocidad de 80 km/h", "Límite de velocidad de 60 km/h", "Límite de velocidad de 100 km/h"],
+    "correct": "Límite de velocidad de 60 km/h",
+    "image": "/assets/images/speed_limit_60.jpg",
+    "positiveFeedback": "Correcto. La señal indica un límite de velocidad de 60 km/h.",
+    "negativeFeedback": "Incorrecto. La señal indica un límite de velocidad de 60 km/h."
+}
+</code></pre>
+
+    <p>El examen se compone de una pregunta con tres opciones de selección múltiple, entre ellas la respuesta correcta. Incluye una imagen en los casos que lo requiera. Además, el examen brindará una breve explicación dependiendo de si la respuesta es correcta o incorrecta.</p>
+  </li>
+</ul>
+
+<h3 id="configurando-jekyll">Configurando Jekyll</h3>
+<p>Jekyll fue elegido por su simplicidad y flexibilidad. Estoy usando este blog para publicar el examen. Pero si te interesa saber como montar tu blog, te comparto la guía aquí: <a href="https://jekyllrb.com/">Jekyll</a></p>
+
+<h3 id="integrando-el-quiz">Integrando el Quiz</h3>
+<p>Estructuré el archivo JSON para almacenar las preguntas y respuestas del quiz. Aquí tienes un ejemplo:</p>
+
+<pre><code class="language-json">[
+  {
+      "question": "¿Qué indica la siguiente señal de tránsito?",
+      "options": ["Límite de velocidad de 80 km/h", "Límite de velocidad de 60 km/h", "Límite de velocidad de 100 km/h"],
+      "correct": "Límite de velocidad de 60 km/h",
+      "image": "/assets/images/speed_limit_60.jpg",
+      "positiveFeedback": "Correcto. La señal indica un límite de velocidad de 60 km/h.",
+      "negativeFeedback": "Incorrecto. La señal indica un límite de velocidad de 60 km/h."
+  }
+]
+</code></pre>
+
+<h3 id="agregando-funcionalidad">Agregando Funcionalidad</h3>
+<p>Utilicé JavaScript básico para randomizar y mostrar 40 preguntas del conjunto de 500. Aquí tienes un fragmento del script principal que se agrega en el archivo <code>quiz.md</code>:</p>
+
+<pre><code class="language-markdown">---
+layout: default
+title: Conductor's Test
+---
+
+### Conductor's Test
+
+[comment]: Esto crea el marco para el examen (pregunta + respuestas), el botón para entregar los resultados, y la caja que depliega la explicación.
+
+&lt;form id="quiz-form"&gt;&lt;/form&gt;
+&lt;button type="button" onclick="checkAnswers()"&gt;Completar&lt;/button&gt;
+&lt;div id="results"&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    // Esto asegura que el script corra hasta que el contenido de la página se ha cargado.
+document.addEventListener('DOMContentLoaded', (event) =&gt; {
+    // Esto obtiene el archivo que contiene las preguntas y lo procesa
+    fetch('/assets/questions.json')
+        .then(response =&gt; response.json())
+        .then(data =&gt; {
+            // Esto define el total de las preguntas
+            const totalQuestions = 40;
+            // Esto es el objeto de las preguntas seleccionadas
+            const selectedQuestions = [];
+            // Esto es un while loop que selecciona un número aleatorio de preguntas hasta completar 40
+            while (selectedQuestions.length &lt; totalQuestions) {
+                const randomIndex = Math.floor(Math.random() * data.length);
+                // Esto revisa si la pregunta ya fue includa, de no ser así, la incluye en el array
+                if (!selectedQuestions.includes(data[randomIndex])) {
+                    selectedQuestions.push(data[randomIndex]);
+                }
+            }
+            // Esto inicia el formulario que contiene el examen
+            const form = document.getElementById('quiz-form');
+            // Esto crea un div para cada uno de las preguntas
+            selectedQuestions.forEach((question, index) =&gt; {
+                const div = document.createElement('div');
+                // Esto define la estructura del HTML para desplegar la pregunta y también une la explicación cuando se completa
+                div.innerHTML = `
+                    &lt;p&gt;${question.question}&lt;/p&gt;
+                    ${question.image ? `&lt;img src="${question.image}" alt="Question Image"&gt;&lt;br&gt;` : ''}
+                    ${question.options.map((option, i) =&gt; `
+                        &lt;label&gt;&lt;input type="radio" name="q${index + 1}" value="${option}"&gt; ${option}&lt;/label&gt;&lt;br&gt;
+                    `).join('')}
+                    &lt;div id="feedback${index + 1}" class="feedback"&gt;&lt;/div&gt;
+                    &lt;hr&gt;
+                `;
+                form.appendChild(div);
+            });
+        });
+});
+
+// Esta es la función que revisa las respuestas
+function checkAnswers() {
+    // Esto obtiene el archivo que contiene las preguntas y respuestas
+    fetch('/assets/questions.json')
+        .then(response =&gt; response.json())
+        .then(data =&gt; {
+            // Esto pone a nota en 0
+            let score = 0;
+            const form = document.getElementById('quiz-form');
+            const totalQuestions = form.querySelectorAll('div').length;
+
+            // Esto revisa la pregunta seleccionada contra la respuesta correct y muestra la explicación
+            for (let i = 1; i &lt;= totalQuestions; i++) { 
+                const answer = document.querySelector(`input[name="q${i}"]:checked`);
+                const feedbackDiv = document.getElementById(`feedback${i}`);
+                const correctAnswer = data.find(q =&gt; q.question === document.querySelector(`p`).innerText).correct;
+                const positiveFeedback = data.find(q =&gt; q.question === document.querySelector(`p`).innerText).positiveFeedback;
+                const negativeFeedback = data.find(q =&gt; q.question === document.querySelector(`p`).innerText).negativeFeedback;
+
+                if (answer &amp;&amp; answer.value === correctAnswer) {
+                    score++;
+                    feedbackDiv.innerHTML = `&lt;p style="color: green;"&gt;${positiveFeedback}&lt;/p&gt;`;
+                } else {
+                    feedbackDiv.innerHTML = `&lt;p style="color: red;"&gt;${negativeFeedback}&lt;/p&gt;`;
+                }
+            }
+
+            // Esto muestra la nota final
+            const percentage = (score / totalQuestions) * 100;
+            document.getElementById('results').innerText = `You scored ${score} out of ${totalQuestions} (${percentage}%)`;
+        });
+}
+&lt;/script&gt;
+</code></pre>
+
+<h3 id="estilizando-el-quiz">Estilizando el Quiz</h3>
+<p>Utilicé CSS para centrar imágenes y mejorar el diseño. Aquí tienes un fragmento clave:</p>
+
+<pre><code class="language-css">.feedback {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+button {
+    padding: 6px 20px;
+    background-color: #3d61fd !important;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5vw; /* Adjust the width as needed */
+}
+</code></pre>
+
+<h3 id="pruebas-y-despliegue">Pruebas y Despliegue</h3>
+<p>Probé la funcionalidad del quiz localmente antes de desplegarlo en GitHub Pages. Aquí tienes el proceso de despliegue:</p>
+
+<ol>
+  <li><strong>Push a GitHub:</strong>
+    <pre><code class="language-bash">git init
+git add .
+git commit -m "Initial commit"
+git remote add origin &lt;url-del-repositorio&gt;
+git push -u origin master
+</code></pre>
+  </li>
+  <li><strong>Habilitar GitHub Pages:</strong> Navega a la configuración del repositorio y habilita GitHub Pages en la sección “Pages”.</li>
+</ol>
+
+<h3 id="desafíos-y-soluciones">Desafíos y Soluciones</h3>
+<p>Un desafío fue asegurar que las imágenes y preguntas coincidieran correctamente. Esto se superó mediante una revisión meticulosa y usando convenciones de nombres consistentes para las imágenes.</p>
+
+<h3 id="características-adicionales">Características Adicionales</h3>
+<p>Mejoras futuras podrían incluir más elementos interactivos y recolección de feedback de los usuarios. Este proyecto es de código abierto, invitando a contribuciones de otros.</p>
+
+<h3 id="conclusión">Conclusión</h3>
+<p>De este proyecto aprendí sobre la versatilidad de Jekyll y el poder de combinarlo con ChatGPT. Esta experiencia reforzó la importancia de los recursos de aprendizaje accesibles y el potencial de la tecnología para mejorar la educación.</p>]]></content><author><name>adrian</name></author><category term="ChatGPT" /><category term="Jekyll" /><category term="Manual del Conductor" /><category term="Examen Teórico de Manejo" /><summary type="html"><![CDATA[Aprender a conducir siempre ha sido un desafío para mí, principalmente debido a la falta de tiempo y acceso a recursos. Aunque encontré el libro “Manual del Conductor”, su formato no era muy amigable. Además, muchos sitios web estaban llenos de anuncios o cobraban por acceder a su contenido. Esto me inspiró a crear un test de manejo en línea gratuito y sin anuncios, usando ChatGPT y Jekyll.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/making-driving-test.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/making-driving-test.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Aprender Escritura Creativa para tu Crecimiento Profesional</title><link href="http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional/" rel="alternate" type="text/html" title="Aprender Escritura Creativa para tu Crecimiento Profesional" /><published>2024-03-28T00:00:00+00:00</published><updated>2024-03-28T00:00:00+00:00</updated><id>http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional</id><content type="html" xml:base="http://localhost:4000/aprender-escritura-creativa-para-tu-crecimiento-profesional/"><![CDATA[<p>La escritura creativa es una de las habilidades más incomprendidas de nuestro tiempo. Cuando las personas piensan sobre que es ser un escritor se imaginan a alguien que pasa su tiempo rodeado de libros, bolígrafos y papeles, piensan en escritores de poesía, ficción o fantasía. Sin embargo, la escritura creativa tiene también beneficios para las empresas y los negocios. En este blog comparto mi experiencia y como he aplicado esta nueva habilidad en mi carrera profesional.</p>
 
 <p>Aunque soy bilingüe desde la adolescencia, mi conocimiento de gramática y ortografía son limitados. Idiomas como el español o el francés representan grandes retos en la escritura debido a la cantidad de reglas que si no son bien aplicadas pueden dificultar la lectura, e incluso cambiar el significado de lo que deseamos transmitir.</p>
 
@@ -41,52 +704,7 @@
 <p>Mi expresión verbal también se ha visto afectada de manera positiva, lo cual me da más visibilidad en el crecimiento de mi carrera, y me permite afrontar más retos y tareas, haciéndome un trabajador más robusto que genera mayor impacto.</p>
 
 <h2 id="conclusión">Conclusión</h2>
-<p>Es por todo lo que he mencionado que te recomiendo tomar el papel y lápiz para plasmar tu primer cuento. El océano empezó con una gota, y un libro empieza con una sola palabra. Te invito a buscar dentro de ti esas ideas y experiencias que querés contar, historias que pueden inspirar a otros y a ti mismo. La escritura creativa es una habilidad transferible que podrás aplicar en tu día a día, ya sea en el ámbito personal o profesional y que maximizará tus oportunidades de carrera.</p>]]></content><author><name>adrian</name></author><category term="escritura creativa" /><category term="creatividad" /><category term="nota" /><summary type="html"><![CDATA[La escritura creativa es una de las habilidades más incomprendidas de nuestro tiempo. Cuando las personas piensan sobre que es ser un escritor se imaginan a alguien que pasa su tiempo rodeado de libros, bolígrafos y papeles, piensan en escritores de poesía, ficción o fantasía. Sin embargo, la escritura creativa tiene también beneficios para las empresas y los negocios. En este blog comparto mi experiencia y como he aplicado esta nueva habilidad en mi carrera profesional.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/creative-writing.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/creative-writing.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Examen Manual del Conductor</title><link href="http://localhost:4000/examen-manual-del-conductor/" rel="alternate" type="text/html" title="Examen Manual del Conductor" /><published>2024-03-28T00:00:00+00:00</published><updated>2024-03-28T00:00:00+00:00</updated><id>http://localhost:4000/examen-manual-del-conductor</id><content type="html" xml:base="http://localhost:4000/examen-manual-del-conductor/"><![CDATA[<h3 id="conductors-test">Conductor’s Test</h3>
-
-<form id="quiz-form"></form>
-<p><button type="button" onclick="checkAnswers()">Submit</button></p>
-<div id="results"></div>
-
-<script>
-document.addEventListener('DOMContentLoaded', (event) => {
-    fetch('/assets/questions.json')
-        .then(response => response.json())
-        .then(data => {
-            const form = document.getElementById('quiz-form');
-            data.forEach((question, index) => {
-                const div = document.createElement('div');
-                div.innerHTML = `
-                    <p>${question.question}</p>
-                    ${question.image ? `<img src="${question.image}" alt="Question Image"><br>` : ''}
-                    ${question.options.map((option, i) => `
-                        <label><input type="radio" name="q${index + 1}" value="${option}"> ${option}</label><br>
-                    `).join('')}
-                    <hr>
-                `;
-                form.appendChild(div);
-            });
-        });
-});
-
-function checkAnswers() {
-    fetch('/assets/questions.json')
-        .then(response => response.json())
-        .then(data => {
-            let score = 0;
-            const totalQuestions = data.length;
-
-            data.forEach((question, index) => {
-                const answer = document.querySelector(`input[name="q${index + 1}"]:checked`);
-                if (answer && answer.value === question.correct) {
-                    score++;
-                }
-            });
-
-            const percentage = (score / totalQuestions) * 100;
-            document.getElementById('results').innerText = `You scored ${score} out of ${totalQuestions} (${percentage}%)`;
-        });
-}
-</script>]]></content><author><name>adrian</name></author><category term="manual del conductor" /><category term="examen teorico" /><summary type="html"><![CDATA[Conductor’s Test]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/creative-writing.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/creative-writing.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hoja de Ruta para ser Analista de Datos</title><link href="http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos/" rel="alternate" type="text/html" title="Hoja de Ruta para ser Analista de Datos" /><published>2024-02-19T00:00:00+00:00</published><updated>2024-02-19T00:00:00+00:00</updated><id>http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos</id><content type="html" xml:base="http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos/"><![CDATA[<p>Si andas buscando un mapa para llegar a la x, en donde se encuentra tu carrera como analista de datos. Ven y descubre todo lo que necesitas saber y donde aprenderlo.</p>
+<p>Es por todo lo que he mencionado que te recomiendo tomar el papel y lápiz para plasmar tu primer cuento. El océano empezó con una gota, y un libro empieza con una sola palabra. Te invito a buscar dentro de ti esas ideas y experiencias que querés contar, historias que pueden inspirar a otros y a ti mismo. La escritura creativa es una habilidad transferible que podrás aplicar en tu día a día, ya sea en el ámbito personal o profesional y que maximizará tus oportunidades de carrera.</p>]]></content><author><name>adrian</name></author><category term="escritura creativa" /><category term="creatividad" /><category term="nota" /><summary type="html"><![CDATA[La escritura creativa es una de las habilidades más incomprendidas de nuestro tiempo. Cuando las personas piensan sobre que es ser un escritor se imaginan a alguien que pasa su tiempo rodeado de libros, bolígrafos y papeles, piensan en escritores de poesía, ficción o fantasía. Sin embargo, la escritura creativa tiene también beneficios para las empresas y los negocios. En este blog comparto mi experiencia y como he aplicado esta nueva habilidad en mi carrera profesional.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/creative-writing.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/creative-writing.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hoja de Ruta para ser Analista de Datos</title><link href="http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos/" rel="alternate" type="text/html" title="Hoja de Ruta para ser Analista de Datos" /><published>2024-02-19T00:00:00+00:00</published><updated>2024-02-19T00:00:00+00:00</updated><id>http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos</id><content type="html" xml:base="http://localhost:4000/hoja-de-ruta-para-ser-analista-de-datos/"><![CDATA[<p>Si andas buscando un mapa para llegar a la x, en donde se encuentra tu carrera como analista de datos. Ven y descubre todo lo que necesitas saber y donde aprenderlo.</p>
 
 <p>No soy analista de datos, pero he escrito este blog después cotejar los datos de otros analistas que han documentado su camino y los recursos que han usado. Debido a que esos recursos son en su mayoría en inglés y Jak U promueve el aprendizaje autodidacta y busca proveer información de forma gratuita, les presento esta compilación.</p>
 
@@ -354,248 +972,4 @@ function checkAnswers() {
   <li><strong>Pedir prompts personalizados:</strong> Obtén los prompts perfectos para tus necesidades específicas al hacer que <strong>ChatGPT</strong> genere los prompts ideales para obtener respuestas óptimas.</li>
 </ol>
 
-<p><strong>ChatGPT</strong> representa una revolución en el aprendizaje moderno al proporcionar a los estudiantes y profesionales una herramienta poderosa para mejorar su comprensión y productividad. A medida que aprovechas sus capacidades, recuerda verificar la precisión de la información y experimentar con diversos estímulos para descubrir nuevas formas de optimizar tu estudio. ¡Descubre el potencial ilimitado de <strong>ChatGPT</strong> en tu viaje educativo!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="autodidacta" /><category term="nota" /><summary type="html"><![CDATA[En el mundo autodidacta, ChatGPT está transformando la forma en que abordamos el aprendizaje. Sin embargo, aprovechar al máximo su potencial requiere comprender cómo se puede utilizar y cómo utilizarlo eficazmente. Para ayudarte a lograrlo, hemos reunido las estrategias más efectivas y estímulos precisos para utilizar ChatGPT de manera efectiva en tus estudios. ¡Descubre las posibilidades infinitas que ChatGPT tiene para ofrecer!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/girl-talking-to-ai.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/girl-talking-to-ai.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">FreeCodeCamp, una universidad digital gratis</title><link href="http://localhost:4000/freecodecamp-una-univerdad-digital-gratis/" rel="alternate" type="text/html" title="FreeCodeCamp, una universidad digital gratis" /><published>2023-11-27T00:00:00+00:00</published><updated>2023-11-27T00:00:00+00:00</updated><id>http://localhost:4000/freecodecamp-una-univerdad-digital-gratis</id><content type="html" xml:base="http://localhost:4000/freecodecamp-una-univerdad-digital-gratis/"><![CDATA[<p><a href="https://www.freecodecamp.org/">FreeCodeCamp</a> es donde empecé a leer mis primeras líneas de código, y es la plataforma que recomiendo a quienes me preguntan como comenzar a aprender programación. En este blog, te sumergiré en el universo de <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>, exploraremos sus beneficios y te proporcionaré ideas sobre cómo aprovechar al máximo esta invaluable herramienta para el desarrollo de tu carrera.</p>
-
-<h3 id="qué-es-freecodecamp">¿Qué es FreeCodeCamp?</h3>
-
-<p><a href="https://www.freecodecamp.org/">FreeCodeCamp</a>, una organización sin fines de lucro, ofrece una plataforma de aprendizaje en línea que es completamente gratuita y autodidacta, diseñada para la programación y el desarrollo web. Su currículo integral abarca diversos lenguajes de programación y tecnologías, desde los fundamentos como HTML y CSS hasta tecnologías avanzadas como Git, GitHub, Node.js, React.js, Python, C#, y más. Disponible en 10 idiomas, incluido el español, esta plataforma se ha convertido en un recurso global.</p>
-
-<p>El currículo se basa en proyectos, proporcionando una experiencia de aprendizaje práctica y efectiva. Además, <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> ofrece ejercicios prácticos y desafíos que refuerzan los conceptos aprendidos en las lecciones. A medida que avanzas, obtienes certificaciones al completar diferentes secciones, demostrando tu competencia en áreas específicas.</p>
-
-<p>La comunidad de apoyo de FreeCodeCamp, que incluye foros y un canal de YouTube con tutoriales adicionales, te brinda un entorno donde puedes conectar, hacer preguntas y colaborar en proyectos de programación.</p>
-
-<h3 id="beneficios">Beneficios</h3>
-
-<h4 id="1-gratuito">1. <strong>Gratuito:</strong></h4>
-<ul>
-  <li>¡Todo es gratuito! Tanto los cursos como los certificados. La inscripción es sencilla, y puedes comenzar tu viaje de aprendizaje sin costos.</li>
-</ul>
-
-<h4 id="2-aprendizaje-a-tu-ritmo">2. <strong>Aprendizaje a Tu Ritmo:</strong></h4>
-<ul>
-  <li>La naturaleza autodidacta permite a los estudiantes equilibrar sus estudios con otros compromisos, adaptándose a su propio ritmo de aprendizaje.</li>
-</ul>
-
-<h4 id="3-currículo-integral">3. <strong>Currículo Integral:</strong></h4>
-<ul>
-  <li>Desde lo básico hasta lo avanzado, <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> cubre un amplio espectro de temas relevantes para el desarrollo web, ofreciendo una base sólida para diversas oportunidades profesionales.</li>
-</ul>
-
-<h4 id="4-basado-en-proyectos">4. <strong>Basado en Proyectos:</strong></h4>
-<ul>
-  <li>El enfoque en proyectos significa que puedes aplicar lo que aprendes en situaciones del mundo real, construyendo un portafolio valioso y demostrando tus habilidades a futuros empleadores.</li>
-</ul>
-
-<h4 id="5-certificaciones-de-codificación">5. <strong>Certificaciones de Codificación:</strong></h4>
-<ul>
-  <li>Al completar secciones específicas, obtienes certificaciones que validan tu competencia en áreas particulares. ¡Incluso hay una certificación en C# en colaboración con Microsoft!</li>
-</ul>
-
-<h3 id="consejos-adicionales">Consejos Adicionales:</h3>
-
-<ul>
-  <li><strong>Complementa tu Aprendizaje:</strong>
-    <ul>
-      <li>Si bien <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> es una base sólida, complementa tu aprendizaje con otros recursos. Te recomiendo explorar <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> + <a href="https://chat.openai.com/">ChatGPT</a> para obtener explicaciones más detalladas y avanzadas.</li>
-    </ul>
-  </li>
-  <li><strong>Enfócate en Proyectos y Resultados:</strong>
-    <ul>
-      <li>Utiliza el método de aprendizaje basado en proyectos para construir un portafolio sólido que destaque tus habilidades y establezca tu marca personal.</li>
-    </ul>
-  </li>
-  <li><strong>Prepárate para el Mundo Real:</strong>
-    <ul>
-      <li>Aunque las explicaciones pueden ser básicas, <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> te prepara para el mundo real de la programación. La acción y la demostración de habilidades son cruciales.</li>
-    </ul>
-  </li>
-</ul>
-
-<p><a href="https://www.freecodecamp.org/">FreeCodeCamp</a> es más que una plataforma de aprendizaje; es una puerta de entrada a un mundo lleno de posibilidades en el ámbito tecnológico. Úsalo estratégicamente, construye tu camino y ¡prepárate para un emocionante viaje en el campo de la programación!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="freeCodeCamp" /><category term="nota" /><summary type="html"><![CDATA[FreeCodeCamp es donde empecé a leer mis primeras líneas de código, y es la plataforma que recomiendo a quienes me preguntan como comenzar a aprender programación. En este blog, te sumergiré en el universo de FreeCodeCamp, exploraremos sus beneficios y te proporcionaré ideas sobre cómo aprovechar al máximo esta invaluable herramienta para el desarrollo de tu carrera.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/digital-classroom.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/digital-classroom.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Construyendo tu sitio web con GitHub Pages y Jekyll</title><link href="http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll/" rel="alternate" type="text/html" title="Construyendo tu sitio web con GitHub Pages y Jekyll" /><published>2023-11-04T00:00:00+00:00</published><updated>2023-11-04T00:00:00+00:00</updated><id>http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll</id><content type="html" xml:base="http://localhost:4000/construyendo-tu-sitio-web-con-github-pages-y-jekyll/"><![CDATA[<p>En la era digital actual, tener un sitio web personal o profesional es casi una necesidad. Sirve como tu identidad digital, mostrando tu trabajo, portafolio, blog o cualquier contenido que quieras compartir con el mundo. Si bien existen varias formas de crear y alojar un sitio web, uno de los métodos más eficientes y sencillos es utilizar GitHub Pages y Jekyll. En este blog, te guiaré a través del proceso de creación de tu sitio web paso a paso.</p>
-
-<h2 id="qué-es-github-pages">¿Qué es GitHub Pages?</h2>
-
-<p>GitHub Pages es un servicio de alojamiento gratuito proporcionado por GitHub. Te permite alojar un sitio web estático directamente desde sus repositorios de GitHub. Si no estás familiarizado con los sitios web estáticos, son páginas web que no dependen del procesamiento del lado del servidor ni de bases de datos. En cambio, están prediseñados y se ofrecen tal cual a los visitantes, lo que los hace rápidos y seguros.</p>
-
-<h2 id="qué-es-jekyll">¿Qué es Jekyll?</h2>
-
-<p>Jekyll es un generador de sitios estáticos que facilita la creación y el mantenimiento de sitios web estáticos. Toma tu contenido, escrito en Markdown, y aplica plantillas para generar páginas HTML. Jekyll simplifica el proceso de desarrollo de sitios web y es perfecto para GitHub Pages.</p>
-
-<h2 id="empezando">Empezando</h2>
-
-<p>Para crear tu sitio web usando GitHub Pages y Jekyll, sigue estos pasos:</p>
-
-<h3 id="paso-1-crea-un-repositorio-de-github">Paso 1: crea un repositorio de GitHub</h3>
-
-<ol>
-  <li>Si no tienes una cuenta de GitHub, regístrate para obtener una en <a href="https://github.com/">https://github.com</a>.</li>
-  <li>Inicia sesión en tu cuenta de GitHub y crea un nuevo repositorio.</li>
-  <li>Asigna un nombre a tu repositorio con el siguiente formato: <code>nombre-de-sitio-web.github.io</code>.</li>
-</ol>
-
-<h3 id="paso-2-clona-tu-repositorio">Paso 2: clona tu repositorio</h3>
-
-<ol>
-  <li>Después de crear su repositorio, abre una terminal.</li>
-  <li>Utiliza el comando <code>git clone</code> para clonar tu repositorio en tu máquina local. Reemplaza tu nombre de usuario y el nombre del repositorio.</li>
-</ol>
-
-<pre><code class="language-bash"> git clone https://github.com/tunombredeusuario/nombredesitioweb.github.io.git
-</code></pre>
-<h3 id="paso-3-instala-jekyll">Paso 3: instala Jekyll</h3>
-
-<ol>
-  <li>Asegúrate de tener Ruby instalado en tu computadora. Puedes comprobar si Ruby está instalado ejecutando:</li>
-</ol>
-
-<pre><code class="language-bash">ruby -v
-</code></pre>
-
-<p>Si Ruby no está instalado, puede descargarlo desde <a href="https://www.ruby-lang.org/en/documentation/installation/">Ruby - Instalación</a> o usar un administrador de versiones como RVM (Ruby Version Manager) para instalarlo.</p>
-
-<ol>
-  <li>Instala Jekyll y sus dependencias ejecutando:</li>
-</ol>
-
-<pre><code class="language-bash">gem install jekyll bundler
-</code></pre>
-
-<h3 id="paso-4-crea-tu-sitio-jekyll">Paso 4: crea tu sitio Jekyll</h3>
-
-<ol>
-  <li>Cambia el directorio a tu repositorio de GitHub Pages clonado:</li>
-</ol>
-
-<pre><code class="language-bash">cd nombredetusitioweb.github.io
-</code></pre>
-
-<ol>
-  <li>Crea un nuevo sitio Jekyll:</li>
-</ol>
-
-<pre><code class="language-bash">jekyll new .
-</code></pre>
-
-<h3 id="paso-5-personaliza-tu-sitio">Paso 5: personaliza tu sitio</h3>
-
-<ol>
-  <li>
-    <p>Abre el archivo <code>_config.yml</code> en tu repositorio y realiza cambios para configurar tu sitio, como cambiar el título y la descripción del sitio.</p>
-  </li>
-  <li>
-    <p>Crea páginas y publicaciones de blog (posts) agregando archivos Markdown a los <code>_posts</code> y directorios raíz.</p>
-  </li>
-  <li>
-    <p>Elije un tema de Jekyll o crea tu propio diseño editando HTML y CSS en las carpetas <code>_layouts</code> y <code>_sass</code>.</p>
-  </li>
-</ol>
-
-<h3 id="paso-6-obtén-una-vista-previa-de-tu-sitio">Paso 6: obtén una vista previa de tu sitio</h3>
-
-<ol>
-  <li>Inicia un servidor Jekyll local para obtener una vista previa de tu sitio ejecutando:</li>
-</ol>
-
-<pre><code class="language-bash">bundle exec jekyll serve
-</code></pre>
-
-<p>Tu sitio será accesible en http://localhost:4000.</p>
-
-<h3 id="paso-7-envia-cambios-a-github">Paso 7: envia cambios a GitHub</h3>
-
-<ol>
-  <li>Haz un “commit” de tus cambios y envíalos a tu repositorio de GitHub:</li>
-</ol>
-
-<pre><code class="language-bash">git add .
-git commit -m "Initial commit"
-git push origin main
-</code></pre>
-
-<h3 id="paso-8-publica-tu-sitio">Paso 8: publica tu sitio</h3>
-
-<ol>
-  <li>Haz click en el nombre de tu repositorio.</li>
-  <li>En la pestaña “Configuración”, desplácese hacia abajo hasta la sección “Páginas de GitHub”.</li>
-  <li>Seleccione la rama principal (main branch) como fuente y su sitio se publicará.</li>
-</ol>
-
-<p>Crear un sitio web con GitHub Pages y Jekyll es una manera fantástica de crear una presencia profesional en línea. Es rentable, rápido y seguro, lo que lo convierte en una opción popular entre los desarrolladores y creadores de contenido. Si sigues los pasos descritos en esta guía, podrás tener tu sitio web en funcionamiento en poco tiempo. Ya sea que estés creando un portafolio, un blog o un sitio web personal, esta combinación de herramientas ofrece una solución poderosa y fácil de usar para sus necesidades de desarrollo web.</p>]]></content><author><name>adrian</name></author><category term="Jekyll" /><category term="GitHub Pages" /><category term="tutorial" /><summary type="html"><![CDATA[En la era digital actual, tener un sitio web personal o profesional es casi una necesidad. Sirve como tu identidad digital, mostrando tu trabajo, portafolio, blog o cualquier contenido que quieras compartir con el mundo. Si bien existen varias formas de crear y alojar un sitio web, uno de los métodos más eficientes y sencillos es utilizar GitHub Pages y Jekyll. En este blog, te guiaré a través del proceso de creación de tu sitio web paso a paso.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/4.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Costa Rica, English Spoken.</title><link href="http://localhost:4000/costa-rica-english-spoken/" rel="alternate" type="text/html" title="Costa Rica, English Spoken." /><published>2023-10-29T00:00:00+00:00</published><updated>2023-10-29T00:00:00+00:00</updated><id>http://localhost:4000/costa-rica-english-spoken</id><content type="html" xml:base="http://localhost:4000/costa-rica-english-spoken/"><![CDATA[<p>Recuerdo que cuando era niño caminaba por las aceras y veía un anuncio en las ventanas de las tiendas; apenas aprendía a leer, pero entendía que esas palabras no eran español. Le pregunté a mi madre, que lo leyó para mí, topándose con mi incredulidad:</p>
-
-<p>—Ahí no dice eso —dije torciendo las cejas y la sonrisa.</p>
-
-<p>—Sí —confirmó ella—, English spoken.</p>
-
-<p>El sonido dio vueltas en mi cabeza como los repiques de una campana, tal vez despertando tonalidades que había escuchado desde el vientre, y atravesando la lengua con una corriente de curiosidad. Mi mamá me cargaba en su interior el tiempo que estaba en la Universidad, he sido bilingüe desde antes de nacer, rodeado de voces y acentos antes de emitir algún sonido.</p>
-
-<p>De acuerdo al, Semanario Universidad, al 2019 solo un 12% de la población costarricense era bilingüe y de acuerdo al, MEP (Ministerio de Educación Pública), en el 2021, la mayoría de los estudiantes de secundaria se graduaba con un nivel básico de inglés o A2.</p>
-
-<p>Imagino que en el 2005, cuando yo salí del colegio, los números eran muy diferentes. Probablemente, hubiese sido un punto porcentual más en el gráfico de los A2, de no haber sido por esa curiosidad verbal que se albergó en mi mente antes de venir al mundo.</p>
-
-<p>Después de ir a la escuela, recuerdo acostarme en el piso a leer los libros de la editorial Océano que mi abuela nos compraba. También coleccionar los fascículos de Los Zumbis, unas caricaturas de un periódico nacional que hacían el aprendizaje más interactivo; incluso había logrado hasta conseguir los casettes y con una grabadora vieja escuchaba aquellas palabras casi mágicas y las repetía como si fueran conjuros. Otras tardes, acompañado de mi diccionario Smart, aprendía palabras más complicadas: abide, behave, castaway. Aprendí a leer IPA, sonidos escritos, para poder pronunciar palabras que nunca había escuchado.</p>
-
-<p>Un poco más de conciencia y la llegada al colegio, me abrieron aún más las papilas auditivas y estiraron las cuerdas vocales. En el liceo enseñaban francés e inglés. Por fin tendría clases, sería poliglota. No, los profesores hicieron lo que pudieron con las herramientas que tenían, pero no se puede tallar una piedra con un cincel de plumas. Nadie puede enseñar lo que no sabe.</p>
-
-<p>Lo que agradezco a mis profesores, es la honestidad. Me dijeron que no sabían todo, y que el sistema no me daría lo que yo necesitaba para triunfar, que tendría que buscarlo yo. Dicen que la vida da muchas vueltas, y sí, pero también está llena de cruces de caminos. Al llegar a noveno de secundaria, debía escoger, un solo idioma: Inglés.</p>
-
-<p>El VHS, el Netflix de los ochenta, ese era mi otro recurso. Rebobinaba las películas y barría la tienda de video local para poder pedir prestadas un par que veía de tres a cinco veces, repetía las palabras mientras intentaba leer los subtítulos, aprendiendo que las traducciones hacían perder la esencia a las palabras, no su olor, pero su perfume original.</p>
-
-<p>Tuve mis primeros roces con turistas, empujado por un brebaje de coraje líquido, la lengua se me aflojó. Hablé, no recuerdo qué, pero me entendieron y entendí. Lo había logrado, podía comunicarme en otro idioma. No, todavía no.</p>
-
-<p>El turismo era el auge del momento, el país se llenaba de gringos con montones de dólares, y yo quería unos cuantos para mí. Entonces decidí estudiar Administración de Empresas Turísticas, con el inglés básico que sabía, pensaba que llevaba unos puntos a favor.</p>
-
-<p>Pero… la vida tiene sus propios planes, y el hambre da todos los días. No podría estudiar más, debía trabajar. La vida es fortuita, la fortuna caprichosa. No iba a estudiar en turismo, trabajaría en turismo. Me brincaba varios escalones, y hacía un clavado inmersivo. Ahora iba a hablar inglés con los que sabían, mientras les servía comida, los llevaba a la habitación, y les vendía tours.</p>
-
-<p>—Shoot, shot, shout, shut up —repetía cuanto escuchaba.</p>
-
-<p>Intentaba absorber todo lo que oía, como atrapando bocanadas de aire. Debía aprender, para poder comunicarme, y mantener mi hambriento estómago.</p>
-
-<p>—Taught, thought, tough, though.</p>
-
-<p>Intentaba digerir cada pequeña diferencia.</p>
-
-<p>Siempre supe que el aprender un idioma me abriría las puertas del futuro, pero lo que a todos se les olvidó decir es que también abriría las puertas al conocimiento, algo todavía más importante para mí. Ahora entendía el mundo en otro idioma, y podía leerlo, escucharlo y hablarle en inglés.</p>
-
-<p>¿Cuál ha sido tu experiencia?, ¿cómo fue el inglés que aprendiste en el colegio?, ¿tuviste que aplicar otros métodos para complementar su aprendizaje? Cuéntame tu experiencia en los comentarios.</p>
-
-<p>Aprender otro idioma, no es una opción. Saber inglés, ya no es una ventaja, es una necesidad. Especialmente en esta pequeña Banana Republic of Costa Rica, English Spoken.</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="english" /><category term="nota" /><summary type="html"><![CDATA[Recuerdo que cuando era niño caminaba por las aceras y veía un anuncio en las ventanas de las tiendas; apenas aprendía a leer, pero entendía que esas palabras no eran español. Le pregunté a mi madre, que lo leyó para mí, topándose con mi incredulidad:]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">¿Cómo puede un autodidacta aplicar el método socrático?</title><link href="http://localhost:4000/c%C3%B3mo-puede-un-autodidacta-aplicar-el-m%C3%A9todo-socr%C3%A1tico/" rel="alternate" type="text/html" title="¿Cómo puede un autodidacta aplicar el método socrático?" /><published>2023-10-29T00:00:00+00:00</published><updated>2023-10-29T00:00:00+00:00</updated><id>http://localhost:4000/c%C3%B3mo-puede-un-autodidacta-aplicar-el-m%C3%A9todo-socr%C3%A1tico</id><content type="html" xml:base="http://localhost:4000/c%C3%B3mo-puede-un-autodidacta-aplicar-el-m%C3%A9todo-socr%C3%A1tico/"><![CDATA[<p>Si estás leyendo esto, es porque estás en una búsqueda permanente de conocimiento. No es posible saberlo todo, pero eso no quiere decir que no se pueda intentar. Los griegos son famosos por ese deseo de saber más. En este blog post, exploraremos el <strong>método socrático</strong> y como puedes aplicarlo en tu proceso de aprendizaje para potenciar tu comprensión y pensamiento crítico.</p>
-
-<p>¿Alguna vez te has sentido frustrado por no entender un concepto?, ¿has olvidado lo que aprendes después de estudiar? Yo sí, y esto es muy común. Una forma de evitarlo es con el uso de preguntas, que son primordiales para una comprensión profunda.</p>
-
-<p>En el sistema de educación tradicional memorizamos para pasar el examen sin cuestionar el por qué o el cómo. No comprendemos, más bien, olvidamos en poco tiempo lo que habíamos aprendido. Es aquí donde el método socrático nos ayuda, convirtiéndose en una estrategia para ganar conocimiento.</p>
-
-<p>El método consiste en una búsqueda activa y participativa del conocimiento. Invita a pensar e investigar por uno mismo y a explorar nuevas vías para abordar problemas reales. Su principal característica es la <strong>eliminación de pretensiones de certeza</strong> con el objetivo de animar a una <strong>comprensión más profunda</strong> de un tema en particular. Básicamente, hay que cuestionarlo todo sin dejar ninguna situación por investigar.</p>
-
-<p>Es un enfoque de aprendizaje centrado en hacer preguntas, reflexionar y buscar respuestas por uno mismo. En lugar de proporcionar respuestas directas, ayuda a formar el pensamiento crítico. Aplicar este método en tu proceso de aprendizaje implica:</p>
-
-<ol>
-  <li><strong>Hacer Preguntas</strong>: Cuestiona todo, en especial, preguntas abiertas que pueden generar respuestas más profundas.</li>
-  <li><strong>Diálogo Abierto</strong>: Dialoga, habla en voz alta y discute contigo mismo; analiza todas tus perspectivas. Haz preguntas a otros, y comparte las tuyas</li>
-  <li><strong>Reflexión Personal</strong>: El repaso, el volver a preguntar las preguntas que no se hicieron y las que surgen después del aprendizaje.</li>
-</ol>
-
-<p>Imagina a Juan, un joven de 28 años que trabaja en una pequeña empresa y está interesado en mejorar sus habilidades en la gestión de proyectos. En lugar de simplemente consumir información de manera pasiva, Juan decide aplicar el método socrático para profundizar su comprensión y desarrollar habilidades más sólidas.</p>
-
-<p>Juan comienza por hacer una pregunta fundamental: “¿Qué es realmente la gestión de proyectos y cómo puedo mejorar en ella?”. En lugar de buscar respuestas inmediatas, se embarca en un diálogo interno:</p>
-
-<p>Juan: “¿Qué significa la gestión de proyectos para mí? ¿Cuáles son los aspectos clave que debo entender para tener éxito?”</p>
-
-<p>Después de reflexionar sobre estas preguntas iniciales, Juan se da cuenta de que necesita más información. Comienza a investigar en línea, leyendo libros y blogs sobre gestión de proyectos. A medida que adquiere conocimientos, sigue aplicando el método socrático, esta vez en interacción con otros:</p>
-
-<p>Juan: “He estado investigando sobre gestión de proyectos, pero tengo algunas preguntas. ¿Alguien tiene una perspectiva sobre cómo definir objetivos efectivos en un proyecto?”</p>
-
-<p>Juan se une a grupos de discusión en línea y plantea preguntas como esta para fomentar el diálogo y obtener opiniones de expertos y profesionales experimentados. A medida que interactúa con otros, también comparte sus propias ideas y experiencias.</p>
-
-<p>Al trabajar en un proyecto en su empresa, Juan aplica el método socrático en la práctica. En lugar de imponer sus ideas, fomenta el diálogo con su equipo, preguntando cómo pueden mejorar la planificación, la comunicación y la colaboración en el proyecto. Estas conversaciones ayudan a su equipo a entender mejor los aspectos clave de la gestión de proyectos y a trabajar de manera más efectiva.</p>
-
-<p>Con el tiempo, Juan sigue aprendiendo y aplicando el método socrático en cada paso. Se da cuenta de que la gestión de proyectos es un campo amplio y en constante evolución, y que siempre hay más por descubrir y aprender. El enfoque en la reflexión y el diálogo constante lo ayuda a desarrollar habilidades sólidas en la gestión de proyectos y a avanzar en su carrera.</p>
-
-<p>El método socrático <strong>autocuestionarse</strong> para, después, <strong>razonar y debatir</strong> con los otros y ser capaz de llegar a conclusiones por sí mismo. No trata de definir ni de imponer posturas, sino de <strong>estimular la reflexión</strong>. Y cuantos más argumentos se planteen, más se enriquecerá el conocimiento.</p>
-
-<p>Sócrates decía: <em>“El conocimiento comienza con la admiración.”</em> Esta admiración es lo que impulsa las preguntas y la búsqueda de respuestas.</p>
-
-<p>Aplica el método socrático en tu próximo tema de estudio. Haz preguntas, busca respuestas y comparte tus experiencias con tu grupo de estudio o tu mentor.</p>
-
-<p>En resumen, el método socrático es un enfoque poderoso para el aprendizaje que fomenta el pensamiento crítico, la autoexploración y la comprensión profunda. Al hacer preguntas y buscar respuestas de manera activa, te conviertes en un aprendiz más efectivo y autónomo.</p>
-
-<p>¿Has aplicado el método socrático en tu aprendizaje? ¿Tienes alguna pregunta o experiencia que compartir? ¡Déjala en los comentarios y únete a la conversación!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="nota" /><summary type="html"><![CDATA[Si estás leyendo esto, es porque estás en una búsqueda permanente de conocimiento. No es posible saberlo todo, pero eso no quiere decir que no se pueda intentar. Los griegos son famosos por ese deseo de saber más. En este blog post, exploraremos el método socrático y como puedes aplicarlo en tu proceso de aprendizaje para potenciar tu comprensión y pensamiento crítico.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/old_book.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/old_book.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p><strong>ChatGPT</strong> representa una revolución en el aprendizaje moderno al proporcionar a los estudiantes y profesionales una herramienta poderosa para mejorar su comprensión y productividad. A medida que aprovechas sus capacidades, recuerda verificar la precisión de la información y experimentar con diversos estímulos para descubrir nuevas formas de optimizar tu estudio. ¡Descubre el potencial ilimitado de <strong>ChatGPT</strong> en tu viaje educativo!</p>]]></content><author><name>adrian</name></author><category term="estudiar" /><category term="autodidacta" /><category term="nota" /><summary type="html"><![CDATA[En el mundo autodidacta, ChatGPT está transformando la forma en que abordamos el aprendizaje. Sin embargo, aprovechar al máximo su potencial requiere comprender cómo se puede utilizar y cómo utilizarlo eficazmente. Para ayudarte a lograrlo, hemos reunido las estrategias más efectivas y estímulos precisos para utilizar ChatGPT de manera efectiva en tus estudios. ¡Descubre las posibilidades infinitas que ChatGPT tiene para ofrecer!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blogs/girl-talking-to-ai.png" /><media:content medium="image" url="http://localhost:4000/assets/images/blogs/girl-talking-to-ai.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

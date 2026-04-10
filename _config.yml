@@ -30,8 +30,6 @@ authors:
     display_name: Adrian R
     avatar: 'assets/images/adrian.jpg'
     email: codingadrian@gmail.com
-    web: https://www.roblesadrian.com
-    twitter: https://twitter.com/aroblesfuentes
     linkedin: https://www.linkedin.com/in/aroblesfuentes/
     description: "Fundador de Jak U School, un sitio web educacional enfocado en el aprendizaje autodidacta y el desarrollo profesional."
   
@@ -39,7 +37,8 @@ authors:
 social:
   instagram: https://www.instagram.com/jakuschool/
   facebook: https://www.facebook.com/profile.php?id=61552990615035
-  twitter: https://twitter.com/JakUSchool
+  twitter: https://x.com/JakUSchool
+  github: "https://github.com/youruser"
 
 # Plugins
 plugins: 

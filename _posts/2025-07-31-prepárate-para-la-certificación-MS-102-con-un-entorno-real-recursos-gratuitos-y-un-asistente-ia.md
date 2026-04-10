@@ -131,9 +131,3 @@ Estudiar para la MS-102 no tiene por qué ser costoso. Podés practicar con herr
 ✅ Construir experiencia real  
 ✅ Obtener una certificación valiosa  
 ✅ Posicionarte para roles técnicos en empresas de cualquier tamaño
-
----
-
-📩 Si querés recibir más contenido como este, ¡escribime o suscribite al blog!
-
----

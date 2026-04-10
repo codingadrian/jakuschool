@@ -4,18 +4,17 @@ topmenu:
 # - title: 
 #  url: ""
 
-- title: Jak U School
-  url: "jakuschool/"
+- title: Proyectos
+  url: "proyectos/"
 
-- title: Jak U English
-  url: "jakuenglish/"
-
-- title: Arrukö́
-  url: "arruko/"
+- title: Blog
+  url: "blog/"
   
+- title: Quienes Somos
+  url: "quienes-somos/"
+
 - title: Contacto
   url: "contacto/"
-
 
 # Footer Menu
 footermenu:
@@ -24,7 +23,7 @@ footermenu:
   url: ""
 
 - title: Política de Privacidad
-  url: "privacy-policy/"
+  url: "politica-de-privacidad/"
 
 - title: Contacto
-  url: "contact/"
+  url: "contacto/"
